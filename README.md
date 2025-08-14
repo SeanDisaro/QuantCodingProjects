@@ -12,3 +12,7 @@ This is a notebook, where we do some Monte Carlo Black Scholes optoion pricing. 
 
 In this notebook, we predict the volatility of the Tesla stock in advance using a GARCH model and then compare, if this gives us an edge in option pricing when using the Black Scholes formula with just the volatility at the current day.
 
+
+## pe_500s&p_by_sector_industry.ipynb
+
+This notebook scrapes all the S&P500 symbols, then gets the pe ratios and industries from yahoo finance and then checks which companies have a pe ratio which is well below (1 std deviation) under the industries mean pe ratio.
