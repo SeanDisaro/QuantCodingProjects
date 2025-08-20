@@ -4,6 +4,7 @@ We use python 3.13
 
 These are just some fun coding projects which I do as a preparation to being a Quant.
 
+![Alt Text](./animations/probPriceUnder.gif)
 
 ## BlackScholesMonteCarloEuropoeanOptionPricing.ipynb
 This is a notebook, where we do some **Monte Carlo Black Scholes optoion pricing**. We also use a **variance reduction method** for our monte carlo simulation, to improve the results, when we want to predict exotic europeans!
