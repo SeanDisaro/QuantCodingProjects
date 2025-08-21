@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 UBS analyst Timothy Arcuri maintained a Buy rating on Nvidia today and set a price target of $205.00. The company’s shares closed yesterday at $175.40.Arcuri covers the Technology sector, focusing on stocks such as Nvidia, Intel, and Advanced Micro Devices. According to TipRanks, Arcuri has an average return of 32.5% and a 72.25% success rate on recommended stocks. The word on The Street in general, suggests a Strong Buy analyst consensus rating for Nvidia with a $197.97 average price target, which is a 12.87% upside from current levels. In a report released yesterday, Oppenheimer also reiterated a Buy rating on the stock with a $200.00 price target.
 		Based on Nvidia’s latest earnings release for the quarter ending April 27, the company reported a quarterly revenue of $44.06 billion and a net profit of $18.78 billion. In comparison, last year the company earned a revenue of $26.04 billion and had a net profit of $14.88 billionBased on the recent corporate insider activity of 111 insiders, corporate insider sentiment is negative on the stock. This means that over the past quarter there has been an increase of insiders selling their shares of NVDA in relation to earlier this year. Most recently, in June 2025, Mark A Stevens, a Director at NVDA sold 608,248.00 shares for a total of $88,354,104.48.Read More on NVDA:
 Disclaimer & DisclosureReport an IssueCopyright © 2025
     Insider Inc and finanzen.net GmbH (Imprint). All rights reserved.
     Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.
+=======
+Copyright Â© 2025
+        Insider Inc and finanzen.net GmbH (Imprint). All rights reserved.
+        Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.
+>>>>>>> e3efcaa57cd3eef867de2e3bac8564f1d571b4d7
