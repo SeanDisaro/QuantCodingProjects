@@ -12,4 +12,4 @@ except:
 if __name__ == "__main__":
     plotCDFStockPrices()
     createSummaryAndRating(api_key)
-    #updateBulletPoints()
+    updateBulletPoints()
