@@ -1,4 +1,4 @@
 numpy==2.3.2
 matplotlib==3.10.5
 yfinance==0.2.65
-openai==1.100.3
+openai==1.100.1
