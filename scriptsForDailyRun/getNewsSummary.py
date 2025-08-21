@@ -2,6 +2,84 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
+from openai import OpenAI
+import requests
+from bs4 import BeautifulSoup
+from PIL import Image, ImageDraw, ImageFont
+
+def createSummaryAndRating(api_key):
+
+    baseUrl = "https://markets.businessinsider.com/"
+    url ="https://markets.businessinsider.com/news/nvda-stock"
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, "html.parser")
+        headlines = soup.find_all("h2")
+        for headline in headlines:
+            print(headline.text)
+            break
+    else:
+        print("error")
+
+    numArticles = 3
+    news_items = soup.find_all('div', class_='latest-news__story', limit=numArticles)
+
+    removeFromText = ["\n"]
+
+
+    for i in range(numArticles):
+        for a in news_items[i].find_all('a', href=True):
+            responseArticle = requests.get(baseUrl + a["href"])
+            soupArticle = BeautifulSoup(responseArticle.content, "html.parser")
+            paragraphs = soupArticle.find_all("p")
+            txt = [p.get_text() for p in paragraphs]
+            totaltxt = "".join(txt)
+            for removetxt in removeFromText:
+                totaltxt = totaltxt.replace(removetxt, "")
+            
+            with open("./articles/article_" + str(i)+".txt","w") as f:
+                f.write("".join(txt))
+
+
+
+
+    client = OpenAI(api_key=api_key)
+
+    instruction = "Extract 5 Bulletpoints from the following " +str(numArticles) +" articles about NVIDIA. At the very Bottom of your response, give a number from 1 to 10 as a rating on how optimistic the market is for the NVIDIA stock where 1 is very unoptimistic and 10 is very optimistic."
+    prompt = instruction
+    texts = []
+    for i in range(numArticles):
+        with open("./articles/article_" + str(i)+".txt","r") as f:
+            text = f.read()
+        texts.append(text)
+        prompt = prompt + ";;; ARTICLE " +str(i+1) +":  " + text
+
+
+
+    response = client.chat.completions.create(
+        model="gpt-5-nano",
+        messages=[
+            {"role": "system", "content": "You are finantial advisor."},
+            {"role": "user", "content": f"{prompt}"}
+        ]
+    )
+
+
+    responseTxt = response.choices[0].message.content
+    i = 1
+    while(responseTxt[-i].isnumeric()):
+        i +=1
+
+    rating = int( responseTxt[-i+1 :] )
+
+    bulletPoints = responseTxt[ :-i+1]
+    with open("./articles/bulletPointSummary.txt","w") as f:
+                f.write(bulletPoints)
+    
+    plotRating(rating = rating)
+
+
 
 
 def plotRating(rating = 5):
