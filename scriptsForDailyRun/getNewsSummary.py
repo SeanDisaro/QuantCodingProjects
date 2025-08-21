@@ -101,7 +101,7 @@ def plotRating(rating = 5):
 
     # thermometer rating
 
-    fig, ax = plt.subplots(figsize=(4, 4))
+    fig, ax = plt.subplots(figsize=(4, 6))
 
     color = cmap((rating - 1) / 9)
 
