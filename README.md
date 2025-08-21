@@ -14,7 +14,7 @@ If you want to understand how this animation was created, then you can check out
 
 ![image](./pictures/textRating.png)
 
-## Daily Updated Bullet Points for Sentiment Analysis
+## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
 - Wedbush analyst Dan Ives says the market dip is short-term and presents an opportunity to own the AI-driven core winners; Nvidia is expected to remain central to the AI revolution with roughly a 10:1 demand-to-supply ratio for its chips.  
 - Nvidia has fallen about 3% this week amid a broader tech sell-off, but the “1996 moment” analogy and AI rally thesis suggest the upcycle could continue for several years.  
