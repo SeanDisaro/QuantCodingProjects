@@ -1,5 +1,6 @@
 from scriptsForDailyRun.plotCDFStockPrices import *
 from scriptsForDailyRun.getNewsSummary import *
+from scriptsForDailyRun.updateBulletPointsInReadme import *
 import os
 
 try:
@@ -11,3 +12,4 @@ except:
 if __name__ == "__main__":
     plotCDFStockPrices()
     createSummaryAndRating(api_key)
+    updateBulletPoints()

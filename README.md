@@ -15,8 +15,15 @@ If you want to understand how this animation was created, then you can check out
 ![image](./pictures/textRating.png)
 
 ## Daily Updated Bullet Points for Sentiment Analysis
-asdf
+<!-- BulletPointStart -->
+- Mizuho Securities analyst Vijay Rakesh maintained a Buy rating on Nvidia with a price target of $215.00.
+- Nvidia reported for the quarter ending April 27: revenue of $44.06 billion and net profit of $18.78 billion, up from $26.04 billion revenue and $14.88 billion profit in the prior year.
+- Deutsche Bank maintained a Hold rating on Nvidia on the same day.
+- KeyBanc’s John Vinh also issued a Buy rating on Nvidia in a report issued today.
+- Corporate insider sentiment turned negative with 111 insiders selling, including Mark A. Stevens selling 608,248 shares for about $88.35 million in June 2025.
 
+
+<!-- BulletPointEnd -->
 These Bullet Points get updated after every trading day
 ## plotProbabilitesNvidia_UpDown.ipynb
 
