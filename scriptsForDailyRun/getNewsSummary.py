@@ -5,7 +5,7 @@ import numpy as np
 from openai import OpenAI
 import requests
 from bs4 import BeautifulSoup
-from PIL import Image, ImageDraw, ImageFont
+
 
 def createSummaryAndRating(api_key):
 
@@ -101,7 +101,7 @@ def plotRating(rating = 5):
 
     # thermometer rating
 
-    fig, ax = plt.subplots(figsize=(4, 8))
+    fig, ax = plt.subplots(figsize=(2, 4))
 
     color = cmap((rating - 1) / 9)
 
@@ -110,7 +110,7 @@ def plotRating(rating = 5):
     ax.set_ylim(0, 10.5)
     ax.set_xlim(-0.5, 0.5)
 
-    ax.set_title("1-10 Optimism Rating  -NVIDIA stock", fontsize=16)
+    ax.set_title("Optimism Rating-NVIDIA stock", fontsize=16)
     ax.set_ylabel("Rating")
 
     ax.set_xticks([])
@@ -133,19 +133,15 @@ def plotRating(rating = 5):
     plt.savefig("./pictures/ratingPlot.png")
 
     # picture with text rating
-    width, height = 600, 400
+    width, height = 300, 200
     background_color = mcolors.to_hex(color)  
-    text_color = (0, 0, 0)  # White
+    text_color = (0, 0, 0)  
     custom_text = textRating[rating]
 
 
     image = Image.new('RGB', (width, height), color= background_color)
     draw = ImageDraw.Draw(image)
-
-    try:
-        font = ImageFont.truetype("arial.ttf", 50)
-    except IOError:
-        font = ImageFont.load_default()
+    font = ImageFont.truetype("arial.ttf", 50)
 
     bbox = draw.textbbox((0, 0), custom_text, font=font)
     text_width = bbox[2] - bbox[0]
