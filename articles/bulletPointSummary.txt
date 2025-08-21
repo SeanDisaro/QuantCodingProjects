@@ -1,6 +1,6 @@
-- Mizuho Securities analyst Vijay Rakesh maintained a Buy rating on Nvidia with a price target of $215.00.
-- Nvidia reported for the quarter ending April 27: revenue of $44.06 billion and net profit of $18.78 billion, up from $26.04 billion revenue and $14.88 billion profit in the prior year.
-- Deutsche Bank maintained a Hold rating on Nvidia on the same day.
-- KeyBanc’s John Vinh also issued a Buy rating on Nvidia in a report issued today.
-- Corporate insider sentiment turned negative with 111 insiders selling, including Mark A. Stevens selling 608,248 shares for about $88.35 million in June 2025.
+- Wedbush analyst Dan Ives says the market dip is short-term and presents an opportunity to own the AI-driven core winners; Nvidia is expected to remain central to the AI revolution with roughly a 10:1 demand-to-supply ratio for its chips.  
+- Nvidia has fallen about 3% this week amid a broader tech sell-off, but the “1996 moment” analogy and AI rally thesis suggest the upcycle could continue for several years.  
+- TipRanks shows Nvidia among stocks with Strong Buy ratings; among peers in the group, Micron (MU) carries the highest upside potential at about 31% to a $153.81 target.  
+- Regulators in China are moving to restrict Nvidia’s China-specific H20 AI processor sales, following remarks by U.S. officials, signaling potential regulatory headwinds for Nvidia in China.  
+- UBS’s Timothy Arcuri maintains a Buy with a $205 target; Oppenheimer reiterates Buy with a $200 target; Nvidia’s latest quarterly revenue was $44.06B with net profit of $18.78B, while insider selling has been notable (e.g., Mark A. Stevens sold 608,248 shares for ~$88.35M).  
 
