@@ -27,6 +27,32 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python main.py
+
+      - name: Update README
+        run: |
+            CONTENT_FILE="./articles/bulletPointSummary.txt"
+            README_FILE="README.md"
+            
+            # Check if the content file exists
+            if [ ! -f "$CONTENT_FILE" ]; then
+                echo "$CONTENT_FILE not found!"
+                exit 1
+            fi
+
+            START_MARKER="Daily Updated Bullet Points for Sentiment Analysis"
+            END_MARKER="These Bullet Points get updated after every trading day"
+            
+
+            NEW_CONTENT="## Daily Updated Bullet Points for Sentiment Analysis\n${START_MARKER}\n\`\`\`\n$(cat $CONTENT_FILE)\n\`\`\`\n${END_MARKER}"
+
+            # The crazy-looking sed command:
+            # -n: suppress automatic printing
+            # /${START_MARKER}/,/${END_MARKER}/{ ... }: block for lines between markers
+            # /${START_MARKER}/i ...: before the start marker, insert the new content
+            # /${START_MARKER}/,/${END_MARKER}/!p: if not between markers, print the line
+            sed -i -n "/${START_MARKER}/,/${END_MARKER}/{/${START_MARKER}/i\\
+            ${NEW_CONTENT}
+            /${START_MARKER}/,/${END_MARKER}/d;};p" "$README_FILE"
           
       - name: commit files
         run: |

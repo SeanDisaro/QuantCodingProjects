@@ -5,9 +5,19 @@ We use python 3.13
 These are just some fun coding projects which I do as a preparation to being a Quant.
 
 ![Alt Text](./animations/probPriceUnder.gif)
+**This Animation gets updated after every trading day**
 
 If you want to understand how this animation was created, then you can check out the `plotProbabilitesNvidia_UpDown.ipynb` notebook.
 
+## Nvidia sentiment analysis (Automatically updated after every trading day)
+![image](./pictures/ratingPlot.png)
+
+![image](./pictures/textRating.png)
+
+## Daily Updated Bullet Points for Sentiment Analysis
+asdf
+
+These Bullet Points get updated after every trading day
 ## plotProbabilitesNvidia_UpDown.ipynb
 
 This notebook explains how to translate **option prices to probabilities** on where the price of a stock will be at future times. This is used to derive **probability density functions** which illustrate how likeley it is that a stock will be under/above some price at some time. See the animatino above or the following heatmap:
