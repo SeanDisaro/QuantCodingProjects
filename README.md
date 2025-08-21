@@ -16,11 +16,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Wedbush analyst Dan Ives says the market dip is short-term and presents an opportunity to own the AI-driven core winners; Nvidia is expected to remain central to the AI revolution with roughly a 10:1 demand-to-supply ratio for its chips.  
-- Nvidia has fallen about 3% this week amid a broader tech sell-off, but the “1996 moment” analogy and AI rally thesis suggest the upcycle could continue for several years.  
-- TipRanks shows Nvidia among stocks with Strong Buy ratings; among peers in the group, Micron (MU) carries the highest upside potential at about 31% to a $153.81 target.  
-- Regulators in China are moving to restrict Nvidia’s China-specific H20 AI processor sales, following remarks by U.S. officials, signaling potential regulatory headwinds for Nvidia in China.  
-- UBS’s Timothy Arcuri maintains a Buy with a $205 target; Oppenheimer reiterates Buy with a $200 target; Nvidia’s latest quarterly revenue was $44.06B with net profit of $18.78B, while insider selling has been notable (e.g., Mark A. Stevens sold 608,248 shares for ~$88.35M).  
+- Nvidia is back in the spotlight as analysts lift price targets ahead of the Q2 earnings report on August 27, underscoring strong AI demand, market dominance, and easing U.S. export rules.
+
+- Price targets have been raised: KeyBanc’s John Vinh to $215; Susquehanna’s Christopher Rolland to $210, both with Buy ratings; the Street’s consensus (Strong Buy) sits around $196.65 with roughly 12% upside from current levels.
+
+- China revenue potential remains a factor: Nvidia’s forecast may exclude China due to license delays, but including China could add roughly $2–$3 billion in revenue from H20 and RTX6000D chips.
+
+- Data-center momentum and new GB300/GB200 product lines are expected to drive double-digit revenue growth, supported by higher selling prices and stronger margins.
+
+- Option activity and sentiment support optimism: Nvidia is among the biggest growth names in Wednesday’s option flow, and UBS/Oppenheimer price targets (e.g., $205 and $200) reinforce a bullish stance; current price around the mid-to-high $170s suggests meaningful upside.
 
 
 <!-- BulletPointEnd -->
