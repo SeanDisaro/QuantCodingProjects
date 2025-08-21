@@ -7,4 +7,4 @@ except:
     api_key = None
 if __name__ == "__main__":
     plotCDFStockPrices()
-    print()
+    print(api_key[:2])
