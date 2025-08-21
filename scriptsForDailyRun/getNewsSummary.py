@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 
 def createSummaryAndRating(api_key):
-
+    
     baseUrl = "https://markets.businessinsider.com/"
     url ="https://markets.businessinsider.com/news/nvda-stock"
     response = requests.get(url)
@@ -41,7 +41,7 @@ def createSummaryAndRating(api_key):
             with open("./articles/article_" + str(i)+".txt","w") as f:
                 f.write("".join(txt))
 
-
+    
 
 
     client = OpenAI(api_key=api_key)
@@ -77,8 +77,8 @@ def createSummaryAndRating(api_key):
     with open("./articles/bulletPointSummary.txt","w") as f:
                 f.write(bulletPoints)
     
+    
     plotRating(rating = rating)
-
 
 
 
@@ -101,7 +101,7 @@ def plotRating(rating = 5):
 
     # thermometer rating
 
-    fig, ax = plt.subplots(figsize=(2, 4))
+    fig, ax = plt.subplots(figsize=(4, 4))
 
     color = cmap((rating - 1) / 9)
 
@@ -110,7 +110,7 @@ def plotRating(rating = 5):
     ax.set_ylim(0, 10.5)
     ax.set_xlim(-0.5, 0.5)
 
-    ax.set_title("Optimism Rating-NVIDIA stock", fontsize=16)
+    ax.set_title("Optimism Rating\n-NVIDIA stock", fontsize=15)
     ax.set_ylabel("Rating")
 
     ax.set_xticks([])
@@ -129,10 +129,10 @@ def plotRating(rating = 5):
     cbar = fig.colorbar(sm, cax=cbar_ax, orientation='vertical')
     cbar.set_label('Rating Scale', rotation=270, labelpad=15)
 
-    plt.tight_layout(rect=[0, 0, 0.85, 1])
+    #plt.tight_layout()#rect=[0, 0, 0.85, 1])
     plt.savefig("./pictures/ratingPlot.png")
 
-    # picture with text rating
+
     width, height = 300, 200
     background_color = mcolors.to_hex(color)  
     text_color = (0, 0, 0)  
@@ -141,7 +141,7 @@ def plotRating(rating = 5):
 
     image = Image.new('RGB', (width, height), color= background_color)
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype("arial.ttf", 50)
+    font =  ImageFont.load_default(25)
 
     bbox = draw.textbbox((0, 0), custom_text, font=font)
     text_width = bbox[2] - bbox[0]
