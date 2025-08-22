@@ -28,7 +28,8 @@ If you want to understand how this animation was created, then you can check out
 
 
 <!-- BulletPointEnd -->
-These Bullet Points get updated after every trading day
+
+These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
 ## plotProbabilitesNvidia_UpDown.ipynb
 
 This notebook explains how to translate **option prices to probabilities** on where the price of a stock will be at future times. This is used to derive **probability density functions** which illustrate how likeley it is that a stock will be under/above some price at some time. See the animatino above or the following heatmap:
