@@ -16,16 +16,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is back in the spotlight as analysts lift price targets ahead of the Q2 earnings report on August 27, underscoring strong AI demand, market dominance, and easing U.S. export rules.
-
-- Price targets have been raised: KeyBanc’s John Vinh to $215; Susquehanna’s Christopher Rolland to $210, both with Buy ratings; the Street’s consensus (Strong Buy) sits around $196.65 with roughly 12% upside from current levels.
-
-- China revenue potential remains a factor: Nvidia’s forecast may exclude China due to license delays, but including China could add roughly $2–$3 billion in revenue from H20 and RTX6000D chips.
-
-- Data-center momentum and new GB300/GB200 product lines are expected to drive double-digit revenue growth, supported by higher selling prices and stronger margins.
-
-- Option activity and sentiment support optimism: Nvidia is among the biggest growth names in Wednesday’s option flow, and UBS/Oppenheimer price targets (e.g., $205 and $200) reinforce a bullish stance; current price around the mid-to-high $170s suggests meaningful upside.
-
+- Wedbush analyst Dan Ives treats Nvidia’s recent pullback as a short-term dip and an opportunity to own a core AI winner, noting a demand-to-supply ratio of 10:1 for Nvidia’s chips and expecting Nvidia to drive the AI revolution.
+- Ives says the AI boom is powering a tech rally and Nvidia is a central player, with the AI adoption wave just beginning to spread across more companies, potentially sustaining a multi-year bull cycle.
+- Analysts broadly rate Nvidia as a Strong Buy alongside peers (MSFT, AVGO, MU), with price targets clustering in the high $190s to around $200s, signaling mid-teens upside from current levels.
+- Regulators in China are moving to restrict sales of Nvidia’s China-specific AI processor H20, highlighting regulatory and geopolitical risks to Nvidia’s China business amid broader US-China tech tensions.
+- Nvidia’s latest quarterly results show revenue of $44.06 billion and net profit of $18.78 billion; major firms maintain Buy ratings with targets around $200–$205, while insider sentiment turns negative with notable insider selling (e.g., Mark Stevens sold about 608,000 shares for around $88.35 million).
 
 <!-- BulletPointEnd -->
 
