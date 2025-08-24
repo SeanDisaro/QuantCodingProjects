@@ -6,7 +6,7 @@ from bokeh.plotting import figure, show
 from bokeh.layouts import column
 
 
-class backtester:
+class Backtester:
     def __init__(self, assets: list[pd.DataFrame], myStrategy:Strategy, capital:float = 10000, comissions= 0.002):
 
         self.startCapital = capital

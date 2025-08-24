@@ -4,17 +4,18 @@ We use python 3.13
 
 These are just some fun coding projects which I do as a preparation to being a Quant.
 
+
 ![Alt Text](./animations/probPriceUnder.gif)
 **This Animation gets updated after every trading day**
 
 If you want to understand how this animation was created, then you can check out the `plotProbabilitesNvidia_UpDown.ipynb` notebook.
 
-## Nvidia sentiment analysis (Automatically updated after every trading day)
+## Nvidia sentiment analysis (Automatically updated after every trading day with GitHub Actions)
 ![image](./pictures/ratingPlot.png)
 
-![image](./pictures/textRating.png)
+<!--![image](./pictures/textRating.png)-->
 
-## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
+# Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
 - Wedbush analyst Dan Ives treats Nvidia’s recent pullback as a short-term dip and an opportunity to own a core AI winner, noting a demand-to-supply ratio of 10:1 for Nvidia’s chips and expecting Nvidia to drive the AI revolution.
 - Ives says the AI boom is powering a tech rally and Nvidia is a central player, with the AI adoption wave just beginning to spread across more companies, potentially sustaining a multi-year bull cycle.
@@ -29,6 +30,13 @@ These Bullet Points get updated after every trading day. They are based on news 
 
 This notebook explains how to translate **option prices to probabilities** on where the price of a stock will be at future times. This is used to derive **probability density functions** which illustrate how likeley it is that a stock will be under/above some price at some time. See the animatino above or the following heatmap:
 ![image](./pictures/probPriceUnder.png)
+
+## pairsTradingAndIndustryTrading.ipynb
+![image](./pictures/pairsTradingPic.png)
+1) In this notebook we search for correlated stocks in the S&P500. Since we do not want to compute a 500x500 **correlation matrix**, we instead only search for correlated **S&P500 stocks within each industry**. After we find a pair, we find the right scaling factor, to bring the stock prices to the same level (via a **linear regression model without intercept**). After that, we conduct an **Augmented Dickey–Fuller test**, to see if the increments of the two time serieses are in fact **stationary**. Then, we implement a simple **pairs trading strategy** within the backtesting framework, which I have implemented (see `src/backtesting`).
+
+## Backtesting framework
+I implemented a simple backtesting framework. The reason for this is that I was not happy with the python packages I found for backtesting strategies, since they either only work for single asset strategies or they are only supported by older python versions. To see the source code for this, check out `src/backtesting`. There you have a class `Backtester`, which implements (multiple asset) data feeding (via pandas DataFrames), ploting, reporting results and of course the actual backtesting engine. You will also find a class `Strategy`, which is mean to be a parent class which you can inherit to build your own trading strategy.
 
 ## TeslaOptionPriceGARCH.ipynb
 
