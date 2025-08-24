@@ -6,7 +6,8 @@ These are just some fun coding projects which I do as a preparation to being a Q
 
 
 ![Alt Text](./animations/probPriceUnder.gif)
-**This Animation gets updated after every trading day**
+![Alt Text](./animations/probPriceUnderBreedenLitzenberg.gif)
+**These Animations get updated after every trading day**
 
 If you want to understand how this animation was created, then you can check out the `plotProbabilitesNvidia_UpDown.ipynb` notebook.
 
@@ -28,8 +29,12 @@ If you want to understand how this animation was created, then you can check out
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
 ## plotProbabilitesNvidia_UpDown.ipynb
 
-This notebook explains how to translate **option prices to probabilities** on where the price of a stock will be at future times. This is used to derive **probability density functions** which illustrate how likeley it is that a stock will be under/above some price at some time. See the animatino above or the following heatmap:
+This notebook explains how to translate **option prices to probabilities** on where the price of a stock will be at future times.
+We explore **two possibilities to derive these probabilities**. One directly from the option prices and one via the **Breeden Litzenberg formula**
+This is used to derive **probability density functions** which illustrate how likeley it is that a stock will be under/above some price at some time. See the animations above or compare the following heatmaps:
 ![image](./pictures/probPriceUnder.png)
+![image](./pictures/probPriceUnderBreedenLitzenberg.png)
+(These get updated daily)
 
 ## pairsTradingAndIndustryTrading.ipynb
 ![image](./pictures/pairsTradingPic.png)

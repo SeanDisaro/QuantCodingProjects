@@ -22,7 +22,7 @@ def createSummaryAndRating(api_key):
     else:
         print("error")
 
-    numArticles = 3
+    numArticles = 10
     news_items = soup.find_all('div', class_='latest-news__story', limit=numArticles)
 
     removeFromText = ["\n"]
