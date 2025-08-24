@@ -53,7 +53,7 @@ def plotCDFStockPrices():
 
     surf = ax.plot_surface(X, Y, cdf_how_likeley_Stock_Under_Strike, cmap=cm.viridis, edgecolor="none")
 
-    ax.set_title("Cumulative Distribution Function Nvidia Stock over Time (Directly with Stockprice)")
+    ax.set_title("Cumulative Distribution Function Nvidia Stock over Time (From Option Prices)")
     ax.set_xlabel("Date")
     ax.set_ylabel("Stock Price")
     ax.set_zlabel("Probability")
