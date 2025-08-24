@@ -18,12 +18,17 @@ If you want to understand how this animation was created, then you can check out
 
 # Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Wedbush analyst Dan Ives treats Nvidia’s recent pullback as a short-term dip and an opportunity to own a core AI winner, noting a demand-to-supply ratio of 10:1 for Nvidia’s chips and expecting Nvidia to drive the AI revolution.
-- Ives says the AI boom is powering a tech rally and Nvidia is a central player, with the AI adoption wave just beginning to spread across more companies, potentially sustaining a multi-year bull cycle.
-- Analysts broadly rate Nvidia as a Strong Buy alongside peers (MSFT, AVGO, MU), with price targets clustering in the high $190s to around $200s, signaling mid-teens upside from current levels.
-- Regulators in China are moving to restrict sales of Nvidia’s China-specific AI processor H20, highlighting regulatory and geopolitical risks to Nvidia’s China business amid broader US-China tech tensions.
-- Nvidia’s latest quarterly results show revenue of $44.06 billion and net profit of $18.78 billion; major firms maintain Buy ratings with targets around $200–$205, while insider sentiment turns negative with notable insider selling (e.g., Mark Stevens sold about 608,000 shares for around $88.35 million).
+- Nvidia halted H20 AI chip production for China over security concerns and is pursuing a modified Blackwell design (lower power, ~80% of top performance) to try to win regulatory approval; China remains a key market with potential Chinese AI-chip spend estimated by analysts at over $15B, while a 15% of H20 revenue would need to go to the US Treasury if licenses are granted.
 
+- The stock remains very buoyant on Wall Street, with a Strong Buy consensus across analysts (roughly 35+ buys vs. a few holds/sells); average price targets are in the high-$190s to low-$200s, implying about 11%–12% upside (some reports note up to ~14%).
+
+- Ahead of the Q2 FY26 results, analysts expect roughly $1.01 EPS on about $45.9B in revenue; demand from AI/data-center workloads is strong, though China-related sales may be excluded from guidance pending license clearances.
+
+- Valuation remains rich but supported by growth: forward P/E around the low- to mid-30s (with some commentary noting it’s high but justified by rapid earnings growth), and targets imply modest single-digit to low-double-digit upside relative to current levels.
+
+- Near-term catalysts include the rollout of next-generation GPUs (Blackwell/Ultra, GB300) and continued AI demand momentum; supply is largely sold out for the coming year, which underpins growth but adds sensitivity to regulatory and China-related developments.
+
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
