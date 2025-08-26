@@ -5,7 +5,7 @@ We use python 3.13
 These are just some fun coding projects which I do as a preparation to being a Quant.
 
 # Overview
-1) Sentiment Analysis Nvidia Stock with Chat GPT + Probabilities where Stock will go from option prices and Breeden Litzenberg
+1) Sentiment Analysis Nvidia Stock with Chat GPT + Probabilities where Stock will go from option prices and Breeden Litzenberg (Daily Updated with GitHub Actions)
 2) Trading Strategies and Backtesting with own Backtesting Framework
 3) Prediction Tesla Option Prices wiht GARCH
 4) S&P500 Stocks PE ratio filter (I use this for own retail investments)
