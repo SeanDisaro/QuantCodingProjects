@@ -55,7 +55,11 @@ This is used to derive **probability density functions** which illustrate how li
 1) In this notebook we search for correlated stocks in the S&P500. Since we do not want to compute a 500x500 **correlation matrix**, we instead only search for correlated **S&P500 stocks within each industry**. After we find a pair, we find the right scaling factor, to bring the stock prices to the same level (via a **linear regression model without intercept**). After that, we conduct an **Augmented Dickey–Fuller test**, to see if the increments of the two time serieses are in fact **stationary**. Then, we implement a simple **pairs trading strategy** within the backtesting framework, which I have implemented (see `src/backtesting`). (Above Picture of this strategy)
 
 ![image](./pictures/MultipleStocksTrading.png)
-2) We also implement a mean reversion strategy with multiple stocks. We focus on bank stocks, which have a high VIF. The mean reversion is done with a linear model (without intercept, since assumption is, that if one correlated stock goes to zero than so do the other correlated sotcks), where the parameters are chosen to best resemble the bank stock with the highest VIF amongst the chosen ones, with the other stocks, i.e. X_{HighVif} = \beta _1 X_1 + ... +\beta _N X_N , where X_{HighVif}  and X_i are stocks of banks. If 
+2) We also implement a mean reversion strategy with multiple stocks. We focus on bank stocks, which have a high VIF. The mean reversion is done with a linear model (without intercept, since assumption is, that if one correlated stock goes to zero than so do the other correlated sotcks), where the parameters are chosen to best resemble the bank stock with the highest VIF amongst the chosen ones, with the other stocks, i.e. 
+
+X_{HighVif} = \beta _1 X_1 + ... +\beta _N X_N , where X_{HighVif}
+
+  and X_i are stocks of banks. If 
 
 |I| = |\beta _1 X_1 + ... +\beta _N X_N  - X_{HighVif}| > B
 
