@@ -57,9 +57,9 @@ This is used to derive **probability density functions** which illustrate how li
 ![image](./pictures/MultipleStocksTrading.png)
 2) We also implement a mean reversion strategy with multiple stocks. We focus on bank stocks, which have a high VIF. The mean reversion is done with a linear model (without intercept, since assumption is, that if one correlated stock goes to zero than so do the other correlated sotcks), where the parameters are chosen to best resemble the bank stock with the highest VIF amongst the chosen ones, with the other stocks, i.e. 
 
-X_{HighVif} = \beta _1 X_1 + ... +\beta _N X_N , where X_{HighVif}
+X_{HighVif} = \beta _1 X_1 + ... +\beta _N X_N,
 
-  and X_i are stocks of banks. If 
+where X_{HighVif} and X_i are stocks of banks. If 
 
 |I| = |\beta _1 X_1 + ... +\beta _N X_N  - X_{HighVif}| > B
 
