@@ -8,11 +8,17 @@ import numpy as np
 
 
 def get_SP500_Symbols():
-    URL = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
-    tables = pd.read_html(URL)
+    url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
 
-    sp500_Symbols = list(tables[0]["Symbol"]) 
-    return sp500_Symbols
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    }
+
+    response = requests.get(url, headers=headers)
+
+    payload = pd.read_html(response.text)
+    sp500_table = payload[0]
+    return list(sp500_table.Symbol)
 
 
 
