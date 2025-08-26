@@ -1,11 +1,11 @@
-- Nvidia halted H20 AI chip production for China amid security concerns and is pursuing a modified Blackwell design that could win regulatory approval; China remains a crucial market with estimates of substantial AI chip spending available this year (over $15B) if approvals come through.
+- NVIDIA Jetson AGX Thor debuts as an edge AI robotics platform: delivers up to 2,070 FP4 teraflops of AI compute at a 130-watt envelope, with 128 GB memory and about 7.5x higher AI compute vs Jetson Orin. 
 
-- The stock remains highly favored by analysts, with a Strong Buy consensus and upside targets typically in the 11%–14% range (examples include targets around $199, $210, and $215).
+- Early adopters across robotics and industrial sectors are on board: Agility Robotics, Amazon Robotics, Boston Dynamics, Caterpillar, Figure, Hexagon, Medtronic, and Meta are evaluating or using Jetson Thor, leveraging NVIDIA’s full edge software stack (Jetson, Isaac, Metropolis, Holoscan).
 
-- Data-center AI GPU demand is the growth engine, with Nvidia’s GPUs currently in tight supply and production capacity booked for the coming year; new GB300 and Blackwell Ultra initiatives are expected to support continued growth.
+- Analysts are increasingly optimistic about NVDA stock on AI-driven demand and new product cycles: targets cited include $225 (26% upside) from Baird for GB300 timing, with other reports showing upside estimates in the teens to high teens percent ranges.
 
-- Near-term earnings expectations are for a strong Q2 FY26 (EPS around $1.01 on about $45.9B revenue), with potential upside if guidance is raised; China-related revenue remains a risk factor that could temper gains.
+- NVDA’s data-center and networking momentum continues: Spectrum-X adoption by cloud providers and partners (e.g., Meta, xAI) and the expansion of ConnectX-8 chips targeting the AI server market, along with the Nvidia Cloud Partners program.
 
-- Valuation remains rich but justified by rapid growth: P/E in the high 40s, PEG near 1.3–1.4, and multiple analyst upgrades signaling confidence in Nvidia’s AI-led trajectory despite regulatory and geopolitical uncertainties.
+- Real-world GPU demand is broadening beyond the data center: IREN is expanding its NVIDIA Blackwell GPU fleet to about 8.5k units (4.2k additional GPUs, ~ $193 million), financed via a 36-month lease, highlighting growing AI-cloud capacity and related compute demand. 
 
-Market optimism rating: 
+Bottom line market optimism rating for NVDA stock: 
