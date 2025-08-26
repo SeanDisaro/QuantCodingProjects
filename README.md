@@ -18,15 +18,15 @@ If you want to understand how this animation was created, then you can check out
 
 # Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia halted H20 AI chip production for China over security concerns and is pursuing a modified Blackwell design (lower power, ~80% of top performance) to try to win regulatory approval; China remains a key market with potential Chinese AI-chip spend estimated by analysts at over $15B, while a 15% of H20 revenue would need to go to the US Treasury if licenses are granted.
+- Nvidia halted H20 AI chip production for China amid security concerns and is pursuing a modified Blackwell design that could win regulatory approval; China remains a crucial market with estimates of substantial AI chip spending available this year (over $15B) if approvals come through.
 
-- The stock remains very buoyant on Wall Street, with a Strong Buy consensus across analysts (roughly 35+ buys vs. a few holds/sells); average price targets are in the high-$190s to low-$200s, implying about 11%–12% upside (some reports note up to ~14%).
+- The stock remains highly favored by analysts, with a Strong Buy consensus and upside targets typically in the 11%–14% range (examples include targets around $199, $210, and $215).
 
-- Ahead of the Q2 FY26 results, analysts expect roughly $1.01 EPS on about $45.9B in revenue; demand from AI/data-center workloads is strong, though China-related sales may be excluded from guidance pending license clearances.
+- Data-center AI GPU demand is the growth engine, with Nvidia’s GPUs currently in tight supply and production capacity booked for the coming year; new GB300 and Blackwell Ultra initiatives are expected to support continued growth.
 
-- Valuation remains rich but supported by growth: forward P/E around the low- to mid-30s (with some commentary noting it’s high but justified by rapid earnings growth), and targets imply modest single-digit to low-double-digit upside relative to current levels.
+- Near-term earnings expectations are for a strong Q2 FY26 (EPS around $1.01 on about $45.9B revenue), with potential upside if guidance is raised; China-related revenue remains a risk factor that could temper gains.
 
-- Near-term catalysts include the rollout of next-generation GPUs (Blackwell/Ultra, GB300) and continued AI demand momentum; supply is largely sold out for the coming year, which underpins growth but adds sensitivity to regulatory and China-related developments.
+- Valuation remains rich but justified by rapid growth: P/E in the high 40s, PEG near 1.3–1.4, and multiple analyst upgrades signaling confidence in Nvidia’s AI-led trajectory despite regulatory and geopolitical uncertainties.
 
 Market optimism rating: 
 <!-- BulletPointEnd -->
