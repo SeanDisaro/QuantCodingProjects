@@ -1,11 +1,11 @@
-- NVIDIA Jetson AGX Thor debuts as an edge AI robotics platform: delivers up to 2,070 FP4 teraflops of AI compute at a 130-watt envelope, with 128 GB memory and about 7.5x higher AI compute vs Jetson Orin. 
+- Nvidia stock (NVDA) was approaching a split-adjusted all-time high, with shares up around 1% on Aug 26 ahead of its after-hours earnings report.
 
-- Early adopters across robotics and industrial sectors are on board: Agility Robotics, Amazon Robotics, Boston Dynamics, Caterpillar, Figure, Hexagon, Medtronic, and Meta are evaluating or using Jetson Thor, leveraging NVIDIA’s full edge software stack (Jetson, Isaac, Metropolis, Holoscan).
+- NVIDIA RTX PRO Server platforms, powered by RTX PRO 6000 Blackwell GPUs, are being adopted by major enterprises (Disney, Foxconn, Hitachi, Hyundai, Lilly, SAP, TSMC) to accelerate AI workloads, design, and simulation.
 
-- Analysts are increasingly optimistic about NVDA stock on AI-driven demand and new product cycles: targets cited include $225 (26% upside) from Baird for GB300 timing, with other reports showing upside estimates in the teens to high teens percent ranges.
+- Humain (Saudi Arabia) plans to acquire 18,000 of Nvidia’s newest AI chips as part of its AI-infrastructure push, with analysts showing strong Nvidia sentiment and upside targets around $199.94.
 
-- NVDA’s data-center and networking momentum continues: Spectrum-X adoption by cloud providers and partners (e.g., Meta, xAI) and the expansion of ConnectX-8 chips targeting the AI server market, along with the Nvidia Cloud Partners program.
+- Broadcom and VMware are expanding NVIDIA AI capabilities in private clouds, adding Blackwell GPUs and integrating with VMware Private AI Foundation to accelerate enterprise AI deployments.
 
-- Real-world GPU demand is broadening beyond the data center: IREN is expanding its NVIDIA Blackwell GPU fleet to about 8.5k units (4.2k additional GPUs, ~ $193 million), financed via a 36-month lease, highlighting growing AI-cloud capacity and related compute demand. 
+- Nvidia Rubin product launches are cited as a potential growth catalyst for AI data centers, with mentions of late-next-year availability as part of industry commentary. 
 
-Bottom line market optimism rating for NVDA stock: 
+Market optimism rating for NVIDIA stock: 
