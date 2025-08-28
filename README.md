@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia stock (NVDA) was approaching a split-adjusted all-time high, with shares up around 1% on Aug 26 ahead of its after-hours earnings report.
+- Q2 FY2026 revenue was $46.7 billion (up 56% YoY and 6% QoQ); Blackwell Data Center revenue grew 17% sequentially; gross margins were approximately 72.4% GAAP and 72.7% non-GAAP (72.3% non-GAAP excluding a $180M H20 release).  
+- Blackwell platform momentum: described as the AI platform the world has been waiting for, with ramping Blackwell Ultra production and NVLink rack-scale computing driving substantial gains in training and inference performance.  
+- China/H20 export exposure: no H20 sales to China in the quarter; $180 million release of previously reserved H20 inventory; ongoing export license considerations potentially affecting future China sales.  
+- Capital allocation: NVIDIA returned $24.3 billion to shareholders in the first half of fiscal 2026 via buybacks and dividends; $14.7 billion remaining under its share repurchase authorization; an additional $60.0 billion authorization approved; next quarterly dividend of $0.01 per share on Oct 2, 2025.  
+- Market outlook and sentiment: quarterly guidance and bullish analyst consensus reflect optimism, with expectations of a revenue run-rate near $45B–$46B+ for Q3 FY2026; 12-month price targets around the high $190s to $200s, implying roughly 10% upside; though risks include AI market debate and China-sales uncertainty.  
 
-- NVIDIA RTX PRO Server platforms, powered by RTX PRO 6000 Blackwell GPUs, are being adopted by major enterprises (Disney, Foxconn, Hitachi, Hyundai, Lilly, SAP, TSMC) to accelerate AI workloads, design, and simulation.
-
-- Humain (Saudi Arabia) plans to acquire 18,000 of Nvidia’s newest AI chips as part of its AI-infrastructure push, with analysts showing strong Nvidia sentiment and upside targets around $199.94.
-
-- Broadcom and VMware are expanding NVIDIA AI capabilities in private clouds, adding Blackwell GPUs and integrating with VMware Private AI Foundation to accelerate enterprise AI deployments.
-
-- Nvidia Rubin product launches are cited as a potential growth catalyst for AI data centers, with mentions of late-next-year availability as part of industry commentary. 
-
-Market optimism rating for NVIDIA stock: 
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
