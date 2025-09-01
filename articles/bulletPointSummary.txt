@@ -1,6 +1,10 @@
-- Nvidia posted strong Q2 results: revenue about $46.7B (up 56% YoY) and data-center revenue $41.1B (also up 56%), underscoring robust AI infrastructure demand.
-- Despite the beat, the stock traded lower in pre-market action and guidance for the next quarter was around $54B, signaling a mixed near-term market reaction.
-- Analysts remain broadly bullish with price targets near $200–$210 and a strong Buy consensus (e.g., several price targets around $205–$209; some reports noting upside around 12–15%).
-- AI infrastructure spend remains a key driver: Huang expects $3–4 trillion in AI infrastructure spending by year-end of the decade; Nvidia’s chips remain in tight supply, with potential H20 revenue in China contingent on licensing.
-- There was notable bullish activity in NVDA options, including large positions in 8/29 weekly 200 calls, signaling continued investor optimism. 
+- Nvidia is cited in a high-profile insider-trading example involving Nancy Pelosi and her husband, using Nvidia trades to illustrate potential conflicts and the push for tighter rules on lawmakers’ stock trades.
+
+- Nvidia’s Q2 2026 revenue shows concentration risk: two unnamed direct customers accounted for 39% of revenue (about $18.2B of $46.7B), while data-center sales rely heavily on a few large customers via indirect channels.
+
+- Nvidia posted strong Q2 results with $46.7B in revenue and adjusted EPS of $1.04; multiple analysts raised price targets (e.g., KeyBanc to $230, Truist to $228, Mizuho bullish), supporting a continued bullish stance.
+
+- The company faces potential policy headwinds from a proposed 15% tariff on US chip sales to China, but Nvidia management suggests shipments could continue unless the rule is enacted; current sentiment remains positively biased with notable upside embedded in targets.
+
+- Nvidia GPUs underpin Microsoft’s in-house MAI AI models (MAI-Voice-1 and MAI-1-preview), training on Nvidia H100 GPUs, underscoring Nvidia’s central role in AI infrastructure.
 
