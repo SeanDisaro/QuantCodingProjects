@@ -26,13 +26,12 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia’s latest quarter beat on both revenue and earnings with positive guidance, but Data Center growth was only 5% sequentially and Compute declined 1%, signaling a softer near-term AI demand backdrop.
-- The stock remains broadly favored by analysts, with a Strong Buy consensus and 12-month targets around $209–$213, implying roughly 20%+ upside; one bearish target as low as $100 exists.
-- Regulatory and geopolitical headwinds loom, including US restrictions on AI/chip exports to China and ongoing delays in obtaining necessary approvals, which could restrain China demand.
-- Revenue concentration risk is rising, as two unnamed direct customers accounted for a substantial share of revenue, underscoring potential volatility from large buyers’ spending shifts.
-- Retail investor interest has been strong but cooling overall; Nvidia still attracts notable weekly inflows, reflecting continued enthusiasm for AI names while broader AI hype shows signs of moderation.
+- Nvidia has stated there are no supply issues with its H100, H200, or Blackwell GPUs; cloud partners can rent existing stock and selling the H20 does not reduce supply of other Nvidia products. 
+- Wall Street remains upbeat with a Strong Buy consensus on NVDA (34 Buys, 3 Holds, 1 Sell in the past 3 months) and an average price target of about $210.75, implying roughly 24.5% upside potential.
+- Despite the reassurances, Nvidia’s stock fell more than 2% at the time of the report, signaling investor caution around supply-chain dynamics and demand in AI chips.
+- Nvidia sits within a broader AI/robotics expansion, including Runway AI’s shift into robotics and autonomous training—with Runway backed by Nvidia and Alphabet—highlighting potential overlap and competition in AI-driven simulation and training environments.
+- The market faces concentration risk with Nvidia accounting for a sizable share of the S&P 500 (around 8%), which could pose risks if Nvidia hits a setback, even as growth fundamentals and AI-driven demand support optimism.
 
-Optimism rating (1-10): 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
