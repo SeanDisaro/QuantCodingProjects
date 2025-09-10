@@ -1,10 +1,6 @@
-- Nvidia’s strategic push into quantum computing deepens via NVentures’ stake in Quantinuum, aligning CUDA Quantum with hybrid quantum/classical workloads and a hardware/software development path including Helios. (Article 2)
-
-- Nvidia remains the dominant force in the AI GPU market, with rivals like Broadcom and AMD attempting to encroach with custom chips, but Nvidia still leads AI workloads and GPU economics. (Article 5)
-
-- Investor sentiment on Nvidia is broadly bullish, with multiple Strong Buy consensus signals and notable upside targets; Nvidia is highlighted as offering among the highest upside in AI-related stocks. (Articles 6, 9)
-
-- Nvidia sits at the center of a broader AI ecosystem shift, as OpenAI pursues in-house chips with Broadcom while Nvidia’s ecosystem—through CUDA Quantum and Quantinuum ties—positions it for integrated quantum/classical AI workloads. (Articles 9, 2)
-
-- Nvidia is among the mega-cap tech leaders nearing or reinforcing multi-trillion valuations, with references to Microsoft and others approaching a $4 trillion club and Nvidia’s prominent market-cap status. (Articles 8, 6)
+- NVIDIA Rubin CPX is a new CUDA GPU class for massive-context AI, built to pair with Vera Rubin CPUs and Rubin GPUs in the Vera Rubin NVL144 CPX platform, delivering 8 exaflops of AI compute and 1.7 petabytes per second of memory bandwidth per rack (about 7.5x faster AI performance vs the GB300 NVL72 system). 
+- It enables long-context processing, allowing models to reason across up to 1 million tokens for tasks like million-token code contexts and long-format video, with integrated video decoders/encoders and long-context inference on a single chip. 
+- Rubin CPX comes in multiple configurations (e.g., Vera Rubin NVL144 CPX) and is designed to interoperate with NVIDIA Quantum‑X800 InfiniBand and Spectrum‑X Ethernet networking, plus 128GB of cost-efficient GDDR7 memory and 3x faster attention capabilities. 
+- The software stack backing Rubin CPX includes NVIDIA CUDA‑X libraries, NVIDIA CUDA ecosystem, the NVIDIA Dynamo platform for AI inference, Nemotron models, and NVIDIA AI Enterprise for production-grade AI deployments, with availability expected by the end of 2026. 
+- Industry interest is strong, with early adopters and partners (Cursor, Runway, Magic) highlighting productivity gains from Rubin CPX and the potential for monetization through token-based revenue models (e.g., $5 billion in token revenue for every $100 million invested). 
 
