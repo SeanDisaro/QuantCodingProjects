@@ -1,6 +1,6 @@
-- NVIDIA Rubin CPX is a new CUDA GPU class for massive-context AI, built to pair with Vera Rubin CPUs and Rubin GPUs in the Vera Rubin NVL144 CPX platform, delivering 8 exaflops of AI compute and 1.7 petabytes per second of memory bandwidth per rack (about 7.5x faster AI performance vs the GB300 NVL72 system). 
-- It enables long-context processing, allowing models to reason across up to 1 million tokens for tasks like million-token code contexts and long-format video, with integrated video decoders/encoders and long-context inference on a single chip. 
-- Rubin CPX comes in multiple configurations (e.g., Vera Rubin NVL144 CPX) and is designed to interoperate with NVIDIA Quantum‑X800 InfiniBand and Spectrum‑X Ethernet networking, plus 128GB of cost-efficient GDDR7 memory and 3x faster attention capabilities. 
-- The software stack backing Rubin CPX includes NVIDIA CUDA‑X libraries, NVIDIA CUDA ecosystem, the NVIDIA Dynamo platform for AI inference, Nemotron models, and NVIDIA AI Enterprise for production-grade AI deployments, with availability expected by the end of 2026. 
-- Industry interest is strong, with early adopters and partners (Cursor, Runway, Magic) highlighting productivity gains from Rubin CPX and the potential for monetization through token-based revenue models (e.g., $5 billion in token revenue for every $100 million invested). 
+- Nvidia NVDA saw notable options activity, with a surge in overall volume and new positions including Nov-25 165 and 170 calls, signaling bullish near-term sentiment. 
+- Nvidia participates as an investor via its NVentures arm in PsiQuantum’s funding round, valuing PsiQuantum at about $7 billion and aiming to link GPUs with quantum systems for scalable quantum projects. 
+- Nvidia GPUs are fueling AI data-center expansion, with partners like IREN receiving thousands of Nvidia GPUs and joining Nvidia’s Preferred Partner Program to scale AI cloud capabilities. 
+- Analysts remain broadly positive on Nvidia, with the stock landing Buy ratings from many top analysts and 12-month targets implying roughly 25% upside. 
+- Nvidia faces competition in the AI-chip space, notably from Broadcom’s push into custom AI accelerators, though Nvidia continues to lead in general-purpose GPUs for AI workloads. 
 
