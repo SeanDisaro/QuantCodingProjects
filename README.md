@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia and OpenAI announced a strategic partnership to deploy at least 10 gigawatts of Nvidia-powered AI data-center compute, with Nvidia investing up to $100 billion; first phase targeted online in the second half of 2026 using the Vera Rubin platform.
+- Nvidia is bolstering OpenAI’s AI infra with a strategic partnership and an investment of up to $100 billion to deploy at least 10 gigawatts of Nvidia systems, with the first phase online in 2H 2026 and the Vera Rubin platform underpinning the rollout. OpenAI is positioned as a preferred compute partner.
 
-- Analysts project a substantial long-term revenue impact from the OpenAI collaboration, with some estimates suggesting $300 billion to $500 billion in Nvidia revenue over time, and about $35 billion in revenue per 1 GW of compute.
+- The market sentiment on NVDA remains bullish, with a Strong Buy consensus from Wall Street (example: about 36 Buys, 2 Holds, 1 Sell in the past three months) and an average price target near $211.61, implying roughly 15% upside. Other notes show targets in the $210–$235 range.
 
-- The stock remains broadly supported by analysts, with a Strong Buy consensus and price targets around $211.61 (implying roughly mid-teens to ~20% upside); other targets cited span roughly $200–$235.
+- The deal is framed by analysts as potentially massive in revenue terms, with estimates like $300 billion to $500 billion in revenue over time (roughly 3–5x ROI) linked to Nvidia’s role in powering OpenAI’s AI data centers.
 
-- Real-world demand for Nvidia GPUs is evident, e.g., IREN’s $670 million GPU purchase (Nvidia and AMD) signaling robust AI cloud capacity expansion and demand for Nvidia hardware.
+- While optimistic, there are caveats: concerns that Nvidia could be viewed as the “investor of last resort” for OpenAI, potential accounting/regulatory questions around such a large investment, and ongoing competition from Broadcom, AMD, and other chipmakers.
 
-- The partnership raises strategic/competitive considerations, including Nvidia’s perceived crucial role for OpenAI (potentially as “investor of last resort”) and questions around accounting treatment, with implications for peers like Broadcom and AMD. 
+- The collaboration ecosystem is expanding beyond OpenAI, with real-world GPU demand evidenced by large GPU purchases (e.g., IREN’s $670 million Nvidia/AMD GPU procurement) and related partnerships and initiatives (joint labs in the Middle East, Google TV Gemini integration, cloud and enterprise collaborations), reinforcing Nvidia’s growth trajectory in AI compute.
 
-Rating: 
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
