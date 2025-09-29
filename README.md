@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVDA has a strong analyst consensus (Strong Buy) with target prices around $212, implying about 19–20% upside on average.  
-- NVIDIA is playing a central role in OpenAI’s data-center push, with reports that Nvidia could invest up to $100 billion to support OpenAI; discussions include possible chip leasing structures.  
-- NVDA GPUs are in high demand for AI cloud initiatives, illustrated by IREN’s plan to spend heavily on Nvidia GPUs (about $670 million) to power its AI cloud and next-gen Blackwell chips.  
-- The NVIDIA ecosystem is expanding through partnerships and competitive dynamics, including talk of Intel’s multi-frame generation competing with Nvidia, and Nvidia-backed Cohere integration within AMD’s enterprise AI portfolio.  
-- Near-term market activity shows some mixed sentiment and volatility for NVDA (options with mixed flow, implied move, and shares trading in the mid‑$170s), even as long‑term analyst targets suggest continued upside.  
+- Nvidia is poised to benefit from the U.S. AI/quantum policy push and the broader semiconductor emphasis, as federal backing and demand for AI training chips could lift Nvidia’s outlook. (Article 2)
 
-Optimism rating for NVDA stock: 
+- Nvidia is a central player in OpenAI’s expansion plans, with OpenAI targeting deployment of Nvidia systems and Nvidia signaling a potential up to $100 billion investment in OpenAI, plus joint roadmap optimization for AI infrastructure. (Articles 6 and 7)
+
+- Nvidia is highlighted as the standout stock in the AI-smart-glasses supply chain, signaling strong upside from the AI wearables wave and the broader AI hardware ecosystem. (Article 5)
+
+- Nvidia’s partnerships and commitments are expanding, including an amended Master Services Agreement with CoreWeave and a major OpenAI-related deal, underscoring ongoing growth in Nvidia-powered data-center capacity. (Articles 6 and 7)
+
+- Nvidia tooling and GPUs are being integrated by major cloud platforms, such as Alibaba Cloud’s use of Nvidia AI development tools, illustrating broad adoption of Nvidia technologies across enterprise AI deployments. (Article 7)
+
+
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
