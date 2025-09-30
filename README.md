@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is poised to benefit from the U.S. AI/quantum policy push and the broader semiconductor emphasis, as federal backing and demand for AI training chips could lift Nvidia’s outlook. (Article 2)
+- NVIDIA released the beta of Newton, an open-source GPU-accelerated physics engine, integrated into NVIDIA Isaac Lab to accelerate robotics development and real-world transfer from simulation.
 
-- Nvidia is a central player in OpenAI’s expansion plans, with OpenAI targeting deployment of Nvidia systems and Nvidia signaling a potential up to $100 billion investment in OpenAI, plus joint roadmap optimization for AI infrastructure. (Articles 6 and 7)
+- The new Isaac GR00T N1.6 robot foundation model adds Cosmos Reason, a reasoning vision-language brain that turns vague instructions into step-by-step plans using prior knowledge and physics.
 
-- Nvidia is highlighted as the standout stock in the AI-smart-glasses supply chain, signaling strong upside from the AI wearables wave and the broader AI hardware ecosystem. (Article 5)
+- New Cosmos World Foundation Models (WFMs) expand data-generation capabilities for physical AI training, enabling scalable data creation across text, image, and video prompts, with support from NVIDIA Cosmos Reason for reasoning tasks.
 
-- Nvidia’s partnerships and commitments are expanding, including an amended Master Services Agreement with CoreWeave and a major OpenAI-related deal, underscoring ongoing growth in Nvidia-powered data-center capacity. (Articles 6 and 7)
+- Isaac Lab 2.3 introduces a dexterous grasping workflow for multi-fingered hands and arms, trained in virtual environments with automated curricula; the workflow is being used by leading developers (e.g., Boston Dynamics’ Atlas) to improve manipulation in unpredictable settings; NVIDIA is also promoting an open Isaac Lab – Arena framework for scalable policy evaluation.
 
-- Nvidia tooling and GPUs are being integrated by major cloud platforms, such as Alibaba Cloud’s use of Nvidia AI development tools, illustrating broad adoption of Nvidia technologies across enterprise AI deployments. (Article 7)
+- The OpenAI-NVIDIA partnership is expanding, with plans to invest up to $100 billion in OpenAI data centers (initial deployment of $10 billion) to support growing compute demand; this collaboration supports a bull case for NVIDIA, reinforced by bullish price targets (approximately $212–$240 in various analyst notes) and Strong Buy ratings across multiple firms.
 
-
+Market optimism rating for NVDA stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
