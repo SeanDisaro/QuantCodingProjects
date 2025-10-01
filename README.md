@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVIDIA released the beta of Newton, an open-source GPU-accelerated physics engine, integrated into NVIDIA Isaac Lab to accelerate robotics development and real-world transfer from simulation.
+- Nvidia is a key enabler of Alibaba’s AI push, via AliCloud’s cloud demand for AI infrastructure, the Qwen3-Max model, a partnership on physical AI, and data-center rollouts in Brazil, France, and the Netherlands. 
 
-- The new Isaac GR00T N1.6 robot foundation model adds Cosmos Reason, a reasoning vision-language brain that turns vague instructions into step-by-step plans using prior knowledge and physics.
+- Nvidia stock remains highly bullish among analysts, with a Strong Buy consensus (across 17 Buys, 2 Holds) and an average target around $212.78, implying roughly 19% upside from current levels.
 
-- New Cosmos World Foundation Models (WFMs) expand data-generation capabilities for physical AI training, enabling scalable data creation across text, image, and video prompts, with support from NVIDIA Cosmos Reason for reasoning tasks.
+- OpenAI’s AI data-center expansion is anchored by Nvidia chips, with Nvidia taking an equity stake in OpenAI (reported as $100 billion) and OpenAI’s centers earmarking a large share of spending for Nvidia technology.
 
-- Isaac Lab 2.3 introduces a dexterous grasping workflow for multi-fingered hands and arms, trained in virtual environments with automated curricula; the workflow is being used by leading developers (e.g., Boston Dynamics’ Atlas) to improve manipulation in unpredictable settings; NVIDIA is also promoting an open Isaac Lab – Arena framework for scalable policy evaluation.
+- Nvidia has crossed a historic milestone with a market cap above $4.5 trillion, the stock up about 38% year-to-date, and Citi raising its price target to $210 amid stronger AI infrastructure demand.
 
-- The OpenAI-NVIDIA partnership is expanding, with plans to invest up to $100 billion in OpenAI data centers (initial deployment of $10 billion) to support growing compute demand; this collaboration supports a bull case for NVIDIA, reinforced by bullish price targets (approximately $212–$240 in various analyst notes) and Strong Buy ratings across multiple firms.
+- Nvidia is broadening its enterprise footprint through integrations and partnerships, including UiPath leveraging Nvidia’s Nemotron and NIM, Google’s Gemini, and Snowflake Cortex AI, signaling deepening adoption of Nvidia-powered AI across industries.
 
-Market optimism rating for NVDA stock: 
+Optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
