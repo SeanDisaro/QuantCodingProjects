@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is a key enabler of Alibaba’s AI push, via AliCloud’s cloud demand for AI infrastructure, the Qwen3-Max model, a partnership on physical AI, and data-center rollouts in Brazil, France, and the Netherlands. 
+- Nvidia is positioned to benefit from a surge in AI infrastructure spending, with Citi raising its price target to $210 and a 12-month target around $213.35, while the consensus remains Buy.
 
-- Nvidia stock remains highly bullish among analysts, with a Strong Buy consensus (across 17 Buys, 2 Holds) and an average target around $212.78, implying roughly 19% upside from current levels.
+- The Rubin CPX roadmap, including the Vera Rubin line, introduces a new class of GPUs for massive-context processing, aiming to boost AI workloads without replacing existing products.
 
-- OpenAI’s AI data-center expansion is anchored by Nvidia chips, with Nvidia taking an equity stake in OpenAI (reported as $100 billion) and OpenAI’s centers earmarking a large share of spending for Nvidia technology.
+- Nvidia’s OpenAI investment arrangement involves Nvidia potentially taking an equity stake if OpenAI builds capacity milestones; the structure is milestone-based and not tied to product shipments.
 
-- Nvidia has crossed a historic milestone with a market cap above $4.5 trillion, the stock up about 38% year-to-date, and Citi raising its price target to $210 amid stronger AI infrastructure demand.
+- Nvidia maintains a Strong Buy consensus across many analysts (e.g., about 36 Buy, 2 Hold, 1 Sell in some notes) with an average target near $213.35 and roughly 14% upside implied.
 
-- Nvidia is broadening its enterprise footprint through integrations and partnerships, including UiPath leveraging Nvidia’s Nemotron and NIM, Google’s Gemini, and Snowflake Cortex AI, signaling deepening adoption of Nvidia-powered AI across industries.
+- Near-term demand remains supportive thanks to big buyers like Meta (MTIA) and CoreWeave, but longer-term risks include customers potentially accelerating in-house chip development and ongoing valuation concerns tied to AI hype. 
 
-Optimism rating for Nvidia stock: 
+
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
