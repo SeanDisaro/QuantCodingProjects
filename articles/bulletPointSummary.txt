@@ -1,10 +1,10 @@
-- NVDA options show mixed but modestly bullish sentiment: calls still lead puts, IV around 39.85, with an expected daily move of about $4.67 and shares near $185.93. (Article 2)
+- Nvidia GPUs power Dell Technologies’ AI infrastructure; Dell has expanded its AI business to about $20 billion and lifted long-term targets, with AI server deals involving Nvidia chips (e.g., CoreWeave, x.AI, DOE). Dell’s stock is noted as a Moderate Buy with upside around 3%.
 
-- HP’s industry view places Nvidia as the central AI and high-performance computing player, highlighting CUDA, Tensor Cores, and DLSS as key differentiators and noting the stock’s recent strength. (Article 9)
+- Nvidia is highlighted as a top holding in the VanEck SMH Semiconductor ETF, with analysts raising NVDA price targets amid AI news; NVDA stock has been moving higher in pre-market trading after OpenAI/AMD developments.
 
-- AMD’s OpenAI deal underscores Nvidia’s competitive pressures, with AMD positioned as a credible rival in AI data-center workloads and Nvidia chips remaining in high demand and short supply. (Article 3)
+- Nvidia expanded its OpenAI collaboration with a $100 billion investment to boost AI infrastructure and model training; Barclays and Evercore raised NVDA targets, with Evercore calling Nvidia a “Top Pick” and targets around the low-to-mid $200s (roughly 17–22% upside).
 
-- Jim Cramer cites a Strong Buy consensus for NVDA (36 Buys, 2 Holds, 1 Sell) and a price target of $216.78, implying about 16.8% upside. (Article 10)
+- Jim Cramer believes Nvidia could be a major transformative force over the next decade, noting the stock has surged about 1,200% in five years and maintaining a Strong Buy consensus with an average target around $216.78 (about 16.8% upside).
 
-- Licensing risk: Nvidia may need to sign data-use licenses (e.g., with The New York Times) for AI training data, a potential headwind to growth. (Article 10)
+- Monday’s option activity spotlighted Nvidia among the stocks with the greatest growth in option volume, signaling rising investor interest and bullish sentiment around NVDA. 
 
