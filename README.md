@@ -26,15 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVIDIA announced DGX Spark, the world’s smallest AI supercomputer, delivering up to 1 petaflop of AI performance with 128GB of unified memory in a desktop form factor, enabling local inference for models up to 200 billion parameters and local fine-tuning up to 70 billion; shipping starts Oct 15 worldwide with OEM and partner channels.  
-
-- DGX Spark is a full-stack solution that combines GPUs, CPUs, networking, CUDA libraries, and the NVIDIA AI software stack, powered by the GB10 Grace Blackwell Superchip, NVIDIA ConnectX-7 200 Gb/s networking, and NVLink-C2C, delivering high bandwidth (5x PCIe) and preinstalled AI tools to start projects out of the box.  
-
-- NVIDIA Spectrum-X Ethernet, including Spectrum-X switches and SuperNICs, is designed for trillion-parameter AI workloads, enabling hyperscalers to interconnect millions of GPUs with unprecedented efficiency (about 95% data throughput versus roughly 60% for standard Ethernet) and is being deployed by Meta and Oracle in their AI data centers, with FBOSS integration.  
-
-- Partnerships and infrastructure upgrades around Spectrum-X align with NVIDIA Rubin Ultra platforms and 800 VDC power architectures, as ABB accelerates development of 800 VDC systems for 1-megawatt server racks to support future AI data centers.  
-
-- NVIDIA’s push into AI networking (Spectrum-X) is shaping the competitive landscape, contributing to negative sentiment for rivals like Arista Networks as Nvidia’s data-center networking advantage becomes more evident (e.g., Arista stock reacting to Nvidia’s Spectrum-X announcements).  
+- Nvidia’s venture arm invested in Lila Sciences, a fast-growing AI science startup aiming to automate labs; Lila’s funding round boosted its valuation above $1.3 billion and will expand its platform for external customers.  
+- Nvidia features prominently in OpenAI’s AI infrastructure strategy, with a reported $100 billion agreement to provide AI infrastructure and enable OpenAI to build and operate its own AI factories, signaling a large TAM for each GW of AI deployment.  
+- Enterprise demand for Nvidia chips is rising, exemplified by Microsoft’s plan to rent Nvidia’s latest AI chips for a Portugal data center project (Start Campus), highlighting growing cloud and enterprise AI compute needs.  
+- Nvidia ecosystem expansion continues through partners like IREN, which joined Nvidia’s Preferred Partner Program and is set to receive about 9,000 Blackwell GPUs to support AI cloud compute ambitions.  
+- Market sentiment on NVDA remains strongly bullish: a Strong Buy consensus (35 Buys, 2 Holds, 1 Sell) with an average target around $219.71, implying roughly 20–21% upside, despite competitive pressures in the AI hardware space.  
 
 
 <!-- BulletPointEnd -->

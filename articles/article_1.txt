@@ -1,4 +1,3 @@
-BofA notes Broadcom (AVGO) and OpenAI announced a partnership to co-develop custom accelerator and systems for 10 GW of capacity. The project will span 3.5years, from the second half of 2026 to 2029. No award amount was mentioned, though the firm estimates its likely around the $15B-$20B/GW that AMD (AMD) was awarded recently, though less than the $30B-$40B/GW that Nvidia (NVDA) has claimed as a general metric for its solutions. Today’s announcement makes 3 important statements, BofA says, namely that Broadcom’s prior $10B award announced during its last earnings call was NOT for OpenAI, but for a different customer, likely Anthropic, xAI or Apple (AAPL), suggesting continued customer diversification; Broadcom now feeling more confident to pitch rack-scale solutions to customers – lower margin but much higher content; and the strong OpenAI endorsement puts Buy-rated Broadcom custom chips at a stronger footing versus Nvidia and AMD.Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>>See Insiders’ Hot Stocks on TipRanks >> 
-Read More on AVGO:Disclaimer & DisclosureReport an IssueCopyright © 2025
-    Insider Inc and finanzen.net GmbH (Imprint). All rights reserved.
-    Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.
+Copyright © 2025
+        Insider Inc and finanzen.net GmbH (Imprint). All rights reserved.
+        Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.
