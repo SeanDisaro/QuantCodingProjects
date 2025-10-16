@@ -26,13 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia’s venture arm invested in Lila Sciences, a fast-growing AI science startup aiming to automate labs; Lila’s funding round boosted its valuation above $1.3 billion and will expand its platform for external customers.  
-- Nvidia features prominently in OpenAI’s AI infrastructure strategy, with a reported $100 billion agreement to provide AI infrastructure and enable OpenAI to build and operate its own AI factories, signaling a large TAM for each GW of AI deployment.  
-- Enterprise demand for Nvidia chips is rising, exemplified by Microsoft’s plan to rent Nvidia’s latest AI chips for a Portugal data center project (Start Campus), highlighting growing cloud and enterprise AI compute needs.  
-- Nvidia ecosystem expansion continues through partners like IREN, which joined Nvidia’s Preferred Partner Program and is set to receive about 9,000 Blackwell GPUs to support AI cloud compute ambitions.  
-- Market sentiment on NVDA remains strongly bullish: a Strong Buy consensus (35 Buys, 2 Holds, 1 Sell) with an average target around $219.71, implying roughly 20–21% upside, despite competitive pressures in the AI hardware space.  
+- Horizon data-center project: Poolside (backed by Nvidia) and CoreWeave will deploy 40,000 Nvidia GPUs for an eight-phase West Texas AI campus (initial 250 MW, with option to add 500 MW), leveraging on-site gas power to lower costs in the AI infrastructure race.
+- AIP-backed acquisition of Aligned Data Centers: Nvidia is a key backer in the Artificial Intelligence Infrastructure Partnership, which plans to acquire Aligned Data Centers for about $40 billion, with initial equity of around $30 billion and potential debt up to $100 billion to fuel AI infrastructure expansion (close targeted for H1 2026).
+- HSBC upgrade and ultra-bullish AI forecast: HSBC moves NVDA to Buy with a $320 target, citing a rapidly expanding AI data-center business and potential FY27 data-center revenue around $351 billion (vs. consensus ~$258B); 700k wafers at TSMC projected for FY2027; market upside signals remain strong (HSBC’s target implies ~78% upside).
+- Nvidia GPUs in growing AI cloud builds: Nvidia’s hardware is central to multiple AI data-center efforts, including IREN’s renewal and deployment plan for thousands of Nvidia Blackwell GPUs in renewable-energy-powered AI cloud projects, underscoring sustained demand for Nvidia GPUs in cloud infrastructure.
+- Elevated options activity around NVDA: NVDA shows notable options volume and positioning, with many new positions (e.g., Oct-25 165 puts and calls) and broad call/put activity, signaling ongoing investor interest and potential volatility around Nvidia’s AI-related growth catalysts. 
 
-
+Market optimism rating for NVDA: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
