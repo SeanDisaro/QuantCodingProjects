@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is strengthening its US onshore manufacturing and supply chain with the Blackwell wafer produced in the United States in collaboration with TSMC, marking a major step in reindustrializing AI hardware and securing leadership in AI chips. (Articles 7 and 8)
+- Nvidia is advancing US-based chip manufacturing, with the first Blackwell wafer produced on US soil in collaboration with TSMC, strengthening the domestic AI supply chain.
 
-- The AI boom continues to boost Nvidia’s demand and optimism among analysts, with open OpenAI collaboration and high target-driven upside; multiple targets imply potential upside ranges (roughly 11% to over 20%), and sentiment is broadly positive. (Article 4)
+- Analysts remain broadly bullish on Nvidia, with Buy/Strong Buy consensus and target prices around $224–$225, implying roughly 22–23% upside from current levels.
 
-- The competitive landscape remains intense, with AMD mounting aggressive AI deals (OpenAI warrants, Oracle collaboration) to close the gap, but Nvidia still appears the fortress in AI accelerators given valuation differences and market momentum. (Article 6)
+- Nvidia’s Blackwell-driven data-center growth is a key driver, highlighted by strong quarterly results (e.g., 56% YoY data-center revenue growth) and optimistic long-term projections.
 
-- Nvidia sits at the center of AI infrastructure growth and financing, as big banks and asset managers (e.g., Goldman Sachs and a BlackRock-anchored consortium) push to fund AI data-center buildouts, underscoring the industry-wide capital appetite behind AI infrastructure. (Article 10)
+- Nvidia’s Asia footprint and supply security are expanding, as CEO Jensen Huang plans high-level talks with Samsung and SK Hynix during the APEC summit to bolster memory supply and reduce reliance on other regions.
 
-- Market sentiment around Nvidia shows a mix of bullish catalysts and cautious signals: HSBC has upgraded to Buy, while options data show hedging and modest implied moves, reflecting a positive but prudent near-term outlook. (Article 9)
+- The AI compute boom underscoring Nvidia’s chips is evident in large-scale deals like xAI’s lease-to-own arrangements for Nvidia GPUs, underscoring Nvidia’s central role in AI infrastructure despite financing and concentration risks.
 
-Optimism rating for Nvidia stock: 
+Bottom line: Market optimism for Nvidia stock is high. Rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
