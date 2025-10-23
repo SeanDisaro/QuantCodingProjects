@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia considering guaranteeing OpenAI’s loans could create billions in potential liabilities, but the stock remains priced with a Strong Buy consensus and a 12‑month target around $224.38 (roughly 24% upside). (Article 2)
+- Nvidia is a major competitor in AI and high-performance computing, highlighted in Intel’s earnings outlook as rivals in HPC. 
+- In a Metagenomi/AWS AI hardware context, AWS Inferentia 2 accelerators were described as faster and significantly cheaper than Nvidia GPUs, underscoring Nvidia’s role as a key benchmark in AI hardware discussions. 
+- Nvidia is one of the top holdings in the SMH semiconductor ETF, with the ETF’s analysts-eyeing about a 9% upside for the fund and Nvidia as a leading upside contributor. 
+- Nvidia featured prominently in active options trading, with NVDA among the biggest growth names in total option volume on a busy day. 
+- Nvidia stock showed near-term weakness, closing down on Oct 21 amid ongoing U.S.-China trade tensions notwithstanding the Dow’s record highs that day. 
 
-- The Street broadly remains bullish on NVDA, with a Strong Buy consensus and a current target near $224–$225; notable note: Mizuho’s Vijay Rakesh keeps a Buy with a $225 target, while insiders have shown some selling activity. (Article 6)
-
-- Nvidia continues to be viewed as the AI hardware backbone, powering OpenAI and other AI infra (e.g., up to five million chips for OpenAI; broad ecosystem leverage), underscoring its strategic importance despite potential financing risks. (Article 2)
-
-- Cloud and enterprise adoption bolster NVDA demand: Alibaba Cloud reports GPU pooling that reduces Nvidia H20 usage by 82%, and Google Cloud’s G4 VMs run Nvidia RTX Pro 6000 Blackwell GPUs, with Omniverse available as a VM image to accelerate digital twins. (Articles 5 and 8)
-
-- A broader bullish backdrop for the sector supports NVDA: Bank of America sees chip sales rising toward $1 trillion by 2027 and lists NVDA among top picks with about 22% upside, with a 2027+ demand trajectory underpins continued upside. (Articles 10)
-
-Optimism rating for NVDA stock: 
+Rating (market optimism for NVDA): 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
