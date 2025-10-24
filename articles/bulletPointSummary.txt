@@ -1,7 +1,6 @@
-- Nvidia is a major competitor in AI and high-performance computing, highlighted in Intel’s earnings outlook as rivals in HPC. 
-- In a Metagenomi/AWS AI hardware context, AWS Inferentia 2 accelerators were described as faster and significantly cheaper than Nvidia GPUs, underscoring Nvidia’s role as a key benchmark in AI hardware discussions. 
-- Nvidia is one of the top holdings in the SMH semiconductor ETF, with the ETF’s analysts-eyeing about a 9% upside for the fund and Nvidia as a leading upside contributor. 
-- Nvidia featured prominently in active options trading, with NVDA among the biggest growth names in total option volume on a busy day. 
-- Nvidia stock showed near-term weakness, closing down on Oct 21 amid ongoing U.S.-China trade tensions notwithstanding the Dow’s record highs that day. 
+- Nvidia’s Vera Rubin platform is highlighted as the next-generation GPU platform, with Monolithic Power (MPWR) expected to hold about 70% market share across VR200 NVL144 and R200 HGX designs, and ASPs projected 60% higher, adding over $100 million to MPWR’s 2026 estimates in 2H26. (Article 2)
+- AWS Inferentia 2 accelerators are cited as being faster and significantly more cost-effective than Nvidia chips in Metagenomi’s AI work, signaling competitive pressure from AWS’s Inferentia on Nvidia. (Article 6)
+- Nvidia is named as one of the five holdings with the greatest upside potential in the VanEck SMH Semiconductor ETF, with the ETF’s consensus suggesting roughly 9% upside for its Nvidia exposure. (Article 7)
+- Nvidia appears among stocks with notable growth in options activity, indicating strong investor interest in NVDA. (Article 9)
+- Intel’s earnings narrative frames Nvidia as a key rival in high-performance computing, with market watching Nvidia’s progress as Intel aims to catch up in HPC. (Article 4)
 
-Rating (market optimism for NVDA): 
