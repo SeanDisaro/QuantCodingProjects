@@ -26,15 +26,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia and Deutsche Telekom plan a EUR1 billion data center in Germany, with SAP as a customer; the broader AI-infrastructure project totals about $1.2 billion and both companies will contribute funding. (Source: articles 2 and 3)
+- NVIDIA teams up with Joby Aviation as the exclusive aviation launch partner for the NVIDIA IGX Thor platform, powered by Blackwell, to advance certifiable autonomous flight tech across military and civil applications. 
 
-- Nvidia shares are showing strong bullish sentiment: analysts are overwhelmingly positive (35 of 37 Buys in three months) with an average 12‑month target of about $225, roughly 18% upside. (Source: article 10)
+- NVIDIA stock has been rallying to all-time highs amid AI-driven announcements and big partnerships (e.g., Nokia stake), signaling strong market momentum and leadership in AI infrastructure.
 
-- Hyperscalers and OpenAI-driven AI growth are fueling demand for Nvidia chips to power AI infrastructure, with Morgan Stanley forecasting total AI capex around $550 billion in 2026 and major players like Microsoft signaling large AI investments. (Source: article 5)
+- CrowdStrike collaborates with NVIDIA to deliver always-on, continuously learning AI agents at the edge, enabling local inference and enhanced cybersecurity across cloud, data center, and edge environments.
 
-- The AI/HPC race remains competitive, but Nvidia is positioned as a core platform for cutting-edge training; rivals like AMD and Intel are expanding, and Nvidia’s Rubin CPX is part of the broader inference-chip competition. (Source: articles 7 and 9)
+- Lucid and NVIDIA are partnering to power Lucid’s Level 4 autonomous driving using NVIDIA DRIVE AGX and DriveOS, with a 2026 launch for the Gravity vehicle and a path toward broader autonomous capabilities.
 
-- Near-term drivers include continued AI-capex by cloud giants and strong data-center demand, with tight supply of high-end accelerators supporting Nvidia’s pricing power and potential for further upside if earnings and guidance remain constructive. (Source: article 10)
+- NVIDIA’s role in AI infrastructure expands through Cisco’s data-center and 6G initiatives (N9100 switch and AI-native stack) and HPE’s Mission/Vision supercomputers featuring Vera Rubin superchips, underscoring broad enterprise and national-scale AI deployment. 
 
 
 <!-- BulletPointEnd -->
