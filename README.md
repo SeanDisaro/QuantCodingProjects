@@ -26,15 +26,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVIDIA teams up with Joby Aviation as the exclusive aviation launch partner for the NVIDIA IGX Thor platform, powered by Blackwell, to advance certifiable autonomous flight tech across military and civil applications. 
+- NVIDIA will host a conference call on Nov. 19, 2025 to discuss its Q3 FY2026 results; CFO Colette Kress will share prepared remarks and a Q&A will follow; results commentary and the call will be webcast with a replay available.
 
-- NVIDIA stock has been rallying to all-time highs amid AI-driven announcements and big partnerships (e.g., Nokia stake), signaling strong market momentum and leadership in AI infrastructure.
+- Nvidia introduced NVQLink, an open system architecture to tightly couple GPUs with quantum processors, aiming to create accelerated quantum–GPU supercomputers; it supports 17 QPU builders, five controller builders, and nine U.S. national labs, described as uniting quantum and classical computing.
 
-- CrowdStrike collaborates with NVIDIA to deliver always-on, continuously learning AI agents at the edge, enabling local inference and enhanced cybersecurity across cloud, data center, and edge environments.
+- Analysts’ consensus price target on Nvidia sits around $225, implying roughly 12% upside to the current level.
 
-- Lucid and NVIDIA are partnering to power Lucid’s Level 4 autonomous driving using NVIDIA DRIVE AGX and DriveOS, with a 2026 launch for the Gravity vehicle and a path toward broader autonomous capabilities.
+- Nvidia’s market-cap milestone surpassed $5 trillion, helping fuel broad market optimism and leadership in AI-driven rally dynamics.
 
-- NVIDIA’s role in AI infrastructure expands through Cisco’s data-center and 6G initiatives (N9100 switch and AI-native stack) and HPE’s Mission/Vision supercomputers featuring Vera Rubin superchips, underscoring broad enterprise and national-scale AI deployment. 
+- At Nvidia’s GTC DC, Nvidia showcased a wide ecosystem of partnerships and deployments, including Lilly’s AI supercomputer powered by DGX SuperPOD, HPE’s Mission and Vision systems with Vera Rubin, Flex’s giga-scale AI factories with cuOpt, and Cisco’s Nvidia Cloud-related data-center innovations. 
 
 
 <!-- BulletPointEnd -->
