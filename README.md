@@ -26,15 +26,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia plans to invest up to $1 billion in Poolside as part of a funding round aiming for a $12 billion valuation, with an initial $500 million and potential to rise if targets are met. (Article 1)
+- AI data-center demand remains the top driver, with Nvidia potentially booking around $0.5 trillion in orders for CY25/26 and options for a 20 GW buildout, hinting at multi-quarter growth if demand stays robust (and potential upside from higher per-GW content and more GPU shipments beyond 10 million).
 
-- Nvidia-backed CoreWeave’s $9 billion all-stock bid to acquire Core Scientific was rejected by shareholders, signaling ongoing consolidation in AI data-center infrastructure but leaving CoreWeave to continue pursuing growth on its own. (Articles 7 and background from Article 2)
+- Nvidia continues to hold a dominant position in AI GPUs, roughly 90% of the global data-center GPU market, with strong profitability (mid-70s gross margin) supported by co-design and multiple memory suppliers.
 
-- Nvidia’s AI hardware leadership is underscored by over $500 billion in orders for its new Blackwell and Rubin AI chips announced at the GTC event, highlighting strong demand through data centers, cloud platforms, and AI applications; analysts have price targets suggesting meaningful upside. (Article 9)
+- The stock and sentiment remain highly bullish on Wall Street, with a Strong Buy consensus and price targets in the low to mid-$200s (with some analysts signaling upside from ~15% to ~35% over the next 12 months).
 
-- Nvidia GPUs are being deployed in Europe, with Equinix lining up a $5 billion UK data-center campus and the Stargate UK project (involving Nvidia, Nscale, and OpenAI) positioning the UK as a major AI hub; construction slated to start in 2027 and operations by 2030. (Article 5)
+- Broader AI capex tailwinds from major cloud/trendsetters (Alphabet, Microsoft, Meta) reinforce Nvidia’s upside as compute, networking, and storage demand for AI models stay elevated into 2026.
 
-- Regulatory and geopolitical factors pose near-term risk to Nvidia’s growth (e.g., China export restrictions discussed by policymakers), but the stock remains highly favored by analysts with a Strong Buy consensus and upside targets around $230–$300, reflecting strong longer-term optimism. (Articles 9 and 10)
+- Risks to watch include potential China export/trade constraints on newer-gen GPUs, ongoing competition, and occasional caution from skeptics about AI-market valuations (e.g., bubble warnings), though current demand signals remain strong.
 
 Optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
