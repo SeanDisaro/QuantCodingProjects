@@ -1,3 +1,4 @@
-Copyright © 2025
-        Insider Inc and finanzen.net GmbH (Imprint). All rights reserved.
-        Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.
+RedCloud (RCT) announced plans to develop a new RedAI recommendation feature based on NVIDIA’s (NVDA) cuOpt Optimization Engine in the Saudi Arabian market, unlocking an estimated $2.8B annual trade opportunity within the Kingdom’s fast-moving consumer goods supply chains. The Company believes there’s an estimated $8B inventory gap of lost economic opportunity within the estimated $62B Saudi Arabian FMCG industry, whereby overstock or understock of inventory leads to lost opportunity across the supply chain and empty shelves in stores. The Company believes that inefficient inventory management is a major contributor to this problem-where decision making on inventory orders using Economic Order Quantities of inventory are calculated in the absence of adequate market level data about predicted supply and demand in each product category and geography, optimum warehousing consideration and time-based logistics capacity.     Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>>See Insiders’ Hot Stocks on TipRanks >> 
+Read More on RCT:Disclaimer & DisclosureReport an IssueCopyright © 2025
+    Insider Inc and finanzen.net GmbH (Imprint). All rights reserved.
+    Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.
