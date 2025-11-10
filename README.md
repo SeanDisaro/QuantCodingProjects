@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia (NVDA) is an investor in OpenAI, with backing from Microsoft and others, highlighting its continued involvement in high-profile AI initiatives. (Article 1)
+- NVIDIA reports “very strong demand” for its Blackwell AI chips, with Blackwell being its latest and most powerful data-center/LLM training platform and momentum extending into 2025. (From NVDA mentions in Articles 1 and 9)
 
-- Nvidia CEO Jensen Huang says AGI is already evident in current technologies, underscoring Nvidia’s central role in the race toward superintelligence. (Articles 3/5)
+- The company’s supply-and-partner ecosystem is robust but nuanced: demand is fueling activity with TSMC wafer intake, SK Hynix sold-out 2026 chip supply, and Samsung discussed to supply HBM4 memory to NVIDIA; however, there are no active talks to sell Blackwell chips to China due to export rules. (From Article 1)
 
-- RedCloud plans to use NVIDIA’s cuOpt Optimization Engine in Saudi Arabia to unlock an estimated $2.8B in annual trade opportunities within FMCG supply chains. (Article 7)
+- Market sentiment is highly positive: NVDA has a Strong Buy consensus on TipRanks, with an average target around $237.35 implying roughly 26%–28% upside, and the stock has surged about 40% year-to-date. (From Articles 1 and 9)
 
-- Nvidia is listed among SMH’s top holdings with upside potential, with the ETF’s target implying about 7% upside for Nvidia. (Article 4)
+- NVIDIA GPUs underpin major AI infrastructure initiatives and collaborations, including Oracle’s AI ecosystem (with Nvidia as a partner to build a government AI supercomputer) and NVDA-powered deployments for Microsoft’s AI cloud infrastructure via partners like IREN; this signals broad enterprise demand beyond chips alone. (From Article 6 and Article 7)
 
-- Nvidia is a major weight in the VTI ETF (about 6.69% of the fund), with a price target implying roughly 15.7% upside. (Article 10)
+- Despite occasional caution in the broader AI/tech space (e.g., valuation concerns and energy-infrastructure caveats highlighted by market observers), the overall outlook for NVIDIA remains bullish, with analysts broadly backing the stock and continued AI-data-center growth expected. (From Article 10 and related context) 
 
-
+Market optimism rating for NVIDIA stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
