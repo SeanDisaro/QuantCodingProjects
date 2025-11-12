@@ -26,11 +26,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Citi analyst Atif Malik raised NVDA’s price target to $220 with a Buy rating, expecting Q3 FY26 EPS of about $1.25 and revenue around $54.6B, with Q3 revenue near $56.8B and Q4 guidance of about $62.6B; he also notes data-center revenue growth of ~24% in Q3 and ~12% QoQ in Q4, following shipments of about 6 million Blackwell GPUs.  
-- The stock remains under a Strong Buy consensus on Wall Street (about 37 Buys, 1 Hold, 1 Sell) with an average target of roughly $237.35, implying around 21% upside.  
-- Nvidia’s Blackwell GPU momentum is a key driver: 6 million Blackwell units already shipped, with continued data-center momentum and expectations for continued expansion of B300 deployment.  
-- Nvidia GPUs are underpinning real-world AI deployments and partnerships: Rumble is adding 22,400 NVDA GPUs; CoreWeave has signed multibillion-dollar contracts involving Nvidia GPUs; IREN’s Microsoft GPU buildout relies on GB300 GPUs; and Tesla’s AI-inference concept envisions Blackwell GPUs powering vehicle AI.  
-- Nvidia is a prominent holding in AI-focused ETFs, with BASG, ALAI, and USPX highlighting NVDA exposure and upside potential for investors tracking AI infrastructure themes.  
+- Nvidia has surged about 48% this year on strong AI data-center GPU demand (H100 and Blackwell), with Q3 FY2026 results anticipated (EPS around $1.25, revenue about $54.6B) and continued orders from cloud customers like Amazon, Microsoft, and Alphabet; investors will watch for demand durability if tech spending slows.
+
+- Bulls are prominent: Bank of America has a Buy rating with a $275 target (roughly 46% upside); Loop Capital targets $350 (about 76% upside) and sees GPU shipments nearly doubling; the Street-wide Strong Buy consensus sits at 37 Buys, 1 Hold, 1 Sell, with an average target around $237.21 (~19% upside). Nvidia also reportedly has about $500B in data-center orders for 2025–2026, signaling strong demand visibility.
+
+- Nvidia’s leadership in AI data-center chips remains a core driver, with dominance cited at over 90% market share even as competitors like AMD gain ground; AMD projects huge AI data-center growth, but Nvidia is still the premier supplier for AI workloads.
+
+- Institutional moves highlight Nvidia’s prominence: Citigroup’s largest holding is Nvidia (about 33.3 million shares worth roughly $6.6B), underscoring its role in big portfolios; SoftBank disclosed selling its entire Nvidia stake for about $5.8B, reflecting shifting AI-investment allocations.
+
+- Nvidia is a common top holding in AI/tech-focused ETFs (e.g., First Trust BuyWrite Income ETF, PTNQ, SFY), illustrating broad market exposure to Nvidia as a keystone AI name.
 
 
 <!-- BulletPointEnd -->
