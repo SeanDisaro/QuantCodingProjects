@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia remains a central player in AI data-center expansion, with Bank of America naming it a top semiconductor pick and a price target of $275, implying about 38% upside.
+- Oppenheimer’s Rick Schafer reiterates a Buy on Nvidia (NVDA) with a $265 target; the stock was around $193.80 recently, highlighting substantial upside potential.
+- TipRanks consensus shows Nvidia as a Strong Buy with an average target of about $238.29, implying roughly 22% upside from current levels; the coverage is broadly bullish.
+- UBS analyst Timothy Arcuri projects solid demand and profitability, with Q3 revenue around $56B, Q4 around $63–$64B, and mid-70s% gross margins through 2026; he assigns a $235 target implying roughly 22% upside.
+- Bank of America data indicate Nvidia is the most-owned semiconductor stock by U.S. fund managers (about 76%), signaling strong ongoing investor confidence; BoA also notes upside expectations around 23% in NVDA-related views.
+- The AI/data-center backdrop remains a major tailwind: Nvidia is a core driver of AI infrastructure, with the stock up about 43% this year and broad bullish sentiment from analysts (roughly 37 covering NVDA being bullish).
 
-- At the GPU Technology Conference, Nvidia highlighted robust AI infrastructure demand, noting roughly $500 billion in data-center orders expected for 2025–2026, underpinning continued growth.
-
-- Long-term bull case suggests Nvidia could earn more than $40 per share if global AI spending by 2030 reaches trillions, with the stock potentially trading at far less than that growth implies (around a 5x earnings multiple in that scenario).
-
-- Nvidia is widely viewed as the market leader in AI GPUs, holding a dominant share (over 90%) in the AI data-center segment, reinforcing its competitive position amid rivals like AMD.
-
-- On the near term, Nvidia stock has experienced volatility, including a roughly 3% dip in one session after SoftBank disclosed exiting its position, highlighting market sensitivity to news flow and portfolio moves.
-
-Market optimism rating: 
+Market optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
