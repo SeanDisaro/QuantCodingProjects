@@ -26,17 +26,12 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Q3 FY26 outlook remains very positive: Wall Street consensus is Strong Buy with price targets typically in the $240–$275 range, implying about 27–28% upside to current levels.
+- Q3 FY26 expectations: EPS about $1.25 and revenue around $54.90 billion, with roughly 54–56% year-over-year growth. 
+- Analysts lifted price targets to about $250; Strong Buy consensus with an average target around $243 (roughly 32–34% upside). 
+- AI data-center demand backdrop remains robust, with a backlog of about $350 billion for Blackwell/Rubin platforms; supply constraints cited as a key risk. 
+- Nvidia deepens AI compute partnerships: Claude on Microsoft Azure powered by Nvidia, with Nvidia investing up to $10B in Anthropic and Microsoft up to $5B. 
+- Market sentiment is mixed: valuation concerns and some insider selling, but continued leadership and strong demand for AI infrastructure keep optimism intact. 
 
-- Growth catalysts center on AI data-center demand and next-gen hardware: GB300/Blackwell and the Vera Rubin line are expected to lift revenue, supported by strong cloud/hyperscaler activity and continued demand for Hopper GPUs.
-
-- Very strong revenue visibility and backlog: Nvidia’s backlogs for Blackwell/Rubin GPUs are substantial (backlog around 20 million GPUs with several million already shipped), along with multi-year orders from OpenAI, Meta, and others, underpinning continued growth.
-
-- China export restrictions pose a potential drag, but demand remains resilient: H20 chip sales to China face limits, which could cap China revenue, even as broader AI hardware demand and cloud capex remain robust.
-
-- Overall market sentiment is highly constructive: NVDA has risen meaningfully YTD, analysts broadly bullish, and investors eye Vera Rubin and GB300 as key long-term growth engines, despite acknowledged risks around AI cycles and supply dynamics.
-
-Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
