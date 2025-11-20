@@ -1,5 +1,7 @@
-- Q3 FY26 expectations: EPS about $1.25 and revenue around $54.90 billion, with roughly 54–56% year-over-year growth. 
-- Analysts lifted price targets to about $250; Strong Buy consensus with an average target around $243 (roughly 32–34% upside). 
-- AI data-center demand backdrop remains robust, with a backlog of about $350 billion for Blackwell/Rubin platforms; supply constraints cited as a key risk. 
-- Nvidia deepens AI compute partnerships: Claude on Microsoft Azure powered by Nvidia, with Nvidia investing up to $10B in Anthropic and Microsoft up to $5B. 
-- Market sentiment is mixed: valuation concerns and some insider selling, but continued leadership and strong demand for AI infrastructure keep optimism intact. 
+- NVIDIA Q3 FY2026 results: revenue of $57.0 billion (up 22% QoQ, up 62% YoY); GAAP and non-GAAP gross margins around 73.4–73.6%; diluted EPS of $1.30. 
+- AI computing demand remains ultra-strong: CEO Jensen Huang cites “Blackwell” sales, cloud GPUs sold out, and a virtuous cycle of accelerating compute demand across training and inference.
+- Strong capital return and balance sheet activity: $37.0 billion returned to shareholders in the first nine months of FY2026 via buybacks and dividends; $62.2 billion remaining under share repurchase authorization.
+- Dividend slated: NVIDIA will pay a quarterly cash dividend of $0.01 per share on December 26, 2025 (record date December 4, 2025).
+- Large-scale AI infrastructure partnerships highlight NVIDIA’s role in expanding compute: AWS and Humain plan to deploy up to 150,000 accelerators, including NVIDIA GB300 GPUs, in a Riyadh-based AI Zone, signaling major global AI compute expansion and a new commercial model. 
+
+Market optimism rating: 
