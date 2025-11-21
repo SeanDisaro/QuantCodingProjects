@@ -1,7 +1,10 @@
-- NVIDIA Q3 FY2026 results: revenue of $57.0 billion (up 22% QoQ, up 62% YoY); GAAP and non-GAAP gross margins around 73.4–73.6%; diluted EPS of $1.30. 
-- AI computing demand remains ultra-strong: CEO Jensen Huang cites “Blackwell” sales, cloud GPUs sold out, and a virtuous cycle of accelerating compute demand across training and inference.
-- Strong capital return and balance sheet activity: $37.0 billion returned to shareholders in the first nine months of FY2026 via buybacks and dividends; $62.2 billion remaining under share repurchase authorization.
-- Dividend slated: NVIDIA will pay a quarterly cash dividend of $0.01 per share on December 26, 2025 (record date December 4, 2025).
-- Large-scale AI infrastructure partnerships highlight NVIDIA’s role in expanding compute: AWS and Humain plan to deploy up to 150,000 accelerators, including NVIDIA GB300 GPUs, in a Riyadh-based AI Zone, signaling major global AI compute expansion and a new commercial model. 
+- Nvidia posted blockbuster Q3 results: revenue of $57.01B (up 62% YoY) with data-center revenue of $51.2B; Q4 revenue guidance around $65B +/- 2%; gross margins targeted near 74.8–75%; AI demand remains strong for GB300/GB200 ramps.
 
-Market optimism rating: 
+- Analysts have raised price targets and growth expectations, with targets commonly in the $255–$275 range and some bulls pointing to $300+; upside estimates range roughly 30–40% or more, underpinned by Nvidia’s leadership in AI data-center acceleration.
+
+- Market reaction has been mixed: the stock has faced a pullback after the rally, as investors weigh AI monetization risks and bubble concerns despite the strong fundamentals and guidance.
+
+- The AI leadership thesis remains intact, with Nvidia viewed as the dominant supplier in data-center acceleration and the AI spending boom driving continued revenue growth and market share gains.
+
+- Global AI infrastructure momentum is accelerating Nvidia GPU deployment through partnerships and large-scale deployments (e.g., AWS/Humain collaborations for up to 150,000 AI accelerators, a 500MW facility with xAI, and other regional AI-zone initiatives), reinforcing durable demand for Nvidia GPUs.
+
