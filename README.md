@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia remains the AI hardware leader with pricing power, highlighted by a 73% gross margin in Q3, underscoring its moat even as competitors push alternatives like Google TPUs.  
-- The Street remains broadly bullish on NVDA, with a Strong Buy consensus and an average target around $257.72, implying roughly 46% upside over the next 12 months.  
-- Nvidia’s earnings momentum is solid: Q3 revenue rose about 62.5% year over year to $57 billion, with a Q4 guide of about $65 billion, well ahead of expectations.  
-- The company is expanding beyond GPUs into broader AI infrastructure uses, including links to quantum systems and even space data hubs, showcasing its growing ecosystem and CUDA-based competitive moat.  
-- Near-term risks include AI-name rotation and elevated valuations, plus competitive threats from TPU ecosystems; these factors can bring episodic volatility despite a strong longer-term growth trajectory.  
+- Nvidia has secured exclusive access to TSMC’s next-generation A16 process node for its Feynman GPU architecture, with mass production around 2027 and use of SPR-backed nanosheet transistors, underscoring a key capacity edge in the AI hardware race.
 
-Rating: 
+- Nvidia expanded its strategic partnership with Synopsys and invested $2 billion in Synopsys common stock at $414.79 per share, aiming to integrate CUDA-accelerated computing with Synopsys’ design tools to accelerate engineering workflows and digital-twin simulations.
+
+- Nvidia is positioning itself in the quantum computing ecosystem by working on ways to connect its chips to quantum units, as part of a broader industry push (IonQ’s expansion with partners like Skyloom Global and Oxford Ionics supports this momentum).
+
+- Nvidia’s data-center business remains a major growth driver, with references to a $51 billion data-center quarter, highlighting strong AI infrastructure demand amid ongoing supply constraints in the AI hardware market.
+
+- Wall Street remains bullish: Morgan Stanley raised Nvidia’s price target to $250 (Overweight) and cited confidence in a strong revenue trajectory, noting management signals and commentary (including GTC discussions) that support a higher outlook. 
+
+Optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
