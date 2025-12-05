@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia posted robust quarterly results with Q3 FY2026 revenues of about $57 billion and margins above 73%, and management guided to around $62 billion next quarter, with the Blackwell and Vera Rubin roadmap expected to sustain strong demand and growth. (Article 4)
+- US Senators are pursuing the Secure and Feasible Exports Chips Act, which would prohibit export licenses for Nvidia’s advanced AI chips to China for 30 months, effectively blocking shipments of H200 and Blackwell. (Article 1)
 
-- Market sentiment remains very bullish on Nvidia as an AI-leader, with a Strong Buy consensus and ample upside in price targets (roughly 40%+). Target estimates cited include around $258 for NVDA, implying substantial potential upside. (Articles 4 and 5)
+- Nvidia’s H200 AI chips face uncertainty about China acceptance if U.S. restrictions are eased; CEO Jensen Huang said China “won’t accept” degraded chips and has discussed export controls with Trump. (Articles 5 and 8)
 
-- Nvidia continues to strengthen its AI ecosystem through strategic partnerships, including a $2 billion investment to deepen collaboration with Synopsys to integrate design tools on Nvidia’s AI platform for faster chip development. (Articles 6 and 9)
+- Nvidia is a founding partner of Palantir’s Chain Reaction, described as the operating system for American AI infrastructure to accelerate AI research and deployment. (Article 5)
 
-- Nvidia’s GPUs remain central to AI training and workloads, with industry analysts highlighting continued high demand and Nvidia’s lead in AI chips, supported by tight supply chains and strong ecosystem adoption. (Articles 5 and 4)
+- Chain Reaction’s founding partners include CenterPoint Energy and Nvidia, underscoring Nvidia’s role in AI infrastructure collaborations spanning energy, power, and data-center ecosystems. (Article 5)
 
-- Nvidia is expanding its NVLink ecosystem and collaboration with hardware partners (e.g., Astera Labs and hyperscalers) to enhance cross-XPU/GPU connectivity, reinforcing its platform competitiveness in AI deployments. (Articles 8)
+- The coverage frames Nvidia within a broader AI chip policy and ecosystem context, highlighting regulatory risk around H200 and the company’s involvement in significant AI infrastructure partnerships. (Articles 1 and 5)
 
-Optimism rating: 
+
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
