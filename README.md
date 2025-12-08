@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- US Senators are pursuing the Secure and Feasible Exports Chips Act, which would prohibit export licenses for Nvidia’s advanced AI chips to China for 30 months, effectively blocking shipments of H200 and Blackwell. (Article 1)
+- Nvidia commands about 90% of the AI accelerator market and provides a full-stack AI platform (hardware, software, networking), underscoring its central role in AI adoption. (Article 1)
 
-- Nvidia’s H200 AI chips face uncertainty about China acceptance if U.S. restrictions are eased; CEO Jensen Huang said China “won’t accept” degraded chips and has discussed export controls with Trump. (Articles 5 and 8)
+- The company posted record Q3 results: revenue $57 billion (up 62.5% YoY) and adjusted EPS $1.30; it guided Q4 revenue near $65 billion, signaling strong near-term demand. (Article 1)
 
-- Nvidia is a founding partner of Palantir’s Chain Reaction, described as the operating system for American AI infrastructure to accelerate AI research and deployment. (Article 5)
+- CUDA 13.1 and CUDA Tile represent a major platform upgrade, adding Python-ready tile-based programming and open-source release plans to boost developer productivity and ease multi-GPU workloads. (Article 4)
 
-- Chain Reaction’s founding partners include CenterPoint Energy and Nvidia, underscoring Nvidia’s role in AI infrastructure collaborations spanning energy, power, and data-center ecosystems. (Article 5)
+- Cloud/AI demand tailwinds are a key driver: AWS and other hyperscalers continue to rely on Nvidia tech (NVLink Fusion, MGX designs) with analysts citing strong upside potential; BoA’s Arya sees roughly 50% upside with a $275 target. (Article 6)
 
-- The coverage frames Nvidia within a broader AI chip policy and ecosystem context, highlighting regulatory risk around H200 and the company’s involvement in significant AI infrastructure partnerships. (Articles 1 and 5)
+- Overall market sentiment remains bullish, with a Strong Buy consensus and target ranges around $258–$275, implying roughly 40–50% upside over the next year. (Articles 1, 4, 6, 7)
 
-
+Optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
