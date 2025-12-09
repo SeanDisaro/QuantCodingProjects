@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia commands about 90% of the AI accelerator market and provides a full-stack AI platform (hardware, software, networking), underscoring its central role in AI adoption. (Article 1)
+- Nvidia remains the leading AI-chip supplier with strong upside expectations: analyst price targets around $258.10 (over 41% upside) and bullish notes including a $270 target from Citi signaling continued optimism for NVDA shares.
+- Nvidia is participating in Skild AI’s funding round with SoftBank, in a deal exceeding $1 billion that could value Skild at about $14 billion, highlighting Nvidia’s strategic interest in robotics AI and foundation models.
+- Regulatory developments could open a pathway for Nvidia’s H200 GPUs to China, as the DoC plans to allow export of these GPUs (about 18 months behind current generation), underscoring ongoing geopolitics shaping NVDA’s sales channels.
+- Broadcom’s push into custom AI chips poses a competitive risk to Nvidia’s dominance, with market chatter about potential share shifts; Nvidia’s Rubin chips are expected to offer cost advantages to blunt TPU/Trainium competition.
+- Nvidia’s Rubin chips are anticipated to lower total cost of ownership by roughly threefold, strengthening NVDA’s competitive position against rivals and supporting its ongoing leadership in AI hardware. 
 
-- The company posted record Q3 results: revenue $57 billion (up 62.5% YoY) and adjusted EPS $1.30; it guided Q4 revenue near $65 billion, signaling strong near-term demand. (Article 1)
 
-- CUDA 13.1 and CUDA Tile represent a major platform upgrade, adding Python-ready tile-based programming and open-source release plans to boost developer productivity and ease multi-GPU workloads. (Article 4)
-
-- Cloud/AI demand tailwinds are a key driver: AWS and other hyperscalers continue to rely on Nvidia tech (NVLink Fusion, MGX designs) with analysts citing strong upside potential; BoA’s Arya sees roughly 50% upside with a $275 target. (Article 6)
-
-- Overall market sentiment remains bullish, with a Strong Buy consensus and target ranges around $258–$275, implying roughly 40–50% upside over the next year. (Articles 1, 4, 6, 7)
-
-Optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
