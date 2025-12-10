@@ -26,11 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia remains the leading AI-chip supplier with strong upside expectations: analyst price targets around $258.10 (over 41% upside) and bullish notes including a $270 target from Citi signaling continued optimism for NVDA shares.
-- Nvidia is participating in Skild AI’s funding round with SoftBank, in a deal exceeding $1 billion that could value Skild at about $14 billion, highlighting Nvidia’s strategic interest in robotics AI and foundation models.
-- Regulatory developments could open a pathway for Nvidia’s H200 GPUs to China, as the DoC plans to allow export of these GPUs (about 18 months behind current generation), underscoring ongoing geopolitics shaping NVDA’s sales channels.
-- Broadcom’s push into custom AI chips poses a competitive risk to Nvidia’s dominance, with market chatter about potential share shifts; Nvidia’s Rubin chips are expected to offer cost advantages to blunt TPU/Trainium competition.
-- Nvidia’s Rubin chips are anticipated to lower total cost of ownership by roughly threefold, strengthening NVDA’s competitive position against rivals and supporting its ongoing leadership in AI hardware. 
+- Nvidia H200 shipments to China are subject to a U.S. national-security review and cross-border routing (Taiwan manufacturing to the U.S. for review before final export to China).  
+- China is considering tight controls on Nvidia’s H200 access, including buyer approvals and potential restrictions on government departments purchasing the chips.  
+- The U.S. posture could let Nvidia’s H200 exports to China proceed with a 25% fee to the U.S. government, a policy approach that could extend to other American chipmakers too.  
+- Nvidia’s GB300 ultra‑superchip (Grace CPU paired with two Blackwell Ultra GPUs) is driving large‑scale AI workloads and is featured in major AI infrastructure deals (e.g., IREN’s Microsoft partnership).  
+- The demand for NVDA‑related memory/DRAM is expected to grow (Rubin Ultra’s DRAM needs), signaling positive ripple effects for Nvidia’s ecosystem and AI hardware demand.  
 
 
 <!-- BulletPointEnd -->
