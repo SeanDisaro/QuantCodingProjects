@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia posted record Q3 revenue of $57 billion, with Data Center sales at $51.2 billion driven by Blackwell GPUs, and cloud GPUs remaining sold out, signaling strong ongoing demand.
-- The company has a massive $500 billion backlog for its Blackwell and Rubin chips, providing high revenue visibility across the next six quarters into early 2027.
-- Nvidia holds an estimated 90% share of data-center GPUs and is well-positioned to capture a large portion of the growing AI data-center spend, projected to reach $3–4 trillion annually by 2030.
-- Wall Street remains bullish, with a Strong Buy consensus and an average target around $258 (roughly 40–43% upside), plus potential upside from China-market re-entry for AI chips.
-- Nvidia’s ecosystem and product roadmap reinforce leadership: Rubin and Blackwell Ultra developments, resumed China shipments of H200, CUDA-driven software moat, and cloud deployments (e.g., Runway powered via CoreWeave) supporting expansive AI workloads.
+- Nvidia posted strong quarterly results with revenue of $57 billion (up 62% YoY) and gross margins above 73%, plus guidance for about $65 billion in revenue next quarter. 
 
-Market optimism rating: 
+- Demand for Nvidia’s high-end H200 AI chips remains tight, with plans to boost output under consideration; exports to China could be allowed with a 25% tariff, though approvals are pending and supply remains constrained.
+
+- The stock enjoys a firm Strong Buy consensus from analysts, with an average target around $258.45, implying roughly 42%–48% upside over the next 12 months.
+
+- Nvidia’s leadership in data-center GPUs and its growing ecosystem (including partnerships with Google, OpenAI, and Anthropic) support expectations for continued AI infrastructure demand and margin expansion, aided by new products like Blackwell GPUs.
+
+- Risks include questions about the real-world monetization of AI spending, potential competitive pressure (e.g., Gemini 3), and policy or geopolitical factors (notably U.S.-China export dynamics) that could temper demand or supply. 
+
+
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
