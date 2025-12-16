@@ -26,16 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia posted strong quarterly results with revenue of $57 billion (up 62% YoY) and gross margins above 73%, plus guidance for about $65 billion in revenue next quarter. 
-
-- Demand for Nvidia’s high-end H200 AI chips remains tight, with plans to boost output under consideration; exports to China could be allowed with a 25% tariff, though approvals are pending and supply remains constrained.
-
-- The stock enjoys a firm Strong Buy consensus from analysts, with an average target around $258.45, implying roughly 42%–48% upside over the next 12 months.
-
-- Nvidia’s leadership in data-center GPUs and its growing ecosystem (including partnerships with Google, OpenAI, and Anthropic) support expectations for continued AI infrastructure demand and margin expansion, aided by new products like Blackwell GPUs.
-
-- Risks include questions about the real-world monetization of AI spending, potential competitive pressure (e.g., Gemini 3), and policy or geopolitical factors (notably U.S.-China export dynamics) that could temper demand or supply. 
-
+- Nvidia (NVDA) reported blockbuster results with Q3 revenue of $57 billion (up 62% YoY), gross margins above 73%, and guided to about $65 billion in next-quarter revenue, underscoring robust AI GPU demand.
+- Wall Street remains highly bullish on NVDA, with a Strong Buy consensus (about 39 Buys, 1 Hold, 1 Sell) and average targets around $258.45, signaling roughly 42%–48% upside over the next year.
+- Some investors worry the AI demand boom may not be endless and question the durability of Nvidia’s moat, citing Alphabet’s Gemini 3 and other potential competitive pressures that could temper growth.
+- Regulatory and export dynamics add uncertainty: U.S. policy allows sale of H200 AI chips to China under a 25% tariff, creating a narrow window amid tight supply and ongoing China demand considerations.
+- Nvidia’s AI ecosystem leadership and growth drivers remain intact, with opportunities from sovereign AI efforts and partnerships (e.g., OpenAI), ongoing Vera Rubin platform development for 2026, and sustained GPU demand contributing to continued upside despite rising memory costs.
 
 <!-- BulletPointEnd -->
 
