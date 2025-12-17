@@ -26,12 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia (NVDA) reported blockbuster results with Q3 revenue of $57 billion (up 62% YoY), gross margins above 73%, and guided to about $65 billion in next-quarter revenue, underscoring robust AI GPU demand.
-- Wall Street remains highly bullish on NVDA, with a Strong Buy consensus (about 39 Buys, 1 Hold, 1 Sell) and average targets around $258.45, signaling roughly 42%–48% upside over the next year.
-- Some investors worry the AI demand boom may not be endless and question the durability of Nvidia’s moat, citing Alphabet’s Gemini 3 and other potential competitive pressures that could temper growth.
-- Regulatory and export dynamics add uncertainty: U.S. policy allows sale of H200 AI chips to China under a 25% tariff, creating a narrow window amid tight supply and ongoing China demand considerations.
-- Nvidia’s AI ecosystem leadership and growth drivers remain intact, with opportunities from sovereign AI efforts and partnerships (e.g., OpenAI), ongoing Vera Rubin platform development for 2026, and sustained GPU demand contributing to continued upside despite rising memory costs.
+- Nvidia named as an initial private-sector partner for the U.S. Tech Force program, signaling strong public-private AI collaboration. (Article 1/5)
+- Nvidia and SK Hynix are developing an AI SSD to boost AI workloads, potentially reaching up to 100 million IOPS; NVDA has a Strong Buy consensus with an average target around $258.97, implying about 46.6% upside. (Article 2)
+- Nvidia remains the AI leadership play, with Q3 revenue over $50B and a broad Buy consensus among analysts; average target near $258.97, roughly 47% upside. (Article 6)
+- Nvidia’s acquisition of SchedMD aims to strengthen AI workload orchestration; UBS maintains a Strong Buy stance with a 12-month target around $258.97 and about 48% upside. (Article 7)
+- Cathie Wood’s ARK added CoreWeave (Nvidia-backed AI cloud firm) to its holdings, highlighting Nvidia’s ecosystem expansion and reliance on Nvidia-backed AI infrastructure. (Article 9)
 
+Optimsim rating for NVIDIA stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
