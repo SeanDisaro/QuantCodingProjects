@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia named as an initial private-sector partner for the U.S. Tech Force program, signaling strong public-private AI collaboration. (Article 1/5)
-- Nvidia and SK Hynix are developing an AI SSD to boost AI workloads, potentially reaching up to 100 million IOPS; NVDA has a Strong Buy consensus with an average target around $258.97, implying about 46.6% upside. (Article 2)
-- Nvidia remains the AI leadership play, with Q3 revenue over $50B and a broad Buy consensus among analysts; average target near $258.97, roughly 47% upside. (Article 6)
-- Nvidia’s acquisition of SchedMD aims to strengthen AI workload orchestration; UBS maintains a Strong Buy stance with a 12-month target around $258.97 and about 48% upside. (Article 7)
-- Cathie Wood’s ARK added CoreWeave (Nvidia-backed AI cloud firm) to its holdings, highlighting Nvidia’s ecosystem expansion and reliance on Nvidia-backed AI infrastructure. (Article 9)
+- Nvidia is a top pick for 2026 across Morgan Stanley’s semi stocks, with NVDA singled out as the best ROI among processors and a Vera Rubin platform ramp expected in H2 2026; the firm also sees Nvidia undervalued on its cloud-computing role. 
 
-Optimsim rating for NVIDIA stock: 
+- The stock is viewed as having substantial upside by analysts, with a 12-month price target around $258.97 implying roughly 50%+ potential upside and a Strong Buy consensus among analysts. 
+
+- In the near term, Nvidia’s shares have faced pressure, sliding about 3% on a day tied to AI stock weakness, underscoring continued sentiment risk even as long‑term growth remains highlighted. 
+
+- Demand for Nvidia hardware in AI data-centers is strengthening, as shown by Hut 8’s $7B AI data-center lease backed by Google and the broader shift of AI infrastructure toward Nvidia GPUs powering deployments like CoreWeave. 
+
+- Competitive dynamics are evolving, with Google/Meta exploring TPU adoption to reduce Nvidia GPU dependence; while Nvidia currently leads AI GPU demand vs AMD, TPU-focused ecosystems could pose longer‑term headwinds. 
+
+Optimism rating for NVIDIA stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
