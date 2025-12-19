@@ -26,15 +26,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is a top pick for 2026 across Morgan Stanley’s semi stocks, with NVDA singled out as the best ROI among processors and a Vera Rubin platform ramp expected in H2 2026; the firm also sees Nvidia undervalued on its cloud-computing role. 
+- Nvidia’s RTX PRO 5000 GPU, built on the Blackwell design, ships with 72GB memory and is aimed at AI developers for faster real-time training and inference (claims: 2,142 trillion ops/s; 3.5x faster image generation vs. older models; supports on-device AI workflows).
 
-- The stock is viewed as having substantial upside by analysts, with a 12-month price target around $258.97 implying roughly 50%+ potential upside and a Strong Buy consensus among analysts. 
+- The stock has strong buy sentiment from analysts, with price targets around $258.97 implying roughly 48% upside; some houses (e.g., Tigress Financial) even target about $350 (over 100% upside) over a 12-month horizon.
 
-- In the near term, Nvidia’s shares have faced pressure, sliding about 3% on a day tied to AI stock weakness, underscoring continued sentiment risk even as long‑term growth remains highlighted. 
+- Nvidia faces competitive pressure from Google’s AI-chip push (TPUs) intended to challenge Nvidia’s GPU dominance, as part of Google’s broader move to diversify AI hardware options.
 
-- Demand for Nvidia hardware in AI data-centers is strengthening, as shown by Hut 8’s $7B AI data-center lease backed by Google and the broader shift of AI infrastructure toward Nvidia GPUs powering deployments like CoreWeave. 
+- There are valuation and margin concerns tied to AI infrastructure spending: high price-to-earnings and elevated valuations amid potential AI-bubble fears if hyperscaler capex slows, which could cap upside if growth slows.
 
-- Competitive dynamics are evolving, with Google/Meta exploring TPU adoption to reduce Nvidia GPU dependence; while Nvidia currently leads AI GPU demand vs AMD, TPU-focused ecosystems could pose longer‑term headwinds. 
+- Market sentiment shows risk of a crowded trade around Nvidia: JPMorgan highlights Nvidia as part of a cluster of “extreme crowding” among speculative AI beneficiaries, suggesting potential for a sharper reversal if macro or AI-spending dynamics shift; options data currently shows a modestly bullish tilt but not extreme momentum.
 
 Optimism rating for NVIDIA stock: 
 <!-- BulletPointEnd -->
