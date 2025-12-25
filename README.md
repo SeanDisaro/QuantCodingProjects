@@ -26,17 +26,12 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia remains the AI GPU leader with strong data-center demand and a sizable total opportunity (the “$500 billion” potential from Blackwell and Rubin through 2025–2026), with analysts signaling roughly 50% upside on NVDA.
-
-- The CUDA ecosystem is expanding (CUDA 13.1 and CUDA Tile), reinforcing Nvidia’s moat as a critical AI infrastructure player beyond just hardware.
-
-- Despite a high valuation (P/E around 44.8, forward ~39.99; EV/Sales ~20.7), market sentiment is bullish, with a Strong Buy consensus and about 43% upside over the next 12 months.
-
-- Insider activity shows caution signals, including notable NVDA insider selling (e.g., a director sold $40 million), contributing to mixed near-term risk signals.
-
-- Regulatory and supply-chain dynamics present both risk and opportunity: China export restrictions on high-end chips (with potential revenue-sharing requirements on H200 shipments) weigh on growth, while supply-side moves (Samsung’s Texas 2-nm expansion, potential NVDA involvement, and demand signals like ByteDance’s H200 orders) point to ongoing AI hardware demand.
-
-
+- Cantor Fitzgerald expects Nvidia (NVDA) to lead the Santa Claus rally and rebound into year-end and 2026, calling the stock “ripe for outperformance” with a $300 price target and roughly 40% upside; overweight/Buy-equivalent stance and a Strong Buy consensus among about 41 analysts.
+- Wedbush (IVES)’s 2026 AI outlook names Nvidia as the top AI chip supplier with a bullish price target of $275, citing better access to China and a shifting AI spend/profit cycle.
+- TipRanks AI Stock Analysis gives Nvidia an Outperform rating with a $205 target implying about 9% upside, highlighting strong revenue growth, partnerships, and a solid long-term AI thesis, while noting valuation and geopolitical risks.
+- Nvidia is among the most active names in options trading, with large new NVDA call positions (e.g., around 192.5 and 197.5 strikes) and notable put activity, signaling high-interest bets from traders.
+- Notable NVDA options trades show bullish sentiment, such as a buyer’s 1,189 NVDA Feb-26 190 calls producing about 28% mark-to-market profit as the stock traded around $184, underscoring investor optimism in near-term upside.
+- 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
