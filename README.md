@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia has shown strong stock momentum (about 40% YTD gain) with multiple analysts issuing buy ratings and target prices around the mid-$260s, implying roughly 40% upside. 
-- The company is expanding aggressively in its AI ecosystem, highlighted by the Groq $20B acquisition/licensing moves and leadership hires, plus anticipated technology milestones (Blackwell, Rubin, Vera-Rubin, NVLink 6) and large-scale LLM deployment in 2026.
-- Near-term visibility remains bullish: Nvidia ended the prior quarter with substantial cash on hand (around $60.6B) and guided for about $65B in sales for the current quarter, underscoring durable demand from hyperscalers and enterprise AI spend.
-- Market sentiment shows a mix of caution and conviction: some investors worry about AI spending, valuations, and competition, yet the consensus remains Strong Buy with upside targets around $263.58, supported by Nvidia’s moat and roadmap.
-- Industry tailwinds from AI memory and infrastructure demand favor Nvidia: rising HBM demand and memory-price dynamics are benefiting AI data-center chipmakers, reinforcing Nvidia’s position in AI hardware and related ecosystems. 
+- Nvidia signs a major licensing deal with Groq to integrate Groq’s low-latency inference chips into its AI factory architecture, viewed by analysts as an acqui-hire-type move rather than a full acquisition.
 
+- Nvidia is positioning itself at the intersection of quantum computing by expanding CUDA Quantum and NVQLink, making it a key partner for quantum systems alongside classical GPUs; analysts peg Nvidia with about 38% upside.
 
+- The AI data-center wave supports Nvidia’s dominant margins (often cited as 70%+), while total AI data-center spending could top $1.2 trillion by 2030; pricing pressure on suppliers could be a risk despite Nvidia’s leadership.
+
+- Market sentiment around Nvidia remains very bullish: the stock is valued near a multi-trillion-dollar cap (~$4.6T), with strong-buy consensus and price targets around $263.58, implying roughly 38% upside.
+
+- Nvidia is among users of open models like Alibaba’s Qwen, with Qwen’s broad adoption across consumer/enterprise tools (and Nvidia’s use) highlighting cross-model flexibility and industry-wide AI integration. 
+
+Rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
