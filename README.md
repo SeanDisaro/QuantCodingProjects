@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia signs a major licensing deal with Groq to integrate Groq’s low-latency inference chips into its AI factory architecture, viewed by analysts as an acqui-hire-type move rather than a full acquisition.
+- Groq–Nvidia licensing deal: Groq and Nvidia reportedly entered a non-exclusive licensing agreement for inference technology; a reported $20B strategic transaction value, with Stifel maintaining a Buy and a $250 price target, Citi a Buy with $270, and Truist a Buy with $275, plus notes on potential integration with Groq’s second‑gen LPU on a Samsung 4nm process and Nvidia’s Rubin rack systems to bolster AI infrastructure leadership.
 
-- Nvidia is positioning itself at the intersection of quantum computing by expanding CUDA Quantum and NVQLink, making it a key partner for quantum systems alongside classical GPUs; analysts peg Nvidia with about 38% upside.
+- Nvidia earnings snapshot (quarter ending Oct 26): Nvidia posted quarterly revenue of $57.01B and net profit of $31.91B; insider activity shown as negative sentiment, including a sale by Mark A. Stevens (Director) of 222,500 shares for about $40.1M.
 
-- The AI data-center wave supports Nvidia’s dominant margins (often cited as 70%+), while total AI data-center spending could top $1.2 trillion by 2030; pricing pressure on suppliers could be a risk despite Nvidia’s leadership.
+- GPU pricing outlook for 2026: Reports indicate AMD will raise GPU prices early 2026, with Nvidia likely following about one month later; price hikes tied to AI data-center demand and VRAM costs, with AMD cited as raising prices roughly $10 per 8GB of VRAM (Nvidia’s amount not yet disclosed).
 
-- Market sentiment around Nvidia remains very bullish: the stock is valued near a multi-trillion-dollar cap (~$4.6T), with strong-buy consensus and price targets around $263.58, implying roughly 38% upside.
+- Analyst ratings and targets: Analysts remain constructive on Nvidia with snapshots such as Mizuho – Buy ($245 PT), UBS – Buy ($235 PT), Citi – Buy ($270 PT), and Truist – Buy ($275 PT); several notes point to Nvidia’s upside potential vs peers in AI infrastructure leadership.
 
-- Nvidia is among users of open models like Alibaba’s Qwen, with Qwen’s broad adoption across consumer/enterprise tools (and Nvidia’s use) highlighting cross-model flexibility and industry-wide AI integration. 
+- Options activity signal: Friday’s option market showed heavy activity with Nvidia among the top movers; NVDA 165‑strike puts for the Feb‑26 series were among the notable new positions (about 28k puts), reflecting notable hedging/bearish tilt in short-dated options.
 
-Rating: 
+Bottom-line market optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
