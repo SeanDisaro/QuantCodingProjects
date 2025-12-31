@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Groq–Nvidia licensing deal: Groq and Nvidia reportedly entered a non-exclusive licensing agreement for inference technology; a reported $20B strategic transaction value, with Stifel maintaining a Buy and a $250 price target, Citi a Buy with $270, and Truist a Buy with $275, plus notes on potential integration with Groq’s second‑gen LPU on a Samsung 4nm process and Nvidia’s Rubin rack systems to bolster AI infrastructure leadership.
+- Nvidia (NVDA) upside remains a central theme among analysts, with an average price target around $262.79 implying about 39–40% upside.
 
-- Nvidia earnings snapshot (quarter ending Oct 26): Nvidia posted quarterly revenue of $57.01B and net profit of $31.91B; insider activity shown as negative sentiment, including a sale by Mark A. Stevens (Director) of 222,500 shares for about $40.1M.
+- Nvidia is expanding its AI footprint through deals and acquisitions, including potential $3 billion talks to acquire AI21 Labs and a broad strategic push in Israel (200+ AI experts; new R&D campus planned near Haifa).
 
-- GPU pricing outlook for 2026: Reports indicate AMD will raise GPU prices early 2026, with Nvidia likely following about one month later; price hikes tied to AI data-center demand and VRAM costs, with AMD cited as raising prices roughly $10 per 8GB of VRAM (Nvidia’s amount not yet disclosed).
+- Nvidia continues to reinforce its AI leadership by licensing Groq’s LPUs for about $20 billion and hiring the majority of Groq’s engineers, a move seen as strengthening real-time AI inference leadership and fending off rivals.
 
-- Analyst ratings and targets: Analysts remain constructive on Nvidia with snapshots such as Mizuho – Buy ($245 PT), UBS – Buy ($235 PT), Citi – Buy ($270 PT), and Truist – Buy ($275 PT); several notes point to Nvidia’s upside potential vs peers in AI infrastructure leadership.
+- The 2026 outlook remains bullish, with several firms issuing high targets: Cantor Fitzgerald at $300 (roughly 60% upside), Feinseth at $350 (~85% upside), and Bank of America at $275 (~56% upside), while consensus targets hover near $262.79 (~40% upside).
 
-- Options activity signal: Friday’s option market showed heavy activity with Nvidia among the top movers; NVDA 165‑strike puts for the Feb‑26 series were among the notable new positions (about 28k puts), reflecting notable hedging/bearish tilt in short-dated options.
+- The options market shows a modestly bullish tilt for NVDA, with implied volatility around 34.9, a put-call ratio near 0.83, and notable call activity relative to puts, signaling continued investor interest despite near-term volatility.
 
-Bottom-line market optimism rating for Nvidia stock: 
+Market optimism rating for NVIDIA stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
