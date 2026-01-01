@@ -1,11 +1,10 @@
-- Nvidia (NVDA) upside remains a central theme among analysts, with an average price target around $262.79 implying about 39–40% upside.
+- ByteDance plans to spend about RMB100 billion ($14 billion) on Nvidia H200 AI chips next year, contingent on U.S. approval to sell in China; demand for H200 is strong, with Nvidia seeking to ramp up production via TSMC as stock remains tight (about 700k) while orders for 2026 exceed 2 million units.
 
-- Nvidia is expanding its AI footprint through deals and acquisitions, including potential $3 billion talks to acquire AI21 Labs and a broad strategic push in Israel (200+ AI experts; new R&D campus planned near Haifa).
+- Brookfield’s AI cloud push includes Nvidia helping build large server clusters and investing in Brookfield’s AI Infrastructure Fund, underscoring Nvidia’s role in AI cloud infrastructure and the potential for lower cloud costs as AI adoption scales.
 
-- Nvidia continues to reinforce its AI leadership by licensing Groq’s LPUs for about $20 billion and hiring the majority of Groq’s engineers, a move seen as strengthening real-time AI inference leadership and fending off rivals.
+- TSMC’s mass production of 2nm chips strengthens the AI supply chain; Nvidia is a major partner among users of TSMC’s tech, suggesting Nvidia stands to benefit from the broader efficiency and performance gains in AI data centers.
 
-- The 2026 outlook remains bullish, with several firms issuing high targets: Cantor Fitzgerald at $300 (roughly 60% upside), Feinseth at $350 (~85% upside), and Bank of America at $275 (~56% upside), while consensus targets hover near $262.79 (~40% upside).
+- CES 2026 features Nvidia CEO Jensen Huang’s keynote, with a focus on AI across data centers, cloud tools, and consumer devices, highlighting Nvidia’s central role in advancing AI hardware and software ecosystems.
 
-- The options market shows a modestly bullish tilt for NVDA, with implied volatility around 34.9, a put-call ratio near 0.83, and notable call activity relative to puts, signaling continued investor interest despite near-term volatility.
+- IonQ’s Korea deal, and the broader comparison to Nvidia’s strategy, illustrate Nvidia’s positioning as an indispensable platform across AI, gaming, and emerging quantum-related computing—embedding Nvidia’s tech into national-scale and cross-system deployments.
 
-Market optimism rating for NVIDIA stock: 
