@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- 2026 upside and consensus: Analysts largely expect Nvidia to surge in 2026, with upside targets around 39–41% and a Strong Buy consensus on NVDA shares (price targets near $263).
+- NVDA remains a Wall Street favorite with a Strong Buy consensus and price targets around the mid-262s, signaling meaningful upside despite near-term risks.  
+- The Groq licensing/acquisition move is boosting NVDA’s AI inference capabilities, with analysts like Arcuri (target around $270) and UBS/Citi positive on the potential to enhance real-time inference performance.  
+- Near-term GPU supply dynamics (memory shortages) are pressuring consumer GPU pricing and shaping production plans, including a 30–40% cut in gaming-GPU output in H1 2026 and a restart of the RTX 3060 to maintain the lower end of the market.  
+- NVDA is expanding its AI stack reach through collaborations (e.g., Arbe Robotics for autonomous driving) and by integrating Groq’s IP, reinforcing its moat in both training and inference.  
+- The market outlook remains upbeat on NVDA driven by large-scale AI/data-center spending and CES 2026 visibility, underscoring a bullish sentiment for NVDA’s growth trajectory.  
 
-- Transformative Groq licensing deal: Nvidia's $20 billion licensing deal with Groq for its inference-focused LPUs, plus Groq executives joining Nvidia, signals a strategic emphasis on fast, energy-efficient AI inference and a new architecture alongside GPUs.
-
-- CES 2026 and “physical AI” leadership: Nvidia is positioning itself as a core supplier for AI that operates in the real world (robots, factories, digital models), with Jensen Huang highlighting data centers, robotics, and industrial AI themes at CES.
-
-- Quantum computing alignment: Nvidia is expanding its role in quantum computing ecosystems by deepening CUDA Quantum tools and NVQLink, positioning GPUs as a bridge between quantum and classical systems rather than building quantum chips itself.
-
-- China export potential and demand ramp: The U.S. allowing Nvidia to sell H200 AI chips to China could unlock multi‑billion dollar revenue in 2026, supported by strong demand (e.g., large orders and chip production at TSMC) and substantial downstream spending on Nvidia AI hardware globally.
-
-
+Rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
