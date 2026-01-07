@@ -26,13 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVDA remains a Wall Street favorite with a Strong Buy consensus and price targets around the mid-262s, signaling meaningful upside despite near-term risks.  
-- The Groq licensing/acquisition move is boosting NVDA’s AI inference capabilities, with analysts like Arcuri (target around $270) and UBS/Citi positive on the potential to enhance real-time inference performance.  
-- Near-term GPU supply dynamics (memory shortages) are pressuring consumer GPU pricing and shaping production plans, including a 30–40% cut in gaming-GPU output in H1 2026 and a restart of the RTX 3060 to maintain the lower end of the market.  
-- NVDA is expanding its AI stack reach through collaborations (e.g., Arbe Robotics for autonomous driving) and by integrating Groq’s IP, reinforcing its moat in both training and inference.  
-- The market outlook remains upbeat on NVDA driven by large-scale AI/data-center spending and CES 2026 visibility, underscoring a bullish sentiment for NVDA’s growth trajectory.  
+- PepsiCo (PEP) is partnering with Siemens and NVIDIA Omniverse to transform plant and supply chain operations using digital twins and AI, with early pilots in the U.S. and plans to scale globally.
+- Nvidia (NVDA) CFO says the company’s supply chain is very solid, signaling strong operational resilience.
+- Nvidia’s CFO states that its $500 billion total addressable market (TAM) has definitely gotten larger, highlighting expanding AI opportunities.
+- Aaon (AAON) notes that Nvidia’s Rubin chips are reducing the need for chillers in data centers, reinforcing cooling demand trends and presenting a buying opportunity.
+- Universal Music Group (UMGNF) collaborators with NVIDIA to pursue responsible AI for music discovery, creation, and engagement, leveraging NVIDIA AI infrastructure for R&D and rights-holder considerations.
 
-Rating: 
+
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
