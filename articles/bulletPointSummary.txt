@@ -1,11 +1,11 @@
-- Nvidia’s market capitalization sits around $4.60 trillion, keeping it ahead of Alphabet and Apple as the leading AI/semiconductor stock, buoyed by AI-driven demand and excitement. 
+- China is set to approve imports of Nvidia’s H200 AI chips this quarter, with strict terms requiring full upfront payment and no post-purchase changes or refunds, signaling strong demand but regulatory delivery risk. (Articles 1 and 6)
 
-- Regulatory risk in China around Nvidia’s H200 chips: Chinese authorities have paused or limited H200 purchases, creating near-term uncertainty despite some easing signals from U.S. policy.
+- Demand for the H200 remains robust in China (customers ordered over 2 million chips at about $27,000 each), and Nvidia claims the H200 delivers stronger performance than the prior H20, though delivery timing hinges on regulatory approvals. (Article 6)
 
-- The Rubin platform at CES introduces six new chips and aims to deliver a significantly larger AI supercomputer footprint, with cooling innovations that could alter data-center infrastructure and energy use.
+- Tesla’s $10 billion (potentially $20 billion without Nvidia’s AI4 chipset) hardware plan underscores Nvidia’s central role in automakers’ AI training needs and autonomous capabilities. (Article 2)
 
-- Nvidia’s expanding enterprise footprint through partnerships and collaborations (e.g., Lenovo’s AI Cloud Gigafactory with Nvidia; Infosys/AWS collaboration; Caterpillar’s AI-enabled collaboration) signals broad deployment of AI across industries.
+- Archer Aviation is deploying Nvidia IGX Thor as a high-power onboard AI computer for safety-critical flight planning and autonomy, with Wall Street seeing meaningful upside ( Archer target around $12.40 implying ~39% upside). (Article 5)
 
-- Analysts remain bullish, with a strong buy consensus and upside targets (e.g., a $263.76 price target implying roughly 39% upside), underscoring widespread expectations for continued Nvidia-led AI growth.
+- SKYX Platforms joined Nvidia’s Connect Program to access Nvidia’s cloud and AI ecosystem, supporting development of its all-in-one smart home platform and broader product line. (Article 9)
 
 Optimism rating for Nvidia stock: 
