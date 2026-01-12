@@ -1,11 +1,7 @@
-- China is set to approve imports of Nvidia’s H200 AI chips this quarter, with strict terms requiring full upfront payment and no post-purchase changes or refunds, signaling strong demand but regulatory delivery risk. (Articles 1 and 6)
+- NVDA stock has climbed nearly 35% over the past year, with the company’s market cap approaching about $4.6 trillion.
+- At CES 2026, Nvidia highlighted Alpamayo (an open-source AI model for autonomous driving), along with upgrades to the Vera CPU and Rubin GPU; Rubin architecture production is moving forward at full speed.
+- The company has delivered massive growth, with Data Center revenue surging to $51.2B in the quarter ended Oct 26, 2025 as part of over $50B total revenue, underscoring strong AI-driven momentum.
+- The AI infrastructure wave supports a very large TAM long-term: Nvidia projects $3–4 trillion in global data-center capex by 2030, implying substantial upside potential (e.g., targets suggesting significant stock upside by 2030).
+- Analysts are upbeat: average price target around $263.76 for the next 12 months (roughly 39–40% upside), with higher individual targets (e.g., $352 from Evercore ISI) and a path toward roughly $410 per share by 2030 (about 117% upside from current levels).
 
-- Demand for the H200 remains robust in China (customers ordered over 2 million chips at about $27,000 each), and Nvidia claims the H200 delivers stronger performance than the prior H20, though delivery timing hinges on regulatory approvals. (Article 6)
-
-- Tesla’s $10 billion (potentially $20 billion without Nvidia’s AI4 chipset) hardware plan underscores Nvidia’s central role in automakers’ AI training needs and autonomous capabilities. (Article 2)
-
-- Archer Aviation is deploying Nvidia IGX Thor as a high-power onboard AI computer for safety-critical flight planning and autonomy, with Wall Street seeing meaningful upside ( Archer target around $12.40 implying ~39% upside). (Article 5)
-
-- SKYX Platforms joined Nvidia’s Connect Program to access Nvidia’s cloud and AI ecosystem, supporting development of its all-in-one smart home platform and broader product line. (Article 9)
-
-Optimism rating for Nvidia stock: 
+Market optimism rating for NVIDIA stock: 
