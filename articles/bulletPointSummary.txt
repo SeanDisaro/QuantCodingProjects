@@ -1,7 +1,6 @@
-- NVDA stock has climbed nearly 35% over the past year, with the company’s market cap approaching about $4.6 trillion.
-- At CES 2026, Nvidia highlighted Alpamayo (an open-source AI model for autonomous driving), along with upgrades to the Vera CPU and Rubin GPU; Rubin architecture production is moving forward at full speed.
-- The company has delivered massive growth, with Data Center revenue surging to $51.2B in the quarter ended Oct 26, 2025 as part of over $50B total revenue, underscoring strong AI-driven momentum.
-- The AI infrastructure wave supports a very large TAM long-term: Nvidia projects $3–4 trillion in global data-center capex by 2030, implying substantial upside potential (e.g., targets suggesting significant stock upside by 2030).
-- Analysts are upbeat: average price target around $263.76 for the next 12 months (roughly 39–40% upside), with higher individual targets (e.g., $352 from Evercore ISI) and a path toward roughly $410 per share by 2030 (about 117% upside from current levels).
+- Nvidia sits at the core of AI deployment, leveraging its GPUs plus a broad software stack to lock in customers and power data-center AI workloads; the Rubin platform (six-chip configuration) is in full production, signaling a next-gen wave of AI compute. 
+- Analysts remain broadly bullish: NVDA holds a Strong Buy consensus with around a $264.97 average price target, implying roughly 43% upside over the next 12 months.
+- Nvidia’s Rubin/NVL72 stack and ongoing innovation are viewed as giving it a clearer path ahead of peers like AMD, with Morgan Stanley’s Moore highlighting Rubin’s production and competitive positioning.
+- Geopolitical and regulatory dynamics present both risk and potential upside: China has restricted H200 access in the near term, but policy shifts could alter the demand/supply backdrop.
+- Nvidia’s AI ecosystem expansion is accelerating through strategic partnerships and integrations (Thermo Fisher collaboration; Five9 with Google Cloud; Wayfair-Google AI shopping), broadening AI deployments and reinforcing demand for Nvidia’s platform.
 
-Market optimism rating for NVIDIA stock: 
