@@ -26,11 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia sits at the core of AI deployment, leveraging its GPUs plus a broad software stack to lock in customers and power data-center AI workloads; the Rubin platform (six-chip configuration) is in full production, signaling a next-gen wave of AI compute. 
-- Analysts remain broadly bullish: NVDA holds a Strong Buy consensus with around a $264.97 average price target, implying roughly 43% upside over the next 12 months.
-- Nvidia’s Rubin/NVL72 stack and ongoing innovation are viewed as giving it a clearer path ahead of peers like AMD, with Morgan Stanley’s Moore highlighting Rubin’s production and competitive positioning.
-- Geopolitical and regulatory dynamics present both risk and potential upside: China has restricted H200 access in the near term, but policy shifts could alter the demand/supply backdrop.
-- Nvidia’s AI ecosystem expansion is accelerating through strategic partnerships and integrations (Thermo Fisher collaboration; Five9 with Google Cloud; Wayfair-Google AI shopping), broadening AI deployments and reinforcing demand for Nvidia’s platform.
+- Nvidia’s stock slipped about 2% on Wednesday morning even as the Pax Silica alliance expands, with ongoing potential benefits from a U.S.-brokered AI supply-chain arrangement. (Article 3)
+- Analysts continue to rate NVDA as a Strong Buy, with 39 buys, 1 hold, and 1 sell from 41 analysts, and an average price target of $264.97 implying roughly 46% upside. (Article 3)
+- Nvidia’s venture capital arm, NVentures, led or participated in Skild AI’s funding round, pushing Skild’s valuation above $14 billion. (Article 6)
+- TSMC capacity constraints highlight near-term AI chip supply limits, with Nvidia among the top customers and new capacity coming online only years away. (Article 7)
+- Wall Street sees Nvidia as having the highest upside potential among major AI stocks over the next year, supported by a Strong Buy consensus amid policy and AI-data-center dynamics. (Article 8)
 
 
 <!-- BulletPointEnd -->
