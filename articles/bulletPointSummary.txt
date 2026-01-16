@@ -1,6 +1,11 @@
-- Nvidia’s stock slipped about 2% on Wednesday morning even as the Pax Silica alliance expands, with ongoing potential benefits from a U.S.-brokered AI supply-chain arrangement. (Article 3)
-- Analysts continue to rate NVDA as a Strong Buy, with 39 buys, 1 hold, and 1 sell from 41 analysts, and an average price target of $264.97 implying roughly 46% upside. (Article 3)
-- Nvidia’s venture capital arm, NVentures, led or participated in Skild AI’s funding round, pushing Skild’s valuation above $14 billion. (Article 6)
-- TSMC capacity constraints highlight near-term AI chip supply limits, with Nvidia among the top customers and new capacity coming online only years away. (Article 7)
-- Wall Street sees Nvidia as having the highest upside potential among major AI stocks over the next year, supported by a Strong Buy consensus amid policy and AI-data-center dynamics. (Article 8)
+- 25% U.S. tariff on Nvidia’s H200 AI chips imported from Taiwan, part of broader tariffs on advanced semiconductors.
 
+- China-bound Nvidia H200 sales face regulatory scrutiny, with rules on how many advanced AI chips local firms can buy; some Nvidia sales may be permitted under exceptions.
+
+- Nvidia is a heavyweight participant in BlackRock–Microsoft’s MGX AI infrastructure venture, signaling long-term GPU demand for AI data centers and related infrastructure.
+
+- President Trump publicly referenced Nvidia in discussions of potential government AI investments, indicating policy-level attention around Nvidia and its technology.
+
+- Nvidia stock shows notable options activity, with NVDA among top movers as a stream of new NVDA option positions hits the market.
+
+Optimism rating for NVIDIA stock: 
