@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia’s Rubin and Blackwell platforms deliver clear efficiency gains (about 90% lower inference token costs and 75% fewer GPUs needed for training), supporting higher margins and pricing power.
+- Nvidia is pointed to by multiple analysts as a strong upside candidate, with a Strong Buy consensus and an average price target around $263.44, implying roughly 39% upside.
 
-- China export controls on H200 shipments create near-term headwinds (blocked shipments, inventory risk, and shifts to other chips), though long-term AI demand remains robust.
+- RBC initiated coverage on NVDA with an Outperform/Buy rating and a $240 price target, highlighting an attractive risk-reward setup.
 
-- The market is broadly bullish: multiple Strong Buy ratings with about 40%+ upside expected over the next year, and average targets around $263.44 (with bulls exploring higher targets such as $352).
+- Nvidia’s demand pipeline is robust, with a backlog above $500 billion; AI inferencing is accelerating, and Rubin-based systems are in production, supporting sustained data-center growth.
 
-- Nvidia remains central to the AI data-center cycle, backed by large data-center orders and strong cash flows that fund ongoing chip development and capacity expansion.
+- Nvidia dominates the AI accelerator market (about 80%), though the share is expected to edge down toward ~70% by 2027 as ASICs and AMD gain some traction.
 
-- Valuation remains stretched (forward P/E in the mid-40s to around 50x in some notes), supported by growth but with risk of multiple compression if demand cools or competitive pressures rise.
+- Valuation looks attractive, with NVDA trading around 24x FY27E EPS and a valuation set near the low end of its historical range, reflecting a favorable risk-reward given sustained AI spending.
 
-Rating: 
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
