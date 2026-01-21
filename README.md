@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is pointed to by multiple analysts as a strong upside candidate, with a Strong Buy consensus and an average price target around $263.44, implying roughly 39% upside.
+- NVIDIA is positioned as a top AI stock to buy during pullbacks, with Wedbush’s Daniel Ives noting the AI cycle remains intact and suggesting investors use weakness to add NVDA amid expectations of a strong Q4 and ongoing AI-driven tech spending. 
+- NVIDIA is increasing its AI ecosystem exposure by investing about $150 million into Baseten as part of a $300 million round, valuing Baseten around $5 billion and expanding NVIDIA’s footprint beyond hardware into software/AI infrastructure.
+- NVIDIA is part of Anthropic’s funding round, with Microsoft and NVIDIA committing to invest up to $15 billion in the AI startup, underscoring NVIDIA’s growing role in enterprise AI partnerships.
+- RBC analyst Srinivasa (Pajjuri) initiated coverage of NVIDIA with an Outperform rating and a $240 price target, citing NVIDIA’s $500B+ AI backlog, surging inferencing demand, and a high-margin, full-stack AI leadership position.
+- NVIDIA’s data-center roadmap and hardware evolution are highlighted, with plans extending from current NVL/NVL2 platforms to new N2/N2X systems and a potential 2026 Windows-on-Arm notebook, signaling continued expansion of its AI hardware stack. 
 
-- RBC initiated coverage on NVDA with an Outperform/Buy rating and a $240 price target, highlighting an attractive risk-reward setup.
 
-- Nvidia’s demand pipeline is robust, with a backlog above $500 billion; AI inferencing is accelerating, and Rubin-based systems are in production, supporting sustained data-center growth.
-
-- Nvidia dominates the AI accelerator market (about 80%), though the share is expected to edge down toward ~70% by 2027 as ASICs and AMD gain some traction.
-
-- Valuation looks attractive, with NVDA trading around 24x FY27E EPS and a valuation set near the low end of its historical range, reflecting a favorable risk-reward given sustained AI spending.
-
-Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
