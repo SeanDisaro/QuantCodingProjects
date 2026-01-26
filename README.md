@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Alibaba’s T-Head AI chip unit is being groomed to challenge Nvidia (NVDA) in the AI accelerators market, including a restructure into a partially employee-owned unit and an eventual IPO.
+- Drell Persis resigned from Nvidia’s board on January 20, 2026.  
+- Nvidia remains an AI-chip leader with strong data-center demand; Q3 FY26 revenue reached about $57 billion and backlogs for next‑gen Blackwell and Rubin platforms support ongoing spending.  
+- Analysts are broadly bullish, with average targets around $263.44 implying roughly 42–43% upside; consensus remains Strong Buy with many Buy ratings.  
+- Nvidia reportedly dominates roughly 80–90% of the AI accelerator market, supported by its CUDA ecosystem; next-gen Vera Rubin platform is expected to reduce AI processing costs.  
+- Near-term risks include geopolitical/china access considerations and elevated inventories, plus potential memory-price headwinds, though options activity shows a modestly bullish stance.  
 
-- Nvidia is a popular holding among hedge funds, highlighted as one of the top stock picks in the sector, signaling strong professional investor interest.
-
-- There has been notable NVDA options activity, including bullish bets like Mar-26 200 calls, with traders booking meaningful profits, indicating ongoing positive sentiment around NVDA.
-
-- China-specific risks for Nvidia are evident as export limits on Nvidia hardware push Chinese firms to develop or acquire local AI chips (e.g., Alibaba’s T-Head) and diversify away from US chips.
-
-- The broader AI-infrastructure expansion by OpenAI, Google, and Microsoft continues to underpin demand for AI accelerators, keeping Nvidia as a key supplier in the AI stack.
-
-Rating of market optimism for Nvidia stock: 
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
