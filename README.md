@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Drell Persis resigned from Nvidia’s board on January 20, 2026.  
-- Nvidia remains an AI-chip leader with strong data-center demand; Q3 FY26 revenue reached about $57 billion and backlogs for next‑gen Blackwell and Rubin platforms support ongoing spending.  
-- Analysts are broadly bullish, with average targets around $263.44 implying roughly 42–43% upside; consensus remains Strong Buy with many Buy ratings.  
-- Nvidia reportedly dominates roughly 80–90% of the AI accelerator market, supported by its CUDA ecosystem; next-gen Vera Rubin platform is expected to reduce AI processing costs.  
-- Near-term risks include geopolitical/china access considerations and elevated inventories, plus potential memory-price headwinds, though options activity shows a modestly bullish stance.  
+- NVIDIA remains the AI chips leader, with strong growth expected into 2026 (revenue around $57B in Q3 FY26) and bullish analyst sentiment; one target implies about 18–19% upside (around $218) and a Strong Buy consensus.
 
-Market optimism rating: 
+- Analysts consistently target NVDA well above current levels, with around $263.11 as a common price target and roughly 41–42% upside, supported by a Strong Buy/similar consensus.
+
+- Ecosystem expansion around CoreWeave: NVIDIA-backed growth to accelerate to 5GW of AI capacity by 2030, with Nvidia aiding land/power infrastructure and Mission Control software; CoreWeave stake rising to ~9%, underscoring strategic partnering.
+
+- Earth-2 weather AI platform highlights NVIDIA’s AI-integration reach: 15-day forecast capability used by major agencies (NWS, The Weather Company, etc.) and open models, with partnerships (Microsoft, Google) and a Strong Buy stance with about a 41% upside to $263.11.
+
+- Key risks to monitor: geopolitical tensions with China and high inventory levels, which could influence data-center demand and near-term profitability despite the long-term bullish setup. 
+
+
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
