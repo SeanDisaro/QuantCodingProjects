@@ -1,10 +1,11 @@
-- Nvidia remains a central driver of AI data-center growth, with demand for its chips continuing to outpace supply in the near term, supporting sustained pricing power and strong ecosystem momentum. (Articles 2, 4)
+- H200 AI chips: China approves the purchase of Nvidia’s H200 chips for an initial batch worth about $10 billion, with buyers including Alibaba and ByteDance, signaling easing U.S.–China tensions and potential robust demand.
 
-- Nvidia’s $2 billion CoreWeave deal expands its HPC/cloud ecosystem, with CoreWeave projects to build over 5 gigawatts of capacity by 2030 and Nvidia potentially earning substantial revenue from 2026–2030, plus potential backstop/credit guarantees to de-risk hyperscaler deals. (Articles 6, 7, 8, 9)
+- CoreWeave investment: Nvidia is backing CoreWeave with a $2 billion investment, potentially lifting Nvidia’s stake to about 12–13% post-deal; CoreWeave aims for robust software monetization (SUNK and Mission Control) and over $100 million in ARR by the end of Q3, with a CRWV upside target around 14.7%.
 
-- Samsung’s plan to supply Nvidia with next-gen HBM4 memory chips (HBM4)—with production possibly starting as soon as February—addresses memory-supply needs for Nvidia’s GPUs and supports continued AI workload expansion. (Article 10)
+- Waabi funding via NVentures: Nvidia’s venture arm NVentures participated in Waabi’s funding round alongside Uber, which is backing Waabi’s plan to deploy thousands of Waabi Driver robotaxis, including a milestone-based component from Uber.
 
-- Large cloud providers (e.g., Microsoft with Maia 200) are developing in-house AI chips, which could temper Nvidia’s pricing power over time even as Nvidia remains a near-term backbone for AI training/inference. (Articles 4, 5)
+- US-made, US-supply chain shift: Nvidia plans to move portions of its I/O die to Intel’s 14A process by 2028 as part of a Made-in-America strategy, with up to 25% of final packaging handled by Intel (EMIB) while TSMC handles the rest; Nvidia also invested $5B in Intel in 2025 to support this shift.
 
-- The stock and sector sentiment remains bullish: BofA analysts deem Nvidia a compelling compute pick with strong growth outlook, and Nvidia has a consensus Strong Buy with upside targets (e.g., average price target around $263, implying roughly 41% upside). (Articles 2, 10)
+- Q4 FY2026 results event: Nvidia will report its fourth-quarter and fiscal-year 2026 results and host a conference call on Feb 25, 2026, with CFO Colette Kress providing written commentary ahead of the call; results and the call will be webcast and replayable.
 
+Market optimism rating for Nvidia stock: 
