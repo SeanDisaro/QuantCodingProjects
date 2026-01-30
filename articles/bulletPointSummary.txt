@@ -1,11 +1,5 @@
-- H200 AI chips: China approves the purchase of Nvidia’s H200 chips for an initial batch worth about $10 billion, with buyers including Alibaba and ByteDance, signaling easing U.S.–China tensions and potential robust demand.
-
-- CoreWeave investment: Nvidia is backing CoreWeave with a $2 billion investment, potentially lifting Nvidia’s stake to about 12–13% post-deal; CoreWeave aims for robust software monetization (SUNK and Mission Control) and over $100 million in ARR by the end of Q3, with a CRWV upside target around 14.7%.
-
-- Waabi funding via NVentures: Nvidia’s venture arm NVentures participated in Waabi’s funding round alongside Uber, which is backing Waabi’s plan to deploy thousands of Waabi Driver robotaxis, including a milestone-based component from Uber.
-
-- US-made, US-supply chain shift: Nvidia plans to move portions of its I/O die to Intel’s 14A process by 2028 as part of a Made-in-America strategy, with up to 25% of final packaging handled by Intel (EMIB) while TSMC handles the rest; Nvidia also invested $5B in Intel in 2025 to support this shift.
-
-- Q4 FY2026 results event: Nvidia will report its fourth-quarter and fiscal-year 2026 results and host a conference call on Feb 25, 2026, with CFO Colette Kress providing written commentary ahead of the call; results and the call will be webcast and replayable.
-
-Market optimism rating for Nvidia stock: 
+- Morgan Stanley reiterates an Overweight stance on Nvidia (NVDA) with a $250 target, highlighting improving supply-chain checks and a Vera Rubin AI platform ramp that could reinforce Nvidia’s AI leadership; near-term concerns about AI model funding are seen as noise, with solid demand intact.
+- Nvidia is in talks to invest up to $30 billion in OpenAI alongside Microsoft and Amazon, underscoring Nvidia’s central role in AI infrastructure and its expanding AI ecosystem collaborations.
+- Nvidia CEO Jensen Huang says the H200 licensing process in China is progressing and he hopes for a favorable decision to allow sale in the Chinese market, potentially expanding Nvidia’s revenue footprint.
+- Nvidia has allocated roughly 70% of its 2026 HBM4 demand to SK Hynix, with SK Hynix expected to account for about 54% of the global HBM4 market in 2026, highlighting meaningful supply-chain dynamics for memory and potential implications for shipments and pricing.
+- Hugging Face reportedly declined Nvidia’s $500 million investment at a $7 billion valuation in late 2025, illustrating the competitive funding environment for AI startups and Nvidia’s ongoing interest in strategic partnerships.
