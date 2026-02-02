@@ -26,11 +26,12 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Morgan Stanley reiterates an Overweight stance on Nvidia (NVDA) with a $250 target, highlighting improving supply-chain checks and a Vera Rubin AI platform ramp that could reinforce Nvidia’s AI leadership; near-term concerns about AI model funding are seen as noise, with solid demand intact.
-- Nvidia is in talks to invest up to $30 billion in OpenAI alongside Microsoft and Amazon, underscoring Nvidia’s central role in AI infrastructure and its expanding AI ecosystem collaborations.
-- Nvidia CEO Jensen Huang says the H200 licensing process in China is progressing and he hopes for a favorable decision to allow sale in the Chinese market, potentially expanding Nvidia’s revenue footprint.
-- Nvidia has allocated roughly 70% of its 2026 HBM4 demand to SK Hynix, with SK Hynix expected to account for about 54% of the global HBM4 market in 2026, highlighting meaningful supply-chain dynamics for memory and potential implications for shipments and pricing.
-- Hugging Face reportedly declined Nvidia’s $500 million investment at a $7 billion valuation in late 2025, illustrating the competitive funding environment for AI startups and Nvidia’s ongoing interest in strategic partnerships.
+- Nvidia’s plan to invest up to $100 billion in OpenAI is currently stalled and nonbinding, with Jensen Huang privately noting it was never finalized and signaling a reset rather than a breakup of the relationship.  
+- Nvidia could still participate in OpenAI’s funding round via a direct equity stake rather than the large-scale construction plan, with Huang stating the company would invest “a great deal of money,” but not something like $100B.  
+- OpenAI is raising up to $100B in private funding and has drawn interest from multiple partners; reports mention potential backers including Amazon and SoftBank, with Nvidia also positioned to be involved.  
+- OpenAI has emphasized that Nvidia technology underpins its breakthroughs, and Nvidia is seen as central to scaling OpenAI’s systems, even as the deal structure remains in flux.  
+- Market sentiment toward NVDA remains bullish: Strong Buy consensus with a current price target around $262.79 (about 37% upside), and individual analysts like Wedbush’s Matt Bryson assigning NVDA a $230 target (roughly 19.5% upside). NVDA stock reaction to the news has shown modest movements (e.g., about a 0.7% drop on the day).  
+
 
 <!-- BulletPointEnd -->
 
