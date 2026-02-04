@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia’s OpenAI investment plan remains large in scope (up to $100 billion), but recent reports indicate the deal is on hold with nonbinding terms; Huang said invitations are not commitments and Nvidia’s actual share would be less than $100B. Other backers discussed include Microsoft (potentially under $10B) and Amazon (potentially >$20B).
-- The market reaction has been mixed: NVDA stock fell about 2% on doubts around the OpenAI arrangement, even as analysts (TipRanks) show a Strong Buy consensus with roughly 38 buys, 1 hold, and 1 sell, and a target implying about 37.5% upside to around $262.79.
-- Nvidia is positioned as a key supplier for AI data centers and edge computing, a theme reinforced by Singapore’s plan to become a space-data hub where data processing needs (and chip demand) could grow; Nvidia’s chips power data centers and edge systems in such ecosystems.
-- The competitive landscape for AI accelerators remains active: Alibaba’s Zhenwu 810E ASIC is described as comparable to Nvidia’s H20, highlighting ongoing competition in AI training/inference hardware.
-- Nvidia features in broader tech ecosystems; for example, Oracle lists Nvidia among its client base, underscoring Nvidia’s integration into enterprise AI data-center demand and software stack relationships.
-  
-Market optimism rating: 6/
+- Nvidia and Dassault Systemes unveiled a long-term strategic partnership to create a shared industrial AI architecture, combining Dassault’s Virtual Twin tech with NVIDIA AI infrastructure to forge science-validated World Models on the 3DEXPERIENCE platform. 
+
+- Nvidia’s software and AI ecosystem is expanding into autonomy and robotics, with Cyngn using Nvidia Isaac Sim to run autonomy and fleet management software in a persistent digital warehouse for faster validation and deployment.
+
+- Bullish analyst sentiment for Nvidia is evident: Cantor Fitzgerald’s Muse reiterates Buy with a $300 target, while the broader consensus targets sit around $260 (Strong Buy) with about 38–39% upside; insiders have been selling, signaling some mixed signals.
+
+- OpenAI-NVIDIA dynamic and competition: OpenAI is exploring second-source options for inference beyond Nvidia chips, though Nvidia remains central to many workloads; Oracle notes the NVIDIA–OpenAI deal has zero impact on its OpenAI relationship, underscoring ongoing industry dependence and nuance in supplier dynamics.
+
+- Nvidia’s market exposure and investor interest: Nvidia is a core holding in major tech ETFs like the IETC (which includes NVDA among top holdings), reflecting broad investor demand and potential upside tied to AI hardware growth.
+
+Market optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
