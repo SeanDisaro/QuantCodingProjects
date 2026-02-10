@@ -26,11 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- AI infrastructure tailwinds are driving strong demand for Nvidia’s chips, with analysts predicting robust FQ4 results and further upside into 2026 as hyperscalers spend more on AI.
-- Rubin chips and related cooling tech are central to Nvidia’s data-center story, with talks of a strong Rubin ramp in 2H26 and evolving cooling solutions (e.g., water-cooled racks) fueling adjacent hardware suppliers.
-- Nvidia is a top holding in major ETFs (VOO, VTI, VTWO, QQQI), which helps boost demand from passive investors and supports upside in the stock—ETF-focused targets suggest roughly 18–22% upside for these funds’ NVDA exposure.
-- Strategic investments and partnerships—Nvidia’s involvement with CoreWeave (a $2B equity investment and long-term services deal) and potential funding/partnerships with Anthropic/OpenAI—highlight a path to sustained GPU demand and broader AI infrastructure opportunities.
-- Market sentiment remains highly bullish, with consensus Strong/Buy ratings, 12-month targets around $260 and upside near 40%; NVDA has shown notable near-term upside momentum in reaction to AI spending trends. 
+- Apollo Global Management (APO) is nearing a $3.4 billion loan to a Valor Equity Partners–arranged vehicle that will buy Nvidia (NVDA) chips and lease them to Elon Musk’s xAI; this would be APO’s second large financing tied to xAI, following a $3.5 billion loan last November.
+- The deal includes plans to raise about $5.3 billion in total debt and equity for the vehicle, aiming to give xAI access to AI hardware without paying the full upfront cost; the loan carries about 9.5% interest and could yield over 22% annual returns in favorable scenarios.
+- The financing highlights the growing role of private credit in funding AI hardware, with Nvidia GPUs at the center of these deployments to support xAI’s data-center expansion.
+- Market reaction cites a Strong Buy consensus for APO, with an average price target of around $163.70 and upside of roughly 19–19.3%, reflecting enthusiasm around Nvidia ecosystem–related financings.
+- OpenAI concerns previously weighed on Nvidia, but renewed confidence in OpenAI’s long-term outlook and its partnerships could provide valuation upside for Nvidia and other Nvidia-connected stocks as those ties strengthen. 
 
 
 <!-- BulletPointEnd -->
