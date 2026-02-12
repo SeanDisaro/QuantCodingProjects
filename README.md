@@ -26,11 +26,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia remains driven by AI data-center demand, which is the core growth engine, with data-center revenue making up a very large share of total sales and continued strength expected from hyperscalers.  
-- The stock enjoys strong bullish sentiment and targets, with a consensus Strong Buy and 12-month targets around $260, implying roughly 37% upside, though some optimists see upside well above that (even into the 80s or higher).  
-- Near-term margin risk cited by analysts, including higher memory (HBM) costs and potential China/export-control headwinds, which could temper upside or lower margins if guidance omits certain revenue.  
-- A large inventory build (around $19.7 billion) and days of inventory about 105 raise concerns that the current scarcity premium may erode and margins could be pressured if demand cools.  
-- Long-term catalysts include the Rubin architecture and next-generation platforms, continued AI data-center spending by hyperscalers, and broader AI adoption in cloud, robotics, and autonomous applications driving durable growth.  
+- Nvidia remains a core AI winner, with robust data-center demand and cloud spending expected to support continued growth and adoption of its hardware and software tools. (Article 2)
+
+- Analysts see meaningful upside: Lipacis’s Street-high price target of $352 and an overall average target around $260.06 imply roughly 36–37% potential upside, with a Strong Buy consensus. (Article 2)
+
+- NVDA is slated to report Q4 FY26 earnings on Feb 25, with expectations of EPS around $1.52 and revenue near $65.56 billion, driven mainly by data-center strength. (Article 2)
+
+- Regulatory risk in China: Nvidia must adhere to detailed license terms for its chips in China, a constraint that could affect near-term sales and deployment. (Article 4)
+
+- Options activity shows notable near-term bullish betting and elevated volatility: high overall option volume, a tilt toward calls over puts (e.g., large Feb-26 call bets around Nvidia), and an expected move of about $5.50. (Articles 5 and 10)
 
 
 <!-- BulletPointEnd -->
