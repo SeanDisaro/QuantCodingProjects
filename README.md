@@ -26,16 +26,12 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia remains a core AI winner, with robust data-center demand and cloud spending expected to support continued growth and adoption of its hardware and software tools. (Article 2)
-
-- Analysts see meaningful upside: Lipacis’s Street-high price target of $352 and an overall average target around $260.06 imply roughly 36–37% potential upside, with a Strong Buy consensus. (Article 2)
-
-- NVDA is slated to report Q4 FY26 earnings on Feb 25, with expectations of EPS around $1.52 and revenue near $65.56 billion, driven mainly by data-center strength. (Article 2)
-
-- Regulatory risk in China: Nvidia must adhere to detailed license terms for its chips in China, a constraint that could affect near-term sales and deployment. (Article 4)
-
-- Options activity shows notable near-term bullish betting and elevated volatility: high overall option volume, a tilt toward calls over puts (e.g., large Feb-26 call bets around Nvidia), and an expected move of about $5.50. (Articles 5 and 10)
-
+- Nvidia (NVDA) is a top holding in major tech ETFs (IYW, VGT, LOUP), with analyst-driven upside estimates around 33% to 36% for these funds.
+- NVDA has a Strong Buy consensus on Wall Street, with roughly 37 Buy ratings in the past quarter and price targets near $260, implying about 37%–38% upside.
+- OpenAI and the broader AI ecosystem continue to rely on Nvidia as the foundational backbone for training and inference, even as other suppliers (Cerebras, AMD, Broadcom) broaden the mix.
+- Analysts expect Nvidia to deliver strong Q4 FY26 results, with consensus earnings about $1.52 per share and revenue around $65.56 billion.
+- While valuation is rich, multiple bulls remain: UBS targets around $245 (about 28% upside), and Nvidia is viewed as the leading AI-chip supplier with pricing power amid robust demand.
+  
 
 <!-- BulletPointEnd -->
 
