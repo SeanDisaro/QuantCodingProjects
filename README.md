@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia NVDA remains the leading supplier of AI training/inference chips, with demand driven by cloud providers and focus on the next-gen Blackwell platform; management commentary on data-center buildouts is a key market signal.
+- Harvard’s endowment reduced its Nvidia stake in Q4 2025 as part of broad portfolio trimming.
 
-- Analysts show strong upside for Nvidia: consensus price targets around $260.38, implying roughly 39% upside, with a Strong Buy rating and a heavy skew of buy recommendations.
+- Nvidia was the best-performing member of the Magnificent 7 relative to the group in early 2026, with only about a 2% drop.
 
-- Nvidia is a core holding in major ETFs, underscoring broad investor exposure to its AI-driven growth. In VGT NVDA is among the top holdings with upside around 40%, while VOO and VUG also show meaningful upside (roughly 24%–36%).
+- Memory bottlenecks and AI data-center demand are pressuring Nvidia’s supply, with reports that Nvidia is delaying new gaming GPUs to allocate memory to AI chips.
 
-- The stock is viewed as a gauge for AI spending; healthy demand signals for AI infrastructure would support ongoing capex in data centers, while any slowdown could shift market sentiment on AI buildout.
+- Nvidia is a top holding in select AI-focused funds, such as the Polar Capital fund run by Nick Evans, highlighting ongoing investor demand.
 
-- The options market shows mixed but leaning bullish sentiment ahead of earnings, with notable expected moves around earnings (roughly a 5%+ move is priced in with a roughly 50% probability). 
+- Nvidia is a major holding in popular Vanguard AI-focused ETFs (VGT, VOOG, MGK), reinforcing its role as a core AI stock for diversified portfolios.
 
-
+Market optimism rating for Nvidia stock (1 = very pessimistic, 10 = very optimistic): 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
