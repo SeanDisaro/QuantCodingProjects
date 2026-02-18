@@ -1,11 +1,11 @@
-- Harvard’s endowment reduced its Nvidia stake in Q4 2025 as part of broad portfolio trimming.
+- AI capex tailwinds from hyperscalers set up Nvidia for another strong quarter, with a medium- to long-term upside potential cited around 12–24 months of roughly 65% by one bullish investor. 
 
-- Nvidia was the best-performing member of the Magnificent 7 relative to the group in early 2026, with only about a 2% drop.
+- Wall Street remains very bullish: a Strong Buy consensus (dozens of buys vs. few holds/sells) with an average target near $260.38, implying about 42% upside from current levels.
 
-- Memory bottlenecks and AI data-center demand are pressuring Nvidia’s supply, with reports that Nvidia is delaying new gaming GPUs to allocate memory to AI chips.
+- Nvidia is a top holding in major tech ETFs (BCTK and FDTX), underscoring broad investor demand for Nvidia exposure; these ETFs show notable upside potential (BCTK ~36% and FDTX ~30% to target).
 
-- Nvidia is a top holding in select AI-focused funds, such as the Polar Capital fund run by Nick Evans, highlighting ongoing investor demand.
+- The stock has shown relative resilience within the Magnificent 7, with Nvidia down only about 2% in early 2026, outperforming peers during a broader AI/tech drawdown.
 
-- Nvidia is a major holding in popular Vanguard AI-focused ETFs (VGT, VOOG, MGK), reinforcing its role as a core AI stock for diversified portfolios.
+- Competitive risk is rising: AMD is gaining share in AI inference (roughly 20–25% of new AI chip setups) and is advancing with initiatives like the AMD Helios platform and India deal, signaling Nvidia’s dominance isn’t guaranteed and providing a potential upside case for rivals (AMD target around 286.80 with ~38% upside). 
 
-Market optimism rating for Nvidia stock (1 = very pessimistic, 10 = very optimistic): 
+Bottom-line market optimism rating for Nvidia stock: 
