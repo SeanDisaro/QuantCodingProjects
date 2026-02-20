@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia remains the central driver of the AI data-center boom, with GPUs powering the majority of compute; hyperscalers’ continued AI capex in 2026 is expected to sustain Nvidia’s growth, including anticipation of solid Q4 FY2026 results. (Article 5)
+- Nvidia remains a central driver of AI infrastructure growth, with OpenAI’s funding round (first phase) expected to total around $100B and including Nvidia among the backers alongside Amazon, SoftBank and Microsoft. This underscores Nvidia’s pivotal role in data-center AI expansions.
 
-- The stock market sentiment for Nvidia is broadly bullish, with a Strong Buy consensus on Wall Street and 12-month targets around $260, implying roughly 38%–41% upside from current levels. (Articles 5 and 9)
+- The stock is broadly seen as bullish: Strong Buy consensus with average price targets around $261.84, implying roughly 39–40% upside over the next 12 months (some notes even point to higher upside in the near term).
 
-- Valuation concerns exist: some investors describe Nvidia as priced for perfection, with a forward P/E near 40x, suggesting potential downside if AI spending slows or the growth narrative cools. (Article 5)
+- Nvidia’s ecosystem moat (CUDA and its software stack) supports leadership in AI data centers, but risks exist such as U.S. export controls on China, rising cloud-provider chip development, and potential margin pressure from higher HBMs costs.
 
-- Nvidia exited its stake in Arm, ending a strategic investment, while maintaining ties (e.g., Arm licensing) and continuing to partner; Arm’s own AI momentum remains a factor in the ecosystem. (Article 7)
+- Strategic AI partnerships and deployments extend Nvidia’s addressable market: Meta’s AI infrastructure deal; Nvidia-backed Mistral AI expansion in Europe (with Koyeb) and Compute deployments; and collaborations like the Idaho National Laboratory’s AI-driven nuclear energy research.
 
-- Nvidia’s product roadmap signals leadership in AI hardware, with the NVL72 VR200 platform reportedly moving well and potentially shipping as early as Q2 2026, possibly ahead of schedule and ahead of competitors like AMD. (Article 10)
+- Broad market exposure and demand signals: Nvidia is a top holding in the BOTZ robotics/AI ETF, supported by AI hardware demand across sectors; ongoing memory/supply-chain dynamics (e.g., Samsung’s HBM4) and notable investor activity (e.g., Citadel increasing NVDA stake) add to the optimism.
 
-
+Market optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
