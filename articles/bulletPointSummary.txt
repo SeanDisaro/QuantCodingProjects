@@ -1,11 +1,5 @@
-- Nvidia remains a central driver of AI infrastructure growth, with OpenAI’s funding round (first phase) expected to total around $100B and including Nvidia among the backers alongside Amazon, SoftBank and Microsoft. This underscores Nvidia’s pivotal role in data-center AI expansions.
-
-- The stock is broadly seen as bullish: Strong Buy consensus with average price targets around $261.84, implying roughly 39–40% upside over the next 12 months (some notes even point to higher upside in the near term).
-
-- Nvidia’s ecosystem moat (CUDA and its software stack) supports leadership in AI data centers, but risks exist such as U.S. export controls on China, rising cloud-provider chip development, and potential margin pressure from higher HBMs costs.
-
-- Strategic AI partnerships and deployments extend Nvidia’s addressable market: Meta’s AI infrastructure deal; Nvidia-backed Mistral AI expansion in Europe (with Koyeb) and Compute deployments; and collaborations like the Idaho National Laboratory’s AI-driven nuclear energy research.
-
-- Broad market exposure and demand signals: Nvidia is a top holding in the BOTZ robotics/AI ETF, supported by AI hardware demand across sectors; ongoing memory/supply-chain dynamics (e.g., Samsung’s HBM4) and notable investor activity (e.g., Citadel increasing NVDA stake) add to the optimism.
-
-Market optimism rating for Nvidia stock: 
+- Nvidia is expected to post a very strong Q4 FY26: revenue around $65.7 billion and EPS about $1.50–$1.52, with year-over-year growth near 70%, aided by the GB300 Ultra and AI demand.
+- The stock remains broadly bullish on Wall Street: Strong Buy consensus with roughly 31 Buys and 1 Sell, and price targets around $265–$266, implying about 40% upside.
+- Major product/massive-scale growth catalysts: Vera Rubin platform (VR200/VR300 Ultra) and NVL72 rack-scale system are expected to lift AI efficiency and revenue, with estimates of billions in extra revenue and a total addressable market potentially near $4 trillion (including China).
+- Strategic AI-infrastructure partnership momentum: Expanded collaboration with Meta Platforms, including Grace CPUs, Rubin GPUs, Spectrum-X networking, and Confidential Computing for private workloads, signaling tens of billions in ongoing AI infrastructure spend and a strong long-term roadmap.
+- Accelerated move into consumer laptops as a long-term growth lever: Nvidia’s chips for laptops (with Dell, Lenovo, HP) via ARM-based designs, targeting roughly 150 million laptops annually, with price points in the $1,000–$1,500 range to reach mass-market adoption.
