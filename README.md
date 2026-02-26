@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- The NVIDIA (NVDA) story is broadly bullish across multiple analysts, with Strong Buy/Buy ratings and target prices mostly in the high $200s, implying roughly 40–45% upside from recent levels.
+- NVIDIA reported record quarterly revenue of $68.1 billion for Q4 FY2026 (up 73% YoY) and full-year revenue of $215.9 billion (up 65% YoY).  
+- Gross margins remained exceptionally high: GAAP 75.0% and non-GAAP 75.2% in Q4; for FY2026 GAAP 71.1% and non-GAAP 71.3%.  
+- Profitability remained strong: Q4 diluted EPS GAAP $1.76 and non-GAAP $1.62; full-year diluted EPS GAAP $4.90 and non-GAAP $4.77.  
+- Capital returns and balance sheet strength: NVIDIA returned $41.1 billion to shareholders in fiscal 2026; $58.5 billion remaining under buyback authorization; quarterly dividend of $0.01 per share.  
+- AI leadership and positive market outlook: “agentic AI inflection point” feedback and robust data-center demand underscore leadership in AI and accelerated computing; NVIDIA dominates AI infrastructure with ~80% GPU share, and market optimism is reflected in a Strong Buy consensus with a target around $268.57 (roughly 40% upside).
 
-- Notable target expectations include a $275 target from Bernstein’s Stacy Rasgon, and a market-wide consensus around $268.57, underscoring solid upside potential.
-
-- Nvidia is set to report Q4 fiscal 2026 results with expectations of about $1.52 per share in adjusted EPS and roughly $65.6 billion in revenue, with data-center demand driving the majority of the upside; full-year guidance points to continued strength.
-
-- Nvidia remains a clear leader in AI GPUs, estimated to control about 80% of the GPU share for H100/H200 and the upcoming Blackwell platforms, supported by strong gross margins (around 75%) and a robust CUDA ecosystem.
-
-- Market sentiment around Nvidia’s earnings period is reinforced by data such as Polymarket odds (about 93% chance to beat estimates) and a history of beating earnings roughly 94% of the time, along with continued upside momentum (stock recently trading in the mid-$180s to $190s and up ~45% year over year).
-
-Market optimism rating: 
+Optimism rating for NVIDIA stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
