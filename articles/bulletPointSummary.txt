@@ -1,7 +1,7 @@
-- NVIDIA reported record quarterly revenue of $68.1 billion for Q4 FY2026 (up 73% YoY) and full-year revenue of $215.9 billion (up 65% YoY).  
-- Gross margins remained exceptionally high: GAAP 75.0% and non-GAAP 75.2% in Q4; for FY2026 GAAP 71.1% and non-GAAP 71.3%.  
-- Profitability remained strong: Q4 diluted EPS GAAP $1.76 and non-GAAP $1.62; full-year diluted EPS GAAP $4.90 and non-GAAP $4.77.  
-- Capital returns and balance sheet strength: NVIDIA returned $41.1 billion to shareholders in fiscal 2026; $58.5 billion remaining under buyback authorization; quarterly dividend of $0.01 per share.  
-- AI leadership and positive market outlook: “agentic AI inflection point” feedback and robust data-center demand underscore leadership in AI and accelerated computing; NVIDIA dominates AI infrastructure with ~80% GPU share, and market optimism is reflected in a Strong Buy consensus with a target around $268.57 (roughly 40% upside).
+- Nvidia posted a better-than-expected fiscal Q4 and guided Q1 revenue above forecasts, with CEO Jensen Huang stressing that AI compute demand remains durable as AI systems are adopted into daily business operations (“compute equals revenues”).  
+- Hyperscale cloud customers (Amazon, Microsoft, Meta, Alphabet) accounted for slightly more than half of Nvidia’s data center revenue, underscoring the ongoing AI infrastructure buildout driving chip demand.  
+- The street remains bullish on Nvidia: a Strong Buy consensus with an average price target around $267.48, implying roughly 37–38% upside; individual bets include Jefferies’ Buy target of $275 and Aletheia Capital’s upgrade to Buy with a $250 target.  
+- Nvidia is positioned as a leader in AI hardware with ongoing efficiency gains in its architecture (Grace/ NVLink) and strong inference performance, supporting continued AI adoption and revenue growth.  
+- Fiscal 2026 results were strong (Q4 revenue of $68.1B; full-year revenue of $215.9B; very high gross margins), along with meaningful shareholder returns (about $41.1B in buybacks/dividends) and an outlook for 2027, highlighting sustained earnings power and capital returns.  
 
-Optimism rating for NVIDIA stock: 
+Market optimism rating for NVDA: 
