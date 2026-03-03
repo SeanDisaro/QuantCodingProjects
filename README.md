@@ -26,11 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVIDIA and a broad coalition (Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank, and T-Mobile) announced a commitment to build AI-native, open, secure 6G wireless networks via AI-RAN across the telecom ecosystem.
-- Nokia and NVIDIA are making progress in their AI-RAN partnership, with new customer integrations, GPU-accelerated AI-RAN tests, and demonstrations at Mobile World Congress 2026, alongside collaborations with BT, Elisa, NTT DOCOMO, and Vodafone to boost mobile AI traffic.
-- NVIDIA reported a record quarter with $68.1 billion in Q4 revenue, led by data centers ($62.3 billion); the company guided Q1 revenue to about $78 billion, underscoring strong ongoing demand for AI infrastructure.
-- NVIDIA is developing a dedicated inference-focused processor to speed up real-time AI services, with potential customers like OpenAI; the stock has a Strong Buy consensus and a price target around $273.38, implying roughly 54% upside from current levels.
-- Analysts and investors continue to rally around AI infrastructure, with NVDA benefiting from durable AI spending and leadership in AI-native platforms (6G/open, trusted) across data centers and telecom networks, signaling healthy medium- to long-term growth prospects.
+- NVIDIA inks multiyear strategic deals with optics leaders Lumentum and Coherent, including multibillion-dollar purchase commitments and $2 billion investments in each company to expand U.S. manufacturing capacity.  
+- The partnerships emphasize silicon photonics, optical interconnects, and advanced packaging to scale next-generation AI data centers and gigawatt-scale AI factories, boosting energy efficiency and resiliency.  
+- Leadership comments underscore a massive AI infrastructure buildout, with NVIDIA positioning itself as a central enabler of scalable AI computing and data-center innovation.  
+- Market sentiment is broadly bullish: consensus ratings (Strong Buy/Buy) and price targets around $260–$272 imply roughly 40–50% upside over the next 12 months; NVIDIA is cited as a top pick in semiconductors.  
+- Reports indicate NVIDIA may unveil a new inference processor (featuring Groq-designed tech) for OpenAI and other customers, signaling ongoing hardware roadmap expansion ahead of key events like the GTC conference.  
 
 
 <!-- BulletPointEnd -->
