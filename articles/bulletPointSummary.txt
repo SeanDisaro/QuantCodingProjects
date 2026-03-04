@@ -1,6 +1,6 @@
-- NVIDIA inks multiyear strategic deals with optics leaders Lumentum and Coherent, including multibillion-dollar purchase commitments and $2 billion investments in each company to expand U.S. manufacturing capacity.  
-- The partnerships emphasize silicon photonics, optical interconnects, and advanced packaging to scale next-generation AI data centers and gigawatt-scale AI factories, boosting energy efficiency and resiliency.  
-- Leadership comments underscore a massive AI infrastructure buildout, with NVIDIA positioning itself as a central enabler of scalable AI computing and data-center innovation.  
-- Market sentiment is broadly bullish: consensus ratings (Strong Buy/Buy) and price targets around $260–$272 imply roughly 40–50% upside over the next 12 months; NVIDIA is cited as a top pick in semiconductors.  
-- Reports indicate NVIDIA may unveil a new inference processor (featuring Groq-designed tech) for OpenAI and other customers, signaling ongoing hardware roadmap expansion ahead of key events like the GTC conference.  
+- NVIDIA’s GTC 2026 will be a major AI infrastructure showcase, featuring a five-layer AI stack (energy, chips, infrastructure, models, applications) with 30,000+ attendees and 1,000+ sessions. 
+- The company is expanding into optical networking and high-speed interconnects via investments in Coherent and Lumentum, including Co-Packaged Optics to boost AI data-center bandwidth and supply chain resilience.
+- Wall Street remains broadly bullish on NVDA, with a Strong Buy consensus and price targets around $271, implying roughly 48–50% upside from current levels.
+- NVDA is a top holding in major ETFs such as VOO and VTI, linking its performance to broad-market index demand; ETF-level targets suggest upside around 21% for VOO and about 21.7% for VTI.
+- Near-term regulatory risk exists (e.g., potential new limits on AI chip exports to China), which could add volatility, but analysts still expect ongoing hyperscaler investment and strong AI data-center demand into 2027–2028.
 
