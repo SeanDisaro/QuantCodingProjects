@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVIDIA’s GTC 2026 will be a major AI infrastructure showcase, featuring a five-layer AI stack (energy, chips, infrastructure, models, applications) with 30,000+ attendees and 1,000+ sessions. 
-- The company is expanding into optical networking and high-speed interconnects via investments in Coherent and Lumentum, including Co-Packaged Optics to boost AI data-center bandwidth and supply chain resilience.
-- Wall Street remains broadly bullish on NVDA, with a Strong Buy consensus and price targets around $271, implying roughly 48–50% upside from current levels.
-- NVDA is a top holding in major ETFs such as VOO and VTI, linking its performance to broad-market index demand; ETF-level targets suggest upside around 21% for VOO and about 21.7% for VTI.
-- Near-term regulatory risk exists (e.g., potential new limits on AI chip exports to China), which could add volatility, but analysts still expect ongoing hyperscaler investment and strong AI data-center demand into 2027–2028.
+- Nvidia’s AI-investment push remains large: a $30 billion investment in OpenAI (as part of a wider $110B round) with OpenAI possibly pursuing an IPO later this year, and a $10B investment in Anthropic; OpenAI partnership outcomes remain somewhat uncertain long term.
 
+- Investor sentiment across multiple outlets is very bullish: Nvidia has a strong Buy consensus with price targets around $271.11 to $271.89, implying roughly 47%–51% upside.
 
+- GTC 2026 is viewed as a near-term catalyst: expectations for new AI chips, systems, and architecture updates (including Kyber and Rubin CPX); Jefferies and others say Nvidia is one of the clearest AI winners and could spark a breakout post-event.
+
+- Real-world AI infra demand and deployments backing Nvidia GPUs: CoreWeave and Perplexity will use NVidia GB200 NVL72-powered clusters for AI inference, highlighting broad adoption of Nvidia hardware for AI workloads and cloud AI services.
+
+- Broader growth drivers beyond chips: sovereign AI revenue surged to about $30B in 2025, networking growth, and Blackwell platform ramp, along with a massive AI compute pipeline (with hundreds of billions in commitments) that could extend further—supporting a favorable long-term growth trajectory.
+
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
