@@ -26,17 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is positioned as a clear AI data-center leader, with a record quarterly revenue of $68.1 billion, up 20% sequentially and 73% year-over-year, driven by ongoing demand for its AI GPUs.
+- Nvidia remains the AI chip leader with broad bullish sentiment from analysts, showing a Strong Buy consensus and a roughly $272 (12-month) price target, implying meaningful upside ahead.
+- The Rubin Vera-Rubin AI accelerator will require up to 288GB of HBM4 memory per GPU, helping drive a global HBM shortage and pushing memory costs higher for cloud providers; industry demand for HBM4 is forecast to rise sharply (around 70% in 2026).
+- HBM4 supply for Nvidia’s Vera-Rubin is being positioned with Samsung and SK Hynix as exclusive suppliers, with memory production broadly booked through 2026.
+- Nvidia is expanding its memory ecosystem through partnerships, including a collaboration with Micron to deliver a 256GB low-power server-memory module for AI workloads.
+- Beyond chips, Nvidia is moving further into robotics and defense applications, evidenced by collaborations in humanoid robotics (e.g., Richtech Robotics), signaling diversification into new growth areas. 
 
-- The stock still trades with a relatively modest forward multiple (about 22x) and a 12-month price target around $272, implying roughly 50%+ upside, supported by a strong buy consensus.
-
-- Nvidia is actively bolstering its AI data-center ecosystem by investing roughly $2 billion each in Coherent (COHR) and Lumentum (LITE) to secure optical-network gear supply for AI infrastructure.
-
-- The company has been a key facilitator in AI data-center deals, helping Meta explore leasing the Abilene Stargate site and contributing a $150 million deposit to Crusoe to support those talks.
-
-- Analyst momentum remains bullish, with Tigress Financial’s Ivan Feinseth lifting NVDA’s target to $360 and reaffirming Buy, underscoring leadership in AI infrastructure and multi-year growth potential.
-
-
+Rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
