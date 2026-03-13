@@ -26,16 +26,16 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia (NVDA) is a top holding in broad U.S. stock funds like VTSAX and VTI, underscoring its central role in the core market exposure to AI-driven tech.
+- Palantir and Nvidia are partnering to deliver a sovereign AI operating system reference architecture, combining Palantir’s AIP with Nvidia’s Blackwell Ultra systems for a production-ready AI data center solution.
 
-- Nvidia has a multi-year strategic partnership with Thinking Machines Lab to deploy Vera Rubin systems, with significant Nvidia investment and plans to scale frontier AI model training and serving.
+- Nvidia’s GTC conference is expected to showcase new hardware (potential inference chips) and to reinforce confidence in AI scalability and “AI capex durability,” with analysts seeing a positive stock impact and a consensus Strong Buy target around $273.61 (about 49% upside).
 
-- Nvidia is launching NemoClaw, an open-source AI agent platform for enterprises, with built-in security/privacy and potential collaborations with major tech firms to broaden enterprise adoption.
+- Nvidia remains a central driver of AI data-center demand, with Q4 FY26 revenue of $68.1 billion (up 20% QoQ, 73% YoY) and full-year revenue of $215.9 billion; data-center sales totaled $62.3 billion, contributing the lion’s share of revenue, supported by a “Perfect 10” Smart Score.
 
-- At GTC 2026, Nvidia is expected to showcase Vera Rubin architecture (HBM4, 3nm for inference) and related AI capabilities; analysts are broadly bullish, with price targets around the low-to-mid $270s (roughly 45–50% upside) and a Strong Buy consensus.
+- Himax shares rose after reports that Nvidia is a key customer supplying critical optical components for Nvidia’s AI data-center revolution, highlighting Nvidia’s role in advanced supply chains.
 
-- Nvidia is embedded in AI/tech ETF exposure: for example, SOXQ lists NVDA among its top holdings, with ETF targets implying about 24% upside; IVES (~32% upside) and FDN (~28% upside) reflect broad investor demand for Nvidia-driven AI exposure. 
-
+- Market sentiment for Nvidia remains highly bullish, with price-target upside among top AI/semiconductor names (roughly 50% upside in some notes) and a broad Strong Buy consensus, underscoring strong expectations for continued AI infrastructure spending.
+  
 
 <!-- BulletPointEnd -->
 
