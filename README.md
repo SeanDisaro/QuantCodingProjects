@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Palantir and Nvidia are partnering to deliver a sovereign AI operating system reference architecture, combining Palantir’s AIP with Nvidia’s Blackwell Ultra systems for a production-ready AI data center solution.
+- Vera Rubin architecture: Nvidia’s new chips offer about 3.5x faster training and 5x better inference, strengthening its position as the AI infrastructure leader.
 
-- Nvidia’s GTC conference is expected to showcase new hardware (potential inference chips) and to reinforce confidence in AI scalability and “AI capex durability,” with analysts seeing a positive stock impact and a consensus Strong Buy target around $273.61 (about 49% upside).
+- Strong upside and consensus: Analysts project roughly 52% upside for NVDA with a Strong Buy rating and an average target of about $273.61.
 
-- Nvidia remains a central driver of AI data-center demand, with Q4 FY26 revenue of $68.1 billion (up 20% QoQ, 73% YoY) and full-year revenue of $215.9 billion; data-center sales totaled $62.3 billion, contributing the lion’s share of revenue, supported by a “Perfect 10” Smart Score.
+- GTC 2026 as a key catalyst: Expect updates on Groq-based LPX technology, the Vera Rubin platform, a standalone Vera CPU, and CPO ramp, with demand/backlog visibility and a view that 2026 is sold out.
 
-- Himax shares rose after reports that Nvidia is a key customer supplying critical optical components for Nvidia’s AI data-center revolution, highlighting Nvidia’s role in advanced supply chains.
+- Nvidia in major ETFs: The Vanguard Information Technology ETF (VGT), where Nvidia is a top holding, is seen as offering about 38% upside in 2026, highlighting broad market exposure to Nvidia’s AI leadership.
 
-- Market sentiment for Nvidia remains highly bullish, with price-target upside among top AI/semiconductor names (roughly 50% upside in some notes) and a broad Strong Buy consensus, underscoring strong expectations for continued AI infrastructure spending.
-  
+- Ownership and street morale: A Strong Buy consensus across streets with numerous buys (e.g., 38 Buys, 1 Hold) and a target around $273.61, implying roughly 49–52% upside.
 
+Rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
