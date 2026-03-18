@@ -26,15 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- NVIDIA is expanding its open frontier AI ecosystem (Nemotron, Cosmos, Alpamayo, GR00T, Nemotron 3 Ultra/Omni/VoiceChat; OpenShell and NemoClaw), plus forming the Nemotron Coalition to collaboratively build open models with multiple labs and ecosystems.
-
-- The DRIVE Hyperion platform is accelerating autonomous mobility with major automakers (BYD, Geely, Nissan, Isuzu, etc.), expanding robotaxi ambitions (Uber), and introducing Alpamayo 1.5 for steerable reasoning and enhanced safety via the Halos OS.
-
-- NVIDIA Dynamo 1.0 launches as an open, scalable “operating system” for AI inference at data center scale, with smarter memory and traffic management, and deep integration into frameworks and runtimes (TensorRT-LLM, LangChain, FlashInfer, KVBM, NIXL).
-
-- NVIDIA is driving industrial digital twins and AI-driven manufacturing via the Physical AI Data Factory blueprint, Omniverse Digital Twin Composer, Onshape-to-OpenUSD CAD bridge, and cloud collaborations (Azure, Nebius) to accelerate design, simulation, and autonomous logistics (e.g., KION, Foxconn).
-
-- In healthcare and life sciences, open models (BioNeMo, Proteina-Complexa, nvQSP) and collaborations with EMBL/DeepMind/academic partners are expanding AI-enabled discovery, drug design, and clinical research, with accelerated protein modeling and simulation capabilities. 
+- Nvidia’s GTC keynote projects at least $1 trillion in demand through 2027 for its data-center AI chips, signaling massive growth potential in AI infrastructure. 
+- The keynote unveiled DLSS 5 and the Nvidia Vera Rubin platform, plus a broad product slate (Vera CPU, NemoClaw stack, Nemotron Coalition, Dynamo 1.0, and related AI data factory tooling) to scale the world’s largest AI factories.
+- Enterprise deployments are expanding: HPE’s AI Grid built on Nvidia reference architecture enables thousands of distributed inference sites, and AT&T-Cisco are collaborating to bring AI-driven edge networking with Nvidia-powered infrastructure.
+- Nvidia ecosystem momentum extends into autos and on-device AI: SoundHound AI highlighted at GTC as a leading on-device, multimodal AI platform with real-world automotive applications, underscoring investor optimism around Nvidia-led AI ecosystems.
+- Nvidia plans to return capital to shareholders (about 50% of free cash flow for buybacks/dividends) while market chatter notes the company’s growth rate appears to be accelerating. 
 
 
 <!-- BulletPointEnd -->
