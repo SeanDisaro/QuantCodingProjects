@@ -1,6 +1,11 @@
-- Nvidia’s GTC keynote projects at least $1 trillion in demand through 2027 for its data-center AI chips, signaling massive growth potential in AI infrastructure. 
-- The keynote unveiled DLSS 5 and the Nvidia Vera Rubin platform, plus a broad product slate (Vera CPU, NemoClaw stack, Nemotron Coalition, Dynamo 1.0, and related AI data factory tooling) to scale the world’s largest AI factories.
-- Enterprise deployments are expanding: HPE’s AI Grid built on Nvidia reference architecture enables thousands of distributed inference sites, and AT&T-Cisco are collaborating to bring AI-driven edge networking with Nvidia-powered infrastructure.
-- Nvidia ecosystem momentum extends into autos and on-device AI: SoundHound AI highlighted at GTC as a leading on-device, multimodal AI platform with real-world automotive applications, underscoring investor optimism around Nvidia-led AI ecosystems.
-- Nvidia plans to return capital to shareholders (about 50% of free cash flow for buybacks/dividends) while market chatter notes the company’s growth rate appears to be accelerating. 
+- Nvidia’s GTC 2026 keynote and forecast: Argus hails Nvidia’s $1 trillion revenue forecast and says Nvidia remains the linchpin of the generative AI era; price targets imply substantial upside (about 21% to $220, and roughly 50% upside to $274.16 on average) with a Strong Buy consensus among analysts.
 
+- Nebius partnership and stake: Nvidia has deepened ties with Nebius, investing about $2 billion for an 8.3% stake as Nebius expands its deployment of Nvidia GPUs across data centers.
+
+- AI Grid on Nvidia reference architecture: HPE’s AI Grid is built on Nvidia’s reference architecture to connect thousands of AI factories and distributed inference sites, delivering ultra-low-latency performance and automated security.
+
+- Quantum computing enablement via NVQLink: IQM Quantum Computers and Zurich Instruments’ project uses Nvidia’s NVQLink platform to demonstrate real-time quantum error correction, a milestone toward fault-tolerant, enterprise-scale quantum computing.
+
+- Nvidia as a top holding in dividend ETFs: Nvidia is listed as a top holding in high-dividend ETFs like JEPQ (yield ~10.77%) and GPIQ (yield ~10.35%), underscoring strong investor demand for Nvidia exposure.
+
+Rating (1-10 on market optimism for NVDA): 
