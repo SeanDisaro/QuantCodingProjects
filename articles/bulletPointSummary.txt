@@ -1,11 +1,6 @@
-- Nvidia’s GTC 2026 keynote and forecast: Argus hails Nvidia’s $1 trillion revenue forecast and says Nvidia remains the linchpin of the generative AI era; price targets imply substantial upside (about 21% to $220, and roughly 50% upside to $274.16 on average) with a Strong Buy consensus among analysts.
+- New Street analyst Pierre Ferragu added Nvidia (NVDA) to the firm’s best idea list for 2026, arguing NVDA could become a $1 trillion run-rate business by end-2027 thanks to Blackwell and Rubin revenue, with potential for a strong beat and efficient buybacks. 
+- Raymond James raised its NVDA price target to $323, maintaining a Strong Buy, citing management’s guidance for about $1 trillion in cumulative GPU sales by 2027 and potential AI data-center revenue around $1.3 trillion by the same year (inclusive of Vera Rubin Ultra and Groq LPX). 
+- TipRanks highlights NVDA as a top-rated stock, with 26 analysts rating it over the past 72 hours, a Strong Buy consensus, and an average target of about $275.45 implying roughly a 55% upside. 
+- SpaceX and Tesla continue to order Nvidia AI chips at scale, reinforcing Nvidia’s status as the top AI chip maker with a dominant market share, and analysts’ consensus remains Strong Buy with targets around the mid-$270s and ~54% upside. 
+- Across TipRanks’ stock-research view, NVDA sits among the top AI tech stocks with a Strong Buy consensus, reinforcing broad market optimism and multi-quarter upside potential. 
 
-- Nebius partnership and stake: Nvidia has deepened ties with Nebius, investing about $2 billion for an 8.3% stake as Nebius expands its deployment of Nvidia GPUs across data centers.
-
-- AI Grid on Nvidia reference architecture: HPE’s AI Grid is built on Nvidia’s reference architecture to connect thousands of AI factories and distributed inference sites, delivering ultra-low-latency performance and automated security.
-
-- Quantum computing enablement via NVQLink: IQM Quantum Computers and Zurich Instruments’ project uses Nvidia’s NVQLink platform to demonstrate real-time quantum error correction, a milestone toward fault-tolerant, enterprise-scale quantum computing.
-
-- Nvidia as a top holding in dividend ETFs: Nvidia is listed as a top holding in high-dividend ETFs like JEPQ (yield ~10.77%) and GPIQ (yield ~10.35%), underscoring strong investor demand for Nvidia exposure.
-
-Rating (1-10 on market optimism for NVDA): 
