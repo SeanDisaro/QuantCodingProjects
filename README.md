@@ -26,13 +26,13 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- New Street analyst Pierre Ferragu added Nvidia (NVDA) to the firm’s best idea list for 2026, arguing NVDA could become a $1 trillion run-rate business by end-2027 thanks to Blackwell and Rubin revenue, with potential for a strong beat and efficient buybacks. 
-- Raymond James raised its NVDA price target to $323, maintaining a Strong Buy, citing management’s guidance for about $1 trillion in cumulative GPU sales by 2027 and potential AI data-center revenue around $1.3 trillion by the same year (inclusive of Vera Rubin Ultra and Groq LPX). 
-- TipRanks highlights NVDA as a top-rated stock, with 26 analysts rating it over the past 72 hours, a Strong Buy consensus, and an average target of about $275.45 implying roughly a 55% upside. 
-- SpaceX and Tesla continue to order Nvidia AI chips at scale, reinforcing Nvidia’s status as the top AI chip maker with a dominant market share, and analysts’ consensus remains Strong Buy with targets around the mid-$270s and ~54% upside. 
-- Across TipRanks’ stock-research view, NVDA sits among the top AI tech stocks with a Strong Buy consensus, reinforcing broad market optimism and multi-quarter upside potential. 
+- Analysts remain broadly bullish on NVDA with price targets in the $275–$287 range and a strong-buy consensus (about 41 Buys, 1 Hold), implying roughly 56%–66% upside from current levels. 
+- GTC 2026 updates highlighted by analysts include the Groq LPU, expected to represent up to 25% of compute in high-end inference workloads as early as Q3 2026, signaling meaningful new competition-driven demand dynamics. 
+- Ongoing momentum in demand for Nvidia’s AI GPUs and a solid data-center backlog underpin a positive growth trajectory, even as the stock’s near-term reaction at events has been lukewarm. 
+- Nvidia’s revenue runway is highlighted by projections of about $1 trillion in revenue from Blackwell, Blackwell Ultra, and Rubin through 2027 (excluding Rubin Ultra), underscoring a multi-product, long-term growth path. 
+- Valuation and earnings potential suggest a wide upside: base case 14%–17% upside to consensus data-center estimates through FY28, bull case over 25% with additional unbooked revenue; NVDA trades around 13x bull-case EPS, supporting a strong bullish case. 
 
-
+Market optimism rating for NVDA: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
