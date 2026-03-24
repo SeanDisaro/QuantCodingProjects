@@ -1,7 +1,6 @@
-- Analysts remain broadly bullish on NVDA with price targets in the $275–$287 range and a strong-buy consensus (about 41 Buys, 1 Hold), implying roughly 56%–66% upside from current levels. 
-- GTC 2026 updates highlighted by analysts include the Groq LPU, expected to represent up to 25% of compute in high-end inference workloads as early as Q3 2026, signaling meaningful new competition-driven demand dynamics. 
-- Ongoing momentum in demand for Nvidia’s AI GPUs and a solid data-center backlog underpin a positive growth trajectory, even as the stock’s near-term reaction at events has been lukewarm. 
-- Nvidia’s revenue runway is highlighted by projections of about $1 trillion in revenue from Blackwell, Blackwell Ultra, and Rubin through 2027 (excluding Rubin Ultra), underscoring a multi-product, long-term growth path. 
-- Valuation and earnings potential suggest a wide upside: base case 14%–17% upside to consensus data-center estimates through FY28, bull case over 25% with additional unbooked revenue; NVDA trades around 13x bull-case EPS, supporting a strong bullish case. 
+- Nvidia’s MGX ETL rack can run both Nvidia chips and rival chips, using Spectrum-X networking for quick device communication; it enables mixed-hardware deployments and can hold up to 256 chips, helping Nvidia capture software and networking revenue even when its chips aren’t used. 
+- The Vera Rubin DSX AI Factory design, with DSX Flex software, lets AI factories connect to the power grid in real time, potentially unlocking up to 100 gigawatts of capacity across the U.S. and accelerating grid interconnections for AI compute. 
+- Nvidia highlighted ongoing demand momentum from its GTC push, noting reasoning workloads have surged roughly 10,000 times in two years, underscoring a shift from AI model training to large-scale AI inference and deployment. 
+- Analysts are broadly bullish on NVDA, with a Strong Buy consensus and price targets around the mid-$270s, implying roughly 56–59% upside from current levels. 
+- Nvidia is a top holding in major AI-focused ETFs (IETC, TTEQ, SOXQ), underscoring widespread investor exposure to Nvidia’s AI leadership. 
 
-Market optimism rating for NVDA: 
