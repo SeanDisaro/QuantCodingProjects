@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia stock is viewed with strong bullish sentiment across multiple outlets, with about 56% upside targets and a consistent Strong Buy consensus ( Articles 5, 6, and 7).
+- Nvidia remains the dominant force in AI training chips (about 95% market share) with a strong software moat via CUDA, and its Vera Rubin platform is expected to drive roughly a $1 trillion total sales opportunity through 2027. (Articles 4, 6)
 
-- AI compute demand for Nvidia GPUs powering data centers remains robust, with analysts noting that demand trends are intact and potentially contributing to higher valuations ( Article 6; related discussion in Article 5).
+- At the GTC event, Nvidia CEO Jensen Huang projected about $1 trillion in sales from Blackwell and Rubin chips by the end of next year, underscoring continued growth momentum. (Article 6)
 
-- Regulatory/export-control risks could affect Nvidia’s access to China and other markets, creating near-term uncertainty for growth ( Article 7).
+- Regulatory/export risks loom, with U.S. lawmakers urging suspension of Nvidia export licenses to China and certain Southeast Asian intermediaries over alleged diversion of advanced AI chips. (Articles 1, 8)
 
-- Nvidia is a top-weighted holding in major ETFs like VOO and SPY, highlighting broad market exposure to its AI leadership ( Article 8).
+- Nvidia-enabled collaborations and deployments are expanding, including Microsoft’s AI-for-nuclear initiative and widespread use of Nvidia chips in Dell’s new AI PCs and AI data-center servers. (Articles 1, 4, 7)
 
-- Nvidia is a central partner in major AI ecosystems, including OpenAI and Microsoft, underpinning compute infrastructure and collaboration on AI initiatives ( Articles 10 and 3).
+- Market sentiment remains bullish, with Nvidia garnering a Strong Buy consensus (numerous Buy ratings) and a 12-month price target around $273.34, implying substantial upside. (Article 6)
 
-Market optimism rating for Nvidia stock: 
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
