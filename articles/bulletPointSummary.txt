@@ -1,11 +1,6 @@
-- Nvidia remains the dominant force in AI training chips (about 95% market share) with a strong software moat via CUDA, and its Vera Rubin platform is expected to drive roughly a $1 trillion total sales opportunity through 2027. (Articles 4, 6)
+- Nvidia-backed Reflection is in talks to raise about $2.5B at a $25B valuation, signaling strong investor appetite for AI infrastructure ecosystems around NVDA. 
+- Nvidia CEO Jensen Huang was named to the President’s Council of Advisors on Science and Technology, underscoring Nvidia’s influence in AI policy and governance.
+- Nvidia is frequently cited as a top AI stock to watch or consider, highlighting continued market leadership in AI compute.
+- AWS’s Trainium-based price-performance advantage is reported to undercut Nvidia-dependent rivals by around 40%, indicating meaningful competitive pressure on Nvidia’s compute dominance.
+- The rapid rise of AI-driven internet traffic and automation reinforces demand for Nvidia GPUs and AI infrastructure, aligning with ongoing bullish sentiment around NVDA.
 
-- At the GTC event, Nvidia CEO Jensen Huang projected about $1 trillion in sales from Blackwell and Rubin chips by the end of next year, underscoring continued growth momentum. (Article 6)
-
-- Regulatory/export risks loom, with U.S. lawmakers urging suspension of Nvidia export licenses to China and certain Southeast Asian intermediaries over alleged diversion of advanced AI chips. (Articles 1, 8)
-
-- Nvidia-enabled collaborations and deployments are expanding, including Microsoft’s AI-for-nuclear initiative and widespread use of Nvidia chips in Dell’s new AI PCs and AI data-center servers. (Articles 1, 4, 7)
-
-- Market sentiment remains bullish, with Nvidia garnering a Strong Buy consensus (numerous Buy ratings) and a 12-month price target around $273.34, implying substantial upside. (Article 6)
-
-Market optimism rating: 
