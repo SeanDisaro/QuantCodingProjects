@@ -1,10 +1,7 @@
-- NVIDIA (NVDA) option traders are moderately bearish with ~1.96 million contracts traded; IV around 40.65; shares near $166.35; daily move expectation about $4.26; put/call ratio 0.69 and rising put-call skew signaling demand for downside protection.
+- Nvidia and Marvell form a strategic partnership to connect Marvell to the Nvidia AI factory and AI-RAN ecosystem via NVLink Fusion, with Nvidia investing $2B and collaborating on silicon photonics and optical interconnects to enable heterogeneous AI infrastructure.  
+- The deal is seen as expanding Nvidia’s AI ecosystem; Oppenheimer calls it a “vote of confidence” in Marvell, and Nvidia has been investing roughly $2B in multiple AI ecosystem partners (Synopsys, Nebius, Lumentum, Coherent) alongside Marvell, with Outperform ratings on Nvidia and Marvell.  
+- Roth Capital maintains a Buy rating on Marvell (MRVL) with a $135 target after the Nvidia partnership, noting it supports continued strong growth in AI infrastructure for hyperscale customers.  
+- Nvidia-backed Starcloud raises $170M in Series A to build space-based data centers, using Nvidia GPUs; Starcloud is valued around $1.1B, with analysts (TipRanks) projecting roughly 63% upside and a target price near $273.  
+- Nvidia’s central role in AI data centers is underscored by close ties to hardware partners like Super Micro Computer (SMCI), though sentiment around SMCI is clouded by governance and legal concerns affecting investor confidence.  
 
-- NVIDIA posted a revenue record in the last quarter (about $68.1 billion) with very strong margins (around 75%), underscoring AI/data-center strength.
-
-- The stock carries a roughly 35x price-to-earnings multiple, and a 12-month price target of about $273.34 implying roughly 60%+ upside according to analysts.
-
-- NVIDIA is highlighted as a top AI stock to consider by investors, reflecting its perceived leadership in AI and data-center chips among other names.
-
-- NVDA featured among the stocks with the greatest growth in option open interest on a session with heavy overall option volume, signaling heightened market interest. 
-
+Bottom-line rating of market optimism for Nvidia stock: 
