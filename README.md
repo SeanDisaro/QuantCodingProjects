@@ -26,11 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia was an anchor/major participant in OpenAI’s $122 billion funding round, with Nvidia committing about $30 billion, highlighting Nvidia’s central role in AI infrastructure.  
-- Market analysts show strong optimism for Nvidia shares, with a Strong Buy consensus and price targets around $273.34, implying roughly 54% upside from current levels.  
-- Nvidia is expanding its AI ecosystem through partnerships like NVLink Fusion with Marvell Technology to enable high-speed AI rack computing and integrated telecom networks, aligning with Nvidia’s tech stack.  
-- There is notable investor activity around Nvidia, including significant option volume and new positions, signaling bullish positioning by traders.  
-- Geopolitical risk is noted (e.g., threats to U.S. tech firms including Nvidia in the Middle East), but overall sentiment remains highly positive due to AI demand and Nvidia’s market leadership.  
+- TipRanks analysts rate Nvidia (NVDA) as a Strong Buy, alongside META and MSFT. 
+- Google’s Gemma 4 open-source AI models can run on Nvidia H100 GPUs, underscoring Nvidia’s hardware role in advanced AI workloads. 
+- OpenAI’s ChatGPT ads feature Nvidia as a top AI stock to consider, highlighting Nvidia’s prominence in AI platforms. 
+- ARK notes Nvidia GPU shortages could last into 2026, reflecting strong demand for Nvidia GPUs (with CoreWeave’s financing signaling ongoing growth in GPU-enabled AI infra). 
+- AMD references Nvidia’s Ruby architecture as upcoming and expected to drive strong demand, indicating continued competitive momentum for Nvidia’s product roadmap. 
 
 
 <!-- BulletPointEnd -->
