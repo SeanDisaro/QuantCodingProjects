@@ -1,6 +1,10 @@
-- TipRanks analysts rate Nvidia (NVDA) as a Strong Buy, alongside META and MSFT. 
-- Google’s Gemma 4 open-source AI models can run on Nvidia H100 GPUs, underscoring Nvidia’s hardware role in advanced AI workloads. 
-- OpenAI’s ChatGPT ads feature Nvidia as a top AI stock to consider, highlighting Nvidia’s prominence in AI platforms. 
-- ARK notes Nvidia GPU shortages could last into 2026, reflecting strong demand for Nvidia GPUs (with CoreWeave’s financing signaling ongoing growth in GPU-enabled AI infra). 
-- AMD references Nvidia’s Ruby architecture as upcoming and expected to drive strong demand, indicating continued competitive momentum for Nvidia’s product roadmap. 
+- Nvidia faces robust AI-driven GPU demand with tight supply: H100 rental prices jumped about 40% to ~$2.35/hour, Blackwell lead times extend into mid-2026, and demand is driven by AI/media generation and large models. (Article 3)
+
+- Wall Street is highly optimistic on Nvidia with a Strong Buy consensus and around 54% upside to a 12-month target of about $273.57 per share. (Articles 3, 4, 5)
+
+- Some bulls project enormous data-center revenue and potential ultra-high valuations: one investor envisions up to $930B in annual data-center revenue by 2030 and a path to a $20T market cap, aided by future tech like Rubin and higher-throughput tokens per second. (Article 4)
+
+- Nvidia remains the leading force in AI hardware despite near-term competitive cues (e.g., AMD’s MI450 on 2nm); sustained leadership in performance/efficiency and AI monetization could support premium valuations. (Articles 4, 7)
+
+- Nvidia is a core holding in major tech ETFs, highlighting its broad market prominence (e.g., Baron Technology ETF BCTK lists NVDA among its top holdings). (Article 8)
 
