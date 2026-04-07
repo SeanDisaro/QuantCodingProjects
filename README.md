@@ -26,15 +26,15 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia faces robust AI-driven GPU demand with tight supply: H100 rental prices jumped about 40% to ~$2.35/hour, Blackwell lead times extend into mid-2026, and demand is driven by AI/media generation and large models. (Article 3)
+- Nvidia remains a key beneficiary of AI infrastructure growth, with data center revenue expected to grow over 50% next year, signaling strong fundamental momentum. (Article 8)
 
-- Wall Street is highly optimistic on Nvidia with a Strong Buy consensus and around 54% upside to a 12-month target of about $273.57 per share. (Articles 3, 4, 5)
+- Nvidia is a top holding in major ETFs like VOO and VTI, with upside targets around 26% for these funds, underscoring its large market weight. (Articles 5 and 7)
 
-- Some bulls project enormous data-center revenue and potential ultra-high valuations: one investor envisions up to $930B in annual data-center revenue by 2030 and a path to a $20T market cap, aided by future tech like Rubin and higher-throughput tokens per second. (Article 4)
+- BlackRock is launching a Nasdaq-100 ETF (IQQ) that would directly expose investors to Nvidia among other tech giants, increasing Nvidia’s visibility via new fund products. (Article 4)
 
-- Nvidia remains the leading force in AI hardware despite near-term competitive cues (e.g., AMD’s MI450 on 2nm); sustained leadership in performance/efficiency and AI monetization could support premium valuations. (Articles 4, 7)
+- Analysts are highly bullish on Nvidia, with a perfect Smart Score of 10 and expectations of substantial upside across consensus views. (Article 9)
 
-- Nvidia is a core holding in major tech ETFs, highlighting its broad market prominence (e.g., Baron Technology ETF BCTK lists NVDA among its top holdings). (Article 8)
+- The AI server market is expanding rapidly (about 44% annual growth through 2029), reinforcing Nvidia’s data-center/Ai-chip growth trajectory. (Article 8)
 
 
 <!-- BulletPointEnd -->
