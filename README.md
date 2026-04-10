@@ -26,12 +26,12 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia (NVDA) is a central beneficiary of AI data-center demand, with its GPUs driving spiking AI compute needs that also support related memory and data-center investments.  
-- Goldman Sachs views the Magnificent 7, including NVDA, as attractive post-pullback, calling for a “generational buying opportunity” in U.S. tech stocks.  
-- Bank of America raises semiconductor revenue forecasts to about $1.3 trillion for 2026, highlighting NVDA as a leading AI/data-center player with an implied upside target around 50% (NVDA price target of about $273.57).  
-- NVDA appears in Anthropic’s Project Glasswing AI-security collaboration, signaling strong integration within the AI ecosystem and potential broader exposure.  
-- Retail investor flow data show NVDA among major tech names that are seeing slower buying activity as investors rotate toward other sectors, indicating near-term caution despite long-term interest.  
-
+- Nvidia faces intensified competition in GPUs and AI accelerators from AMD (MI300X/MI325X), Intel (Gaudi 3), Google TPUs, and AWS Trainium/Inferentia, which could threaten its AI dominance and growth trajectory.
+- Hyperscalers are diversifying away from Nvidia, with Microsoft pausing Nvidia GPU orders to test AMD/in-house silicon and Meta/Amazon deploying 10–15% non-Nvidia capacity.
+- Nvidia maintains a strong position in data-center GPUs thanks to CUDA and a full-stack AI approach, aiming for up to $1 trillion in revenue by 2027 with systems like Blackwell Ultra and Vera Rubin, and retaining an estimated 85–92% of the data-center GPU market despite rivals closing training-performance gaps.
+- Competitors are closing training-performance gaps and undercutting prices by 20–40%, while supply-chain bottlenecks (e.g., HBM shortages) expose vulnerabilities in Nvidia’s roadmap.
+- Market sentiment remains bullish with Nvidia described as a Strong Buy by analysts and price targets around $273.57 implying roughly 50% upside from current levels, despite a year-to-date modest decline.
+  
 
 <!-- BulletPointEnd -->
 
