@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia faces intensified competition in GPUs and AI accelerators from AMD (MI300X/MI325X), Intel (Gaudi 3), Google TPUs, and AWS Trainium/Inferentia, which could threaten its AI dominance and growth trajectory.
-- Hyperscalers are diversifying away from Nvidia, with Microsoft pausing Nvidia GPU orders to test AMD/in-house silicon and Meta/Amazon deploying 10–15% non-Nvidia capacity.
-- Nvidia maintains a strong position in data-center GPUs thanks to CUDA and a full-stack AI approach, aiming for up to $1 trillion in revenue by 2027 with systems like Blackwell Ultra and Vera Rubin, and retaining an estimated 85–92% of the data-center GPU market despite rivals closing training-performance gaps.
-- Competitors are closing training-performance gaps and undercutting prices by 20–40%, while supply-chain bottlenecks (e.g., HBM shortages) expose vulnerabilities in Nvidia’s roadmap.
-- Market sentiment remains bullish with Nvidia described as a Strong Buy by analysts and price targets around $273.57 implying roughly 50% upside from current levels, despite a year-to-date modest decline.
-  
+- Michael Burry remains bearish on NVDA, having added to his downside-protection via long-dated put options on Nvidia despite AI hype around the sector.
 
+- Nvidia appears as a top holding in both the Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market Index Fund (VTSAX), underscoring its prominence in broad US-market exposure to AI/tech leaders.
+
+- Nvidia is repeatedly highlighted as a leading AI chipmaker in industry discussions (listed alongside AMD/Intel and others), illustrating its central role in AI compute and data-center demand.
+
+- Nvidia is a top holding in AI-focused ETFs such as IGM and BAI, signaling strong investor demand for Nvidia-driven AI exposure within diversified AI portfolios.
+
+- Nvidia is singled out in AI ecosystem coverage as a publicly traded AI stock to watch (e.g., OpenAI/Anthropic context), reflecting its status as a key supplier of hardware to major AI initiatives.
+
+Market optimism rating for Nvidia stock (1 = very unoptimistic, 10 = very optimistic): 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
