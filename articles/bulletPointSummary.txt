@@ -1,11 +1,11 @@
-- Michael Burry remains bearish on NVDA, having added to his downside-protection via long-dated put options on Nvidia despite AI hype around the sector.
+- Nvidia has delivered strong stock momentum: about 70% gains over the past 12 months and more than 10x over five years, with EPS up ~60% in fiscal 2026 and forecast up ~71% in 2027, aided by AI infrastructure growth.
 
-- Nvidia appears as a top holding in both the Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market Index Fund (VTSAX), underscoring its prominence in broad US-market exposure to AI/tech leaders.
+- The upcoming Vera Rubin architecture is expected to be a meaningful upgrade, delivering roughly 3.5x higher performance for large language model training and about 5x improvement in inference versus Blackwell, signaling a new growth leg.
 
-- Nvidia is repeatedly highlighted as a leading AI chipmaker in industry discussions (listed alongside AMD/Intel and others), illustrating its central role in AI compute and data-center demand.
+- AI infrastructure spending is booming: hyperscalers spent about $415B in 2025 and up to $630B in 2026; Nvidia estimates total AI infrastructure spending could reach $3–4 trillion by 2030, reinforcing Nvidia’s leadership position.
 
-- Nvidia is a top holding in AI-focused ETFs such as IGM and BAI, signaling strong investor demand for Nvidia-driven AI exposure within diversified AI portfolios.
+- Nvidia’s market position remains dominant with an estimated 85–90% share in AI chips, with limited erosion from competitors like AMD and in-house chips from Google/Amazon, and ongoing premium pricing supporting its moat.
 
-- Nvidia is singled out in AI ecosystem coverage as a publicly traded AI stock to watch (e.g., OpenAI/Anthropic context), reflecting its status as a key supplier of hardware to major AI initiatives.
+- The Street consensus is very positive: a Strong Buy with about 41 buys and 1 hold/sell; current price target around $273.57 implying roughly 44.5% potential one-year return, supported by the view that Vera Rubin could drive the next growth surge.
 
-Market optimism rating for Nvidia stock (1 = very unoptimistic, 10 = very optimistic): 
+Optimism rating: 
