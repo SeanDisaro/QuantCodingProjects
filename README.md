@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia has delivered strong stock momentum: about 70% gains over the past 12 months and more than 10x over five years, with EPS up ~60% in fiscal 2026 and forecast up ~71% in 2027, aided by AI infrastructure growth.
+- NVIDIA Ising: NVIDIA’s Ising is the world’s first family of open-source quantum AI models, designed to tackle quantum error correction and calibration. It promises up to 2.5x faster performance and 3x higher decoding accuracy, complements CUDA-Q, and positions NVDA as a central player in scalable hybrid quantum-classical systems.
 
-- The upcoming Vera Rubin architecture is expected to be a meaningful upgrade, delivering roughly 3.5x higher performance for large language model training and about 5x improvement in inference versus Blackwell, signaling a new growth leg.
+- Vera Rubin platform demand: The next-generation Vera Rubin AI platform is drawing strong interest from hyperscalers and large enterprises, signaling a major upgrade cycle that could extend NVIDIA’s data-center dominance well into 2027 through improved training and inference performance.
 
-- AI infrastructure spending is booming: hyperscalers spent about $415B in 2025 and up to $630B in 2026; Nvidia estimates total AI infrastructure spending could reach $3–4 trillion by 2030, reinforcing Nvidia’s leadership position.
+- Macro risk relief and operational stability: The Islamabad Accord easing geopolitical tensions around Iran is seen as reducing macro risk, lowering potential supply-chain disruptions and energy costs for power-hungry NVDA data centers.
 
-- Nvidia’s market position remains dominant with an estimated 85–90% share in AI chips, with limited erosion from competitors like AMD and in-house chips from Google/Amazon, and ongoing premium pricing supporting its moat.
+- Bullish market sentiment and upside: Wall Street shows a Strong Buy consensus on NVDA (e.g., 41 Buy, 1 Hold, 1 Sell) with an average target around $273.57, implying roughly 39–41% upside over the next year.
 
-- The Street consensus is very positive: a Strong Buy with about 41 buys and 1 hold/sell; current price target around $273.57 implying roughly 44.5% potential one-year return, supported by the view that Vera Rubin could drive the next growth surge.
+- Broad AI ecosystem momentum: Ising-driven rallies boosted AI infrastructure and memory equities (e.g., IonQ, Rigetti, D-Wave, MU), underscoring the broader adoption of NVDA’s AI hardware stack and the sustained AI capex from hyperscalers (often cited as more than $600 billion this year).
 
-Optimism rating: 
+Rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
