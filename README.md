@@ -26,11 +26,11 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia’s GPUs and CUDA software remain central to the AI ecosystem, with NVDA posting $68 billion revenue last quarter (up 73%) and a GAAP gross margin of 75%; CEO Jensen Huang has suggested the most advanced GPUs could generate up to $1 trillion in revenue through 2027.  
-- Analysts are broadly very bullish on Nvidia, with strong buy consensus and target prices suggesting roughly 38–39% upside over the next year (e.g., targets around $273–$274).  
-- Nvidia is a core enabler in large AI compute deals, such as CoreWeave’s $6 billion agreement leveraging Nvidia’s Vera Rubin technology, plus a $1 billion Jane Street investment and partnerships with Meta and Anthropic.  
-- Nvidia is frequently highlighted as a top AI stock with significant upside in market coverage, often cited as having among the highest upside targets in AI-chips coverage.  
-- The AI data-center landscape is increasingly competitive, with rivals (and even Nvidia’s peers) entering CPUs/AI chips; this competitive pressure is noted by analysts, though Nvidia remains a favored, high-conviction name.  
+- Nvidia’s Vera Rubin platform is being deployed in large AI infrastructure deals (e.g., Meta and Nebius), underscoring Nvidia’s role in real-world, cloud-scale AI deployments.
+- Nvidia-anchored ecosystem growth via Marvell: Nvidia invested $2 billion in Marvell and a NVLink Fusion partnership to scale semi-custom AI accelerators, expanding Nvidia’s data-center and interconnect footprint.
+- Nvidia stock sentiment remains very bullish: consensus Strong Buy with about 41 Buy, 1 Hold, 1 Sell; average target around $273.57 implying roughly 36% upside.
+- Nvidia is a driver in quantum computing momentum: Nvidia’s quantum‑AI Ising models are contributing to renewed interest in quantum-related plays and the potential start of a quantum growth cycle.
+- Nvidia’s market footprint in major ETFs: NVDA is a top holding in broad-market ETFs like VOO (and related funds such as VOOG/VOOV), signaling strong passive‑fund demand and wide market exposure to Nvidia’s growth. 
 
 
 <!-- BulletPointEnd -->
