@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia’s Vera Rubin platform is being deployed in large AI infrastructure deals (e.g., Meta and Nebius), underscoring Nvidia’s role in real-world, cloud-scale AI deployments.
-- Nvidia-anchored ecosystem growth via Marvell: Nvidia invested $2 billion in Marvell and a NVLink Fusion partnership to scale semi-custom AI accelerators, expanding Nvidia’s data-center and interconnect footprint.
-- Nvidia stock sentiment remains very bullish: consensus Strong Buy with about 41 Buy, 1 Hold, 1 Sell; average target around $273.57 implying roughly 36% upside.
-- Nvidia is a driver in quantum computing momentum: Nvidia’s quantum‑AI Ising models are contributing to renewed interest in quantum-related plays and the potential start of a quantum growth cycle.
-- Nvidia’s market footprint in major ETFs: NVDA is a top holding in broad-market ETFs like VOO (and related funds such as VOOG/VOOV), signaling strong passive‑fund demand and wide market exposure to Nvidia’s growth. 
+- Nvidia (NVDA) is developing its own Co-Packaged Optics (CPO) technology for the Vera Rubin AI accelerators, signaling ongoing hardware innovation and competition in AI workloads (Article 6).
 
+- Nvidia is a key enterprise partner in Adobe’s CX Enterprise ecosystem, with the Nvidia Agent Toolkit powering CX Enterprise Coworker and OpenShell integration to coordinate multi-agent AI workflows (Articles 5 and 9).
 
+- Nvidia is highlighted as the dominant AI chip leader in the market, with Cerebras positioned as a rival in the IPO landscape and NVDA’s continued market dominance noted in analysis coverage (Article 10).
+
+- There is strong investor interest in NVDA options, including large open interest in NVDA calls and notable 5/8 weekly call activity, indicating bullish sentiment from options traders (Article 8).
+
+- Analysts remain bullish on Nvidia, with TipRanks citing a Strong Buy rating and a 12-month price target around $273, implying significant upside (Article 10).
+
+Optimism rating for NVDA stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
