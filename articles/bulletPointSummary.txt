@@ -1,10 +1,7 @@
-- NVIDIA remains the face of the AI hardware boom, with rising GPU demand and increasing memory content per GPU as hyperscalers build out AI clusters (HBM tightness reinforces Nvidia’s AI hardware role). (Articles 1, 2)
+- Oracle canceled a major AI-infrastructure deal with Super Micro (SMCI) that would have used Nvidia chips in 300–400 AI racks, worth about $1.1–$1.4 billion; Oracle may steer business to competitors amid regulatory concerns around Nvidia chips to China. 
+- BlueFin Research flagged excess inventory of older Nvidia GPUs at SMCI, signaling potential near-term headwinds for Nvidia’s GPU demand.
+- Oklo’s new nuclear-energy collaboration with Nvidia and Los Alamos National Laboratory aims to combine AI compute with nuclear research, accelerating AI-enabled energy projects and supporting data-center AI infrastructure.
+- Analysts highlighted Nvidia-related upside in Oklo: HSBC initiated a Buy on Oklo with a $96 target (roughly 26% upside), and TipRanks commentary pegged Oklo’s upside around the high single digits to ~20% via price targets around $91.50, driven by the Nvidia deal.
+- SK Hynix’s blowout results underscored persistent AI-data-center demand, with Nvidia (NVDA) positioned to benefit as a primary supplier; TipRanks notes NVDA’s upside potential around 35%, signaling strong near-term sentiment for Nvidia in the AI-chip space.
 
-- Enterprise GPU demand is accelerating, exemplified by Iren’s purchase agreement to expand its Nvidia GPU fleet to about 150,000 units, signaling large-scale GPU deployments. (Article 4)
-
-- U.S.-China export controls add near-term uncertainty for Nvidia, potentially delaying H200 shipments to China even as interest and orders persist. (Article 9)
-
-- Cloud providers are developing competitive AI accelerators (e.g., Google’s TPU 8t/8i and related Marvell chips), highlighting ongoing competition with Nvidia GPUs in the AI compute space. (Article 7)
-
-- Analysts are broadly bullish on Nvidia, with strong buy consensus and price targets implying meaningful upside (e.g., ~36% upside to a target around $273.57). (Article 9)
-
+Optimism rating for Nvidia stock: 
