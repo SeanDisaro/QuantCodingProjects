@@ -26,13 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Oracle canceled a major AI-infrastructure deal with Super Micro (SMCI) that would have used Nvidia chips in 300–400 AI racks, worth about $1.1–$1.4 billion; Oracle may steer business to competitors amid regulatory concerns around Nvidia chips to China. 
-- BlueFin Research flagged excess inventory of older Nvidia GPUs at SMCI, signaling potential near-term headwinds for Nvidia’s GPU demand.
-- Oklo’s new nuclear-energy collaboration with Nvidia and Los Alamos National Laboratory aims to combine AI compute with nuclear research, accelerating AI-enabled energy projects and supporting data-center AI infrastructure.
-- Analysts highlighted Nvidia-related upside in Oklo: HSBC initiated a Buy on Oklo with a $96 target (roughly 26% upside), and TipRanks commentary pegged Oklo’s upside around the high single digits to ~20% via price targets around $91.50, driven by the Nvidia deal.
-- SK Hynix’s blowout results underscored persistent AI-data-center demand, with Nvidia (NVDA) positioned to benefit as a primary supplier; TipRanks notes NVDA’s upside potential around 35%, signaling strong near-term sentiment for Nvidia in the AI-chip space.
+- Nvidia Drive Hyperion: Pony AI’s new autonomous driving domain controller runs on Nvidia Drive Hyperion with NVLink and NVDA-powered hardware, signaling strong growth for Nvidia’s automotive AI platform.
 
-Optimism rating for Nvidia stock: 
+- Broad market exposure: Nvidia is a top holding in major low-cost funds (FXAIX and VOO), underscoring its prominence in broad U.S. equity exposure.
+
+- AI supply-chain prominence and risk: Analysts point to Nvidia as a central figure in the global chip ecosystem, with policy shifts and domestic-chip initiatives potentially impacting Nvidia’s risk/reward.
+
+- Cross-industry partnerships and applications: Nvidia is expanding beyond traditional chips through ties like Oklo’s nuclear-energy deal and its Holoscan platform underpinning brain-computer interface ecosystems.
+
+- Extreme bullishness on valuation: Nvidia recently surpassed a $5 trillion market cap, with a Strong Buy consensus and a price target around $273.57, implying roughly 31% upside from recent levels.
+
+Market optimism rating (1-10): 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
