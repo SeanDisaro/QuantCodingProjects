@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia Drive Hyperion: Pony AI’s new autonomous driving domain controller runs on Nvidia Drive Hyperion with NVLink and NVDA-powered hardware, signaling strong growth for Nvidia’s automotive AI platform.
+- Nvidia is positioned for strong cash returns, with BofA's Vivek Arya forecasting more than $400 billion in free cash flow in 2026–2027 and suggesting higher shareholder returns (dividends/buybacks) as AI capex winds down. The stock trades at under 20x 2027 earnings, well below Magnificent Seven peers, implying room for multiple expansion.
 
-- Broad market exposure: Nvidia is a top holding in major low-cost funds (FXAIX and VOO), underscoring its prominence in broad U.S. equity exposure.
+- Wall Street remains broadly bullish on Nvidia: a strong buy consensus (as noted by multiple analysts) with average price targets in the $270–$300 range, implying roughly 30% or more upside from current levels.
 
-- AI supply-chain prominence and risk: Analysts point to Nvidia as a central figure in the global chip ecosystem, with policy shifts and domestic-chip initiatives potentially impacting Nvidia’s risk/reward.
+- Nvidia GPUs are increasingly embedded in AI infrastructure deals and data-center builds: Iren/Microsoft’s access to Nvidia GB300 GPUs, LiveRamp using Nvidia GPUs to accelerate AI training on its platform (with a target around $36.2 and ~21% upside), and Singapore-based Mistral AI planning to buy Nvidia chips for data-center deployments.
 
-- Cross-industry partnerships and applications: Nvidia is expanding beyond traditional chips through ties like Oklo’s nuclear-energy deal and its Holoscan platform underpinning brain-computer interface ecosystems.
+- Nvidia’s market leadership and deep supply advantages are underscored by rival commentary: AMD notes Nvidia remains the dominant player, securing a large share of chip supply from TSMC, which could constrain AMD’s growth and help sustain Nvidia’s pricing/margins.
 
-- Extreme bullishness on valuation: Nvidia recently surpassed a $5 trillion market cap, with a Strong Buy consensus and a price target around $273.57, implying roughly 31% upside from recent levels.
+- The AI data-center financing backdrop further supports Nvidia’s growth runway: debt-financed AI infra projects tied to Nvidia (and related data-center developments) signal strong capital demand for Nvidia-powered infrastructure, reinforcing the broader bull case for Nvidia’s ecosystem and growth trajectory.
 
-Market optimism rating (1-10): 
+Market optimism rating: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
