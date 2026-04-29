@@ -26,17 +26,17 @@ If you want to understand how this animation was created, then you can check out
 
 ## Daily Updated Bullet Points for Sentiment Analysis for NVIDIA stock
 <!-- BulletPointStart -->
-- Nvidia is positioned for strong cash returns, with BofA's Vivek Arya forecasting more than $400 billion in free cash flow in 2026–2027 and suggesting higher shareholder returns (dividends/buybacks) as AI capex winds down. The stock trades at under 20x 2027 earnings, well below Magnificent Seven peers, implying room for multiple expansion.
+- NVDA options data show mixed sentiment with calls slightly favored over puts; stock near $209.56, IV around 44.9, suggesting an expected daily move of about $5.92 and some downside protection demand. (Article 4)
 
-- Wall Street remains broadly bullish on Nvidia: a strong buy consensus (as noted by multiple analysts) with average price targets in the $270–$300 range, implying roughly 30% or more upside from current levels.
+- NVDA has been a leader in the AI rally, with the stock up about 12% on strong AI demand, helping it outperform peers in the Magnificent Seven. (Article 5)
 
-- Nvidia GPUs are increasingly embedded in AI infrastructure deals and data-center builds: Iren/Microsoft’s access to Nvidia GB300 GPUs, LiveRamp using Nvidia GPUs to accelerate AI training on its platform (with a target around $36.2 and ~21% upside), and Singapore-based Mistral AI planning to buy Nvidia chips for data-center deployments.
+- Bank of America Securities’ Vivek Arya reiterated a Buy on Nvidia, with the stock carrying a Strong Buy consensus and a price target around $274.38, implying roughly 31% upside. (Article 8)
 
-- Nvidia’s market leadership and deep supply advantages are underscored by rival commentary: AMD notes Nvidia remains the dominant player, securing a large share of chip supply from TSMC, which could constrain AMD’s growth and help sustain Nvidia’s pricing/margins.
+- Nvidia’s fiscal Q4 results showed revenue of $68.1 billion (up 73% YoY) and margins of 75%, reinforcing the bull case; the 12-month target remains around $274.38, signaling ~29–31% upside. (Article 9)
 
-- The AI data-center financing backdrop further supports Nvidia’s growth runway: debt-financed AI infra projects tied to Nvidia (and related data-center developments) signal strong capital demand for Nvidia-powered infrastructure, reinforcing the broader bull case for Nvidia’s ecosystem and growth trajectory.
+- There is notable options activity surrounding NVDA, including large positions in May-26 210 calls, indicating bullish bets and continued investor interest in upside potential. (Article 10)
 
-Market optimism rating: 
+Optimism rating for Nvidia stock: 
 <!-- BulletPointEnd -->
 
 These Bullet Points get updated after every trading day. They are based on news articles from [News Articles about Nvidia](https://markets.businessinsider.com/news/nvda-stock). They get summarized by ChatGPT into the bullet points above and on top of that ChatGPT gives an optimism ranking from 1-10 for the Nvidia stock based on the articles, which is displayed above.
