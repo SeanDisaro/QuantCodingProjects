@@ -1,11 +1,10 @@
-- NVDA options data show mixed sentiment with calls slightly favored over puts; stock near $209.56, IV around 44.9, suggesting an expected daily move of about $5.92 and some downside protection demand. (Article 4)
+- NVIDIA will report Q1 FY2027 results and hold a May 20 conference call; CFO Colette Kress will provide prepared remarks, with a live webcast and a replay available; the company is described as a world leader in AI and accelerated computing.
 
-- NVDA has been a leader in the AI rally, with the stock up about 12% on strong AI demand, helping it outperform peers in the Magnificent Seven. (Article 5)
+- AWS CEO Andy Jassy says Nvidia remains a core partner for AI workloads, with Trainium, Graviton, and Nvidia GPUs powering AWS; AWS will continue to place substantial orders and values offering customers choice.
 
-- Bank of America Securities’ Vivek Arya reiterated a Buy on Nvidia, with the stock carrying a Strong Buy consensus and a price target around $274.38, implying roughly 31% upside. (Article 8)
+- Nvidia’s capex jumped about 87% year over year to $6.04 billion, and the company is aiming to reach at least $1 trillion in revenue by 2027, driven by demand for Blackwell and Vera Rubin data center systems.
 
-- Nvidia’s fiscal Q4 results showed revenue of $68.1 billion (up 73% YoY) and margins of 75%, reinforcing the bull case; the 12-month target remains around $274.38, signaling ~29–31% upside. (Article 9)
+- Analysts view Nvidia positively, with TipRanks noting a Strong Buy rating and roughly 23.9% upside potential.
 
-- There is notable options activity surrounding NVDA, including large positions in May-26 210 calls, indicating bullish bets and continued investor interest in upside potential. (Article 10)
+- Nvidia is active in the options market, showing notable NVDA-related activity including large weekly call trades and substantial overall option volume, signaling strong investor interest. 
 
-Optimism rating for Nvidia stock: 
